@@ -1,0 +1,2408 @@
+[
+    {
+        "post_title": "Is it safe to update?",
+        "post_score": 0,
+        "post_id": "1ddn5bc",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddn5bc/is_it_safe_to_update/",
+        "post_numComments": 6,
+        "post_dateTime": "2024-06-11 21:43:34",
+        "post_text": "i've had my iphone 11 for about 3 years and at some point i just stopped updating it due to never having enough storage to do so, also kinda forgot, so i'm on ios 15.6.1 and i keep getting notifications about upgrading to 17.5.1. like ill get popups when using my phone about updating and when i click later, it tries to schedule an automatic update when connected to power at a certain time in the morning and ive delayed it for a couple days and it keeps lengthening the time window that itll update in when i have it charging. i was just wondering if it would be safe to update it since it's such a jump in versions, like i know the upgraded home screen with the new layout was multiple updates ago maybe and i dont even have that yet. i'm worried ir could break my phone or something, and i won't be able to back up my photos at least due to not enough icloud storage. equally i'm scared that it might reset or clear the cache on my apps for social media accounts that ngl i dont remember the password for. is it fine to let it update?",
+        "post_comments": [
+            {
+                "comment_id": "l8633lg",
+                "comment_body": "Updating is perfectly safe and you won't lose any data. You'll also stay logged in to all your apps and social networks.\nYour phone might get slower though as iOS 17 is more resource intensive than 15.\n\nIn my opinion iOS 15 was the last stable version as both 16 and 17 have given me tons of problems. So as long as you are aware of the security voulnrabilites of staying on such old software, my suggestion would be to wait for the iOS 18 update.",
+                "comment_author": "Initial-Middle446",
+                "comment_dateTime": "2024-06-11 22:17:21",
+                "comment_score": 2,
+                "replies": [
+                    {
+                        "comment_id": "l863idh",
+                        "comment_body": "also it keeps wanting to automatically update when its connected to power at night so im not sure how im gonna avoid updating",
+                        "comment_author": "SeriesEffective1125",
+                        "comment_dateTime": "2024-06-11 22:19:37",
+                        "comment_score": 2,
+                        "replies": [
+                            {
+                                "comment_id": "l864zx2",
+                                "comment_body": "If you want to update do it, I guarantee you it's perfectly safe.\nIt doesn't matter how much of a gap there is between updates as iOS completely rewrites the operating system when you update while saving all your personal information.\nThat's why unlike android where you need to install all the updates you missed, on iOS if you skip several it just offers you the latest one.\nI waited a whole year before updating my ipad and I had no issues. \nI recommended you wait only because iOS 17 has been really buggy for me but that could be subjective.\nAlso if you want to stop it from updating while on power, go into settings -> general -> storage, find the update and delete it from the phone",
+                                "comment_author": "Initial-Middle446",
+                                "comment_dateTime": "2024-06-11 22:27:49",
+                                "comment_score": 2,
+                                "replies": []
+                            }
+                        ]
+                    },
+                    {
+                        "comment_id": "l863fe2",
+                        "comment_body": "yeah i just thought that jumping from 15 to 17 would cause my phone to break or something, if i wait for 18 would it not be more likely for something to go wrong since there’s even more of a gap in the versions?",
+                        "comment_author": "SeriesEffective1125",
+                        "comment_dateTime": "2024-06-11 22:19:10",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l861l2e",
+                "comment_body": "I’m still using 17.3.1 with no issues on 15PM I’m not updating",
+                "comment_author": "Effective-Care-547",
+                "comment_dateTime": "2024-06-11 22:09:07",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l861toc",
+                        "comment_body": "yeah it was the gap in versions that worried me like going from ios15 to 17 in one update, you’re sure that wouldnt cause an issue?",
+                        "comment_author": "SeriesEffective1125",
+                        "comment_dateTime": "2024-06-11 22:10:24",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l863idh",
+                "comment_body": "also it keeps wanting to automatically update when its connected to power at night so im not sure how im gonna avoid updating",
+                "comment_author": "SeriesEffective1125",
+                "comment_dateTime": "2024-06-11 22:19:37",
+                "comment_score": 2,
+                "replies": [
+                    {
+                        "comment_id": "l864zx2",
+                        "comment_body": "If you want to update do it, I guarantee you it's perfectly safe.\nIt doesn't matter how much of a gap there is between updates as iOS completely rewrites the operating system when you update while saving all your personal information.\nThat's why unlike android where you need to install all the updates you missed, on iOS if you skip several it just offers you the latest one.\nI waited a whole year before updating my ipad and I had no issues. \nI recommended you wait only because iOS 17 has been really buggy for me but that could be subjective.\nAlso if you want to stop it from updating while on power, go into settings -> general -> storage, find the update and delete it from the phone",
+                        "comment_author": "Initial-Middle446",
+                        "comment_dateTime": "2024-06-11 22:27:49",
+                        "comment_score": 2,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l863fe2",
+                "comment_body": "yeah i just thought that jumping from 15 to 17 would cause my phone to break or something, if i wait for 18 would it not be more likely for something to go wrong since there’s even more of a gap in the versions?",
+                "comment_author": "SeriesEffective1125",
+                "comment_dateTime": "2024-06-11 22:19:10",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l861toc",
+                "comment_body": "yeah it was the gap in versions that worried me like going from ios15 to 17 in one update, you’re sure that wouldnt cause an issue?",
+                "comment_author": "SeriesEffective1125",
+                "comment_dateTime": "2024-06-11 22:10:24",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l864zx2",
+                "comment_body": "If you want to update do it, I guarantee you it's perfectly safe.\nIt doesn't matter how much of a gap there is between updates as iOS completely rewrites the operating system when you update while saving all your personal information.\nThat's why unlike android where you need to install all the updates you missed, on iOS if you skip several it just offers you the latest one.\nI waited a whole year before updating my ipad and I had no issues. \nI recommended you wait only because iOS 17 has been really buggy for me but that could be subjective.\nAlso if you want to stop it from updating while on power, go into settings -> general -> storage, find the update and delete it from the phone",
+                "comment_author": "Initial-Middle446",
+                "comment_dateTime": "2024-06-11 22:27:49",
+                "comment_score": 2,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Most seamless way to set up new iPhone?",
+        "post_score": 0,
+        "post_id": "1ddmp9v",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddmp9v/most_seamless_way_to_set_up_new_iphone/",
+        "post_numComments": 4,
+        "post_dateTime": "2024-06-11 21:25:23",
+        "post_text": "I damaged my iPhone and got a full replacement device. The old one is still functional, so I can access it however I need. But I seem to remember doing one method in the past (iCloud restore?) which basically seemed to tell the iPhone to download your apps, but then it was like I had just downloaded them for the first time, and I had to log in and set each one back up. Is there a method which will just do a 1:1 restore that's totally seamless?",
+        "post_comments": [
+            {
+                "comment_id": "l85uy1h",
+                "comment_body": "if the old phone works, 2 ways. either will work fine\n\nfirst, transfer from iPhone to iPhone. takes longer but is pretty reliable (as long as the old phone doesn't turn off or reset itself)\n\nsecond is having a backup on the old phone, restoring backup on the new phone (you can create the free temporary backup by going to settings>general>transfer or reset iPhone>get started) this is faster, but biggest con for me is photos will take a while before they all appear.",
+                "comment_author": "dayankuo234",
+                "comment_dateTime": "2024-06-11 21:32:24",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l86i244",
+                        "comment_body": "I did the iPhone to iPhone transfer. Unfortunately it did exactly what I tried to avoid: re-downloaded all my apps and I had to log back into all of them. Maybe it's just not possible.",
+                        "comment_author": "rvH3Ah8zFtRX",
+                        "comment_dateTime": "2024-06-11 23:42:06",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l874kqk",
+                                "comment_body": "A password protected backup via iTunes will keep everything identical including saved PWs and apps logged in.",
+                                "comment_author": "reddittAcct9876154",
+                                "comment_dateTime": "2024-06-12 02:08:45",
+                                "comment_score": 1,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l889jr1",
+                "comment_body": "If you have a computer, you can back up the old phone to the computer, telling the computer to passcode the backup. This will preserve logins and app passcodes. Then restore the new phone from that backup. If you don't passcode the backup, the passwords for the apps won't get saved.",
+                "comment_author": "RetiredBSN",
+                "comment_dateTime": "2024-06-12 07:27:05",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l86i244",
+                "comment_body": "I did the iPhone to iPhone transfer. Unfortunately it did exactly what I tried to avoid: re-downloaded all my apps and I had to log back into all of them. Maybe it's just not possible.",
+                "comment_author": "rvH3Ah8zFtRX",
+                "comment_dateTime": "2024-06-11 23:42:06",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l874kqk",
+                        "comment_body": "A password protected backup via iTunes will keep everything identical including saved PWs and apps logged in.",
+                        "comment_author": "reddittAcct9876154",
+                        "comment_dateTime": "2024-06-12 02:08:45",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l874kqk",
+                "comment_body": "A password protected backup via iTunes will keep everything identical including saved PWs and apps logged in.",
+                "comment_author": "reddittAcct9876154",
+                "comment_dateTime": "2024-06-12 02:08:45",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "How to recover deep hidden data from an app that’s been deleted from app-store? App no longer available in previously installed list also",
+        "post_score": 7,
+        "post_id": "1ddm4nw",
+        "post_url": "https://i.redd.it/yuq3nbf3qz5d1.jpeg",
+        "post_numComments": 5,
+        "post_dateTime": "2024-06-11 21:01:59",
+        "post_text": "",
+        "post_comments": [
+            {
+                "comment_id": "l86yhsa",
+                "comment_body": "Try backing up the app data using iMazing and extract the backup that was made and you can browse the data",
+                "comment_author": "ytfanboiii_exe",
+                "comment_dateTime": "2024-06-12 01:26:51",
+                "comment_score": 5,
+                "replies": [
+                    {
+                        "comment_id": "l8qawl2",
+                        "comment_body": "Will try and get back.. Thank you",
+                        "comment_author": "AwwwItsMe",
+                        "comment_dateTime": "2024-06-15 16:50:48",
+                        "comment_score": 2,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l86uo5t",
+                "comment_body": "Googles ur best friend in this situation.",
+                "comment_author": "tlasan1",
+                "comment_dateTime": "2024-06-12 01:01:25",
+                "comment_score": 2,
+                "replies": []
+            },
+            {
+                "comment_id": "l8qawl2",
+                "comment_body": "Will try and get back.. Thank you",
+                "comment_author": "AwwwItsMe",
+                "comment_dateTime": "2024-06-15 16:50:48",
+                "comment_score": 2,
+                "replies": []
+            },
+            {
+                "comment_id": "l85r3v2",
+                "comment_body": "Pls allow this post @moderators",
+                "comment_author": "AwwwItsMe",
+                "comment_dateTime": "2024-06-11 21:10:54",
+                "comment_score": 3,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Why does my phone have nearly no space due to “iCloud Drive” taking up 22 gbs??? I only have 5 gb of iCloud storage anyways!",
+        "post_score": 1,
+        "post_id": "1ddlwf1",
+        "post_url": "https://i.redd.it/25hdevwgoz5d1.jpeg",
+        "post_numComments": 1,
+        "post_dateTime": "2024-06-11 20:52:52",
+        "post_text": "",
+        "post_comments": [
+            {
+                "comment_id": "l85puze",
+                "comment_body": "Also, I looked through the files app. Can’t find anything taking up 20 gbs.",
+                "comment_author": "The1AndOnly67",
+                "comment_dateTime": "2024-06-11 21:03:59",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Could someone help with this",
+        "post_score": 1,
+        "post_id": "1ddlyu1",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddlyu1/could_someone_help_with_this/",
+        "post_numComments": 3,
+        "post_dateTime": "2024-06-11 20:55:34",
+        "post_text": "Recently my notes app just stopped working. No clue why or how, but it randomly closed on me and now I can’t open it again. I tried restarting my phone, offloading and reinstalling the notes app, unsyncing and resyncing my notes, sending messages from my texts to the notes app to force open it(which it won’t even let me do anymore), and even asking Siri to force me into the app. I can’t force close the app because after I open it, it keeps force closing itself. I understand my phone is old and maybe I don’t update it enough(i tend to ignore updates, I updated a year and a half ago from 1.14 straight to 1.16 and don’t remember the least time I updated again). Can anyone tell me what could the problem be? This is a iPhone 8 btw, if that at all effects the problem.",
+        "post_comments": [
+            {
+                "comment_id": "l85sima",
+                "comment_body": "is your icloud storage and/or phone storage full? when either or both get full, weird things start to happen. icloud storage full: can receive emails, photos may not back up, etc. phone storage full, basic functions start to glitch, or not work at all (my example is for most tech devices, imagine your storage is a room, and information is stored in packing boxes. you need at least 90-95 for phone to do usual functions (enough empty space to walk into a room and move boxes around), if at 99-100%, you have no space to walk into the room, so you can't do any work.",
+                "comment_author": "dayankuo234",
+                "comment_dateTime": "2024-06-11 21:18:48",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l86jb0p",
+                        "comment_body": "My phone storage is fine. I make it a habit to regularly check it and offload or delete apps I don’t currently need. As for my iCloud storage, I don’t really know, but I don’t see why that should cause my notes to crash. Wouldn’t it be the same for photos and messages and such if that were the case? Those take up much more memory than my notes.",
+                        "comment_author": "Key-Literature-2134",
+                        "comment_dateTime": "2024-06-11 23:49:32",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l86jb0p",
+                "comment_body": "My phone storage is fine. I make it a habit to regularly check it and offload or delete apps I don’t currently need. As for my iCloud storage, I don’t really know, but I don’t see why that should cause my notes to crash. Wouldn’t it be the same for photos and messages and such if that were the case? Those take up much more memory than my notes.",
+                "comment_author": "Key-Literature-2134",
+                "comment_dateTime": "2024-06-11 23:49:32",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Is it possible to set time limits base on time of day?",
+        "post_score": 1,
+        "post_id": "1ddlsuj",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddlsuj/is_it_possible_to_set_time_limits_base_on_time_of/",
+        "post_numComments": 2,
+        "post_dateTime": "2024-06-11 20:48:55",
+        "post_text": "So in my everlasting fight against social media addictions I've used time limits before to varying degrees of success, and I think a more effective method for me would be to block the apps at certain times instead of limiting the time I can use them.\n\n  \nFor example, blocking social media for the first hour after I wake, the entire work day and a few hours before going to bed would result in me being able to use social media during my commute and after work, but would avoid doom scrolling in bed in the morning and at night, as well as procrastinating during productive hours, and I think that is better than say giving myself an hour of social media per day, as I find I tend to use my allowed time in moments when I shouldn't.",
+        "post_comments": [
+            {
+                "comment_id": "l86l89e",
+                "comment_body": "Try settings - screen time - downtime - and toggle on the “Block at Downtime” feature. You can turn on “scheduled” to customize the times and days you want to turn this on for. Then you can go back to “Always Allowed” to allow which apps you want to allow yourself to use during that time.",
+                "comment_author": "THROWRA_MillyBee",
+                "comment_dateTime": "2024-06-12 00:01:09",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l87o8xl",
+                        "comment_body": "Worked like a charm. Thanks!",
+                        "comment_author": "el_ktire",
+                        "comment_dateTime": "2024-06-12 04:30:00",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l87o8xl",
+                "comment_body": "Worked like a charm. Thanks!",
+                "comment_author": "el_ktire",
+                "comment_dateTime": "2024-06-12 04:30:00",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "deleting apple ID primary address",
+        "post_score": 2,
+        "post_id": "1ddlbic",
+        "post_url": "https://i.redd.it/i7800peakz5d1.jpeg",
+        "post_numComments": 1,
+        "post_dateTime": "2024-06-11 20:29:25",
+        "post_text": "Not sure if this is the appropriate subreddit but i’ll give it a shot. I have undergone a name change, meaning the original icloud address i created for my apple ID no longer reflects that and I would like to delete it, but from what I have read online that is not possible. On my device the @gmail.com is what is associated with all of my accounts, but upon signing into my iCloud account, the address i wish to delete is the primary. Even after setting up an alias I am unable to delete it.\n\nIs this in any way possible to do, and if not will I be able to transfer all of my data to a new apple ID account entirely with new icloud address? i appreciate any help. \n",
+        "post_comments": [
+            {
+                "comment_id": "l8a9963",
+                "comment_body": "Thats why we use the cool name emails we made while 15 to use as primary emails for everything",
+                "comment_author": "dimensions_fly",
+                "comment_dateTime": "2024-06-12 17:44:37",
+                "comment_score": 2,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Storage is full, but I already pay for iCloud+",
+        "post_score": 1,
+        "post_id": "1ddl536",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddl536/storage_is_full_but_i_already_pay_for_icloud/",
+        "post_numComments": 1,
+        "post_dateTime": "2024-06-11 20:22:01",
+        "post_text": "I pay for iCloud+ storage and still have a lot of space left on that. I do have optimizer or whatever it's called turned on for my photos. However, I'm getting notifications that my phone storage is full. The worst of it is messages (35GB.. scared to delete messages in case I need to look back on something! but maybe I should just delete all texts and start fresh..), photos (13 GB) and Spotify (10 GB). Is there anything else I can do? Going through my 40k photos and deleting seems like a huge waste of time. Thank you!",
+        "post_comments": [
+            {
+                "comment_id": "l85mtu6",
+                "comment_body": "1. Deleted Spotify downloads. I don’t think you *need* access to 10GB worth of songs in the event you don’t have service. \n\n2. Delete large attachments in your messages (this can be done in settings).",
+                "comment_author": "HAND_HOOK_CAR_DOOR",
+                "comment_dateTime": "2024-06-11 20:47:16",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "How do I fix it saying Apple Watch disconnected for mirroring? (iOS 18 Developer Beta)",
+        "post_score": 1,
+        "post_id": "1ddkneg",
+        "post_url": "https://i.redd.it/zntkcviifz5d1.jpeg",
+        "post_numComments": 3,
+        "post_dateTime": "2024-06-11 20:02:40",
+        "post_text": "",
+        "post_comments": [
+            {
+                "comment_id": "l85fqsn",
+                "comment_body": "/r/iosbeta",
+                "comment_author": "Gryphon-63",
+                "comment_dateTime": "2024-06-11 20:08:21",
+                "comment_score": 2,
+                "replies": []
+            },
+            {
+                "comment_id": "l85oqcy",
+                "comment_body": "It’s possible it’s just too buggy to use right now. I couldn’t get it to work either, but I also haven’t installed the beta on my watch.",
+                "comment_author": "TimidPanther",
+                "comment_dateTime": "2024-06-11 20:57:41",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "iPhone 13 refurb fail",
+        "post_score": 0,
+        "post_id": "1ddkib4",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddkib4/iphone_13_refurb_fail/",
+        "post_numComments": 2,
+        "post_dateTime": "2024-06-11 19:57:05",
+        "post_text": "I needed a new iPhone after my iPhone 7 terminally failed. It was overdue but I didn’t have $1k to spare. So I went to back market online to replace my dead fossil. I used them to buy a refurb laptop recently and it was great.\n\nIt wasn’t so great when I opened the box on a iPhone 13 Plus Max. First reaction was that all corners of the phone were scratched up. Badly. When I turned it on the settings screen had an alert—not a genuine Apple display! The message warned me of potential problems. Maybe this is an Apple scare tactic but if so it worked.\n\nSo the back market return procedure is so complex, poorly described and demanding, that it truly seems like an intentional discouragement. And the shipping return goes directly to the refurbisher who I expect is going to do everything possible to shutdown a refund.\n\nIt requires no less than 7 pictures of the device, and I don’t understand how a phone can take photos of itself? The process takes three screens of directions on my desktop monitor!\n\nThe problem is essentially due to the hands off business model of back market. The products offered on the BM site are not in the hands of the BM staff. They are listings from independent refurbished. BM collects the price, collects their cut and sends the refurbisher what’s left. They probably already listed by purchase as profit.\n\nCall BM support and they simply tell you to manage the process yourself on their website. “Thanks a lot” for the lousy service, back market. I guess it’s my $700 mistake now. Never again.\n",
+        "post_comments": [
+            {
+                "comment_id": "l85fy8f",
+                "comment_body": "Refurb marketplaces can be a gamble, did you research the seller before buying?",
+                "comment_author": "DolorumDerideo9005",
+                "comment_dateTime": "2024-06-11 20:09:31",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l85gek6",
+                        "comment_body": "Of course I did before I bought a laptop from them. The laptop purchase was made before the iPhone and there were no problems then.",
+                        "comment_author": "sayheytoyamom",
+                        "comment_dateTime": "2024-06-11 20:12:01",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l85gek6",
+                "comment_body": "Of course I did before I bought a laptop from them. The laptop purchase was made before the iPhone and there were no problems then.",
+                "comment_author": "sayheytoyamom",
+                "comment_dateTime": "2024-06-11 20:12:01",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "IPhone 12 mini heating up during FaceTime post update ",
+        "post_score": 1,
+        "post_id": "1ddkhog",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddkhog/iphone_12_mini_heating_up_during_facetime_post/",
+        "post_numComments": 2,
+        "post_dateTime": "2024-06-11 19:56:23",
+        "post_text": "I never had this issue before during FaceTime calls no matter how long I used, but recently I updated my iPhone 12 mini to the newest IOS 17.5.1. Now even a few minutes on FaceTime made my phone incredibly hot, and my video was laggy too. Anyone else having this issue post updating? Any solutions or will this go away with other updates?",
+        "post_comments": [
+            {
+                "comment_id": "l85g5kc",
+                "comment_body": "I'm having the same issue. Rolling back to 17.4 fixed it for me.",
+                "comment_author": "DolorumDerideo9005",
+                "comment_dateTime": "2024-06-11 20:10:39",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l85hik9",
+                        "comment_body": "Sorry if it’s a silly question, but how do you do that?",
+                        "comment_author": "inquisation",
+                        "comment_dateTime": "2024-06-11 20:18:09",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l85hik9",
+                "comment_body": "Sorry if it’s a silly question, but how do you do that?",
+                "comment_author": "inquisation",
+                "comment_dateTime": "2024-06-11 20:18:09",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "EarPods have to be reconnected to hear call audio",
+        "post_score": 1,
+        "post_id": "1ddikyy",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddikyy/earpods_have_to_be_reconnected_to_hear_call_audio/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-11 18:37:27",
+        "post_text": "Hardware specs: \n\n- iPhone SE 2022\n- EarPods (Lightning connector) \n- No MDM\n\nOne of our users keep having the same issue repeatedly. If EarPods are connected when there's an incoming call, there's no audio in the EarPods. The user has to disconnect and then reconnect the EarPods in order to hear call audio. \n\nThis issue started more than a year ago and we've switched out both the phone and the EarPods to brand new hardware. And the new phone was set up without restoring a previous backup from iCloud or a computer. The user is signed in to an Apple ID.\n\nThe last things left to troubleshoot is to switch the SIM to a new SIM card or eSIM, but other than that – I'm stumped. Am I missing an obvious setting somewhere that controls call audio?\n\nAny help is greatly appreciated.",
+        "post_comments": []
+    },
+    {
+        "post_title": "Read receipts off, accidentally turned them on, then back off in message contact settings. Will they show as read?",
+        "post_score": 2,
+        "post_id": "1ddhrb3",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddhrb3/read_receipts_off_accidentally_turned_them_on/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-11 18:02:51",
+        "post_text": "I’ve had read receipts turned off for years. While I was in someone’s contact info within our text thread, I accidentally turned them on for this individual. I IMMEDIATELY turned them back off. Will they still receive a read receipt on their end? \n\nI know if I turn them off after I open a message, the sender will still receive a receipt, but if I never went back into the messages, will they still see a read receipt?\n\nFor context, this is a very toxic individual in my life that very recently I have gone no contact with. I haven’t brought myself to block them yet, but I am very close to doing so. \n",
+        "post_comments": []
+    },
+    {
+        "post_title": "How to Save Videos Directly to MacBook and/or SSD Connected to MacBook",
+        "post_score": 0,
+        "post_id": "1ddhfax",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddhfax/how_to_save_videos_directly_to_macbook_andor_ssd/",
+        "post_numComments": 1,
+        "post_dateTime": "2024-06-11 17:49:03",
+        "post_text": "I have an iPhone 15 and I want to save videos directly to an external SSD **that is connected to my MacBook,** and not directly connected to my iPhone.\n\nhttps://preview.redd.it/jna98nn2sy5d1.png?width=387&format=png&auto=webp&s=99c06e101d4717fc762605567fbf010308a6cf3d\n\nI am using the [BlackMagic Camera ](https://www.blackmagicdesign.com/products/blackmagiccamera)app, which can save directly to an external drive. Ideally, the MacBook's external SSD would appear as an option in the Files app.\n\nhttps://preview.redd.it/4r1grcufry5d1.png?width=355&format=png&auto=webp&s=2433a385c4b194710778a9dd3357d1bdfc75ffa4\n\nI never take videos away from my desk, so I will always have a USB connection to my computer when recording.\n\nThere are a few reasons for this:\n\n* Save time removing the SSD from my computer (where there are always a few applications that are currently using the SSD) and connecting it to my iPhone.\n* If using another external SSD dedicated to recording videos from my iPhone, save time unplugging that SSD from my iPhone and copying it to my original SSD on my computer\n\nWhat I've tried:\n\n* Using a [file server](https://support.apple.com/guide/iphone/external-storage-device-a-file-server-cloud-iph3ea029318/ios) in Files. This \"works\", but since it saves to computer's file system (and the external SSD) via the network and not through a USB connection, it is very slow and drops frame rates.\n* Connecting via USB. It's very easy to [see the File System of the iPhone on the MacBook](https://support.apple.com/en-us/119585), but very difficult the other way around. I have not seen any applications that allow you to see the File System of the MacBook on the iPhone.\n* Streaming content directly to the computer using software (i.e. [OBS](https://obsproject.com)), and another iOS application (i.e. [iOS Camera for OBS Studio](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/camera-for-obs-studio/id1352834008&ved=2ahUKEwi9-tS28dOGAxX_FzQIHUn4DeQQFnoECB8QAQ&usg=AOvVaw3zigJLb0cB6WSyeJwU7lLh)), but that over heats my iPhone very quickly (causing it to stop recording while it cools down), and it loses quality verses using a video recording app like BlackMagic Camera.\n\nWhat are some ways I can accomplish this task?\n\nThanks!",
+        "post_comments": []
+    },
+    {
+        "post_title": "iPhone not receive verification codes",
+        "post_score": 3,
+        "post_id": "1ddhb3q",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddhb3q/iphone_not_receive_verification_codes/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-11 17:44:08",
+        "post_text": "Hey iPhone lovers I have a problem with my Phone that maybe you guys can help  me with.\n\nThe phone is not receiving verification codes, from apps webs and more.\n\nWhat can it be, an option in the system or an update I need to get?",
+        "post_comments": []
+    },
+    {
+        "post_title": "Notifications doesn't show up in the lock screen",
+        "post_score": 2,
+        "post_id": "1ddgs23",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddgs23/notifications_doesnt_show_up_in_the_lock_screen/",
+        "post_numComments": 1,
+        "post_dateTime": "2024-06-11 17:22:07",
+        "post_text": "I just updated to IOS18 yesterday, and notifications doesn't show up in the lock screen anymore. I get the sound and the screen opens when I get a notification but it doesn't show up in the lock screen.",
+        "post_comments": [
+            {
+                "comment_id": "l84nkyg",
+                "comment_body": "Welcome to beta software. File some feed back if it’s reproducible.",
+                "comment_author": "frequently_grumpy",
+                "comment_dateTime": "2024-06-11 17:33:24",
+                "comment_score": 2,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Does iphone se 3 (2022) video player on ios 17 look like the one in the first or second picture? Or in other words: is the new video player that came with ios 16 added to all models or just the ones without home button?",
+        "post_score": 3,
+        "post_id": "1ddga8r",
+        "post_url": "https://www.reddit.com/gallery/1ddga8r",
+        "post_numComments": 1,
+        "post_dateTime": "2024-06-11 17:01:45",
+        "post_text": "",
+        "post_comments": [
+            {
+                "comment_id": "l85vcki",
+                "comment_body": "First photo. Good thing too, the seekbar of the older design was far too short.",
+                "comment_author": "nooneinpar7",
+                "comment_dateTime": "2024-06-11 21:34:40",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Why does this happen? It seems that whenever typing a word that ends in ing on the iPhone, the text that gets displayed is ing g.",
+        "post_score": 0,
+        "post_id": "1ddg4hf",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddg4hf/why_does_this_happen_it_seems_that_whenever/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-11 16:55:11",
+        "post_text": "I'm not the only who I see who has this problem as I get messages from others with the same mistake in it.  It's really strange and happens on more than one of my devices.  There isn't a text substitution set up to do this either.\n\nAny ideas on what might be causing this and what to do to fix it?",
+        "post_comments": []
+    },
+    {
+        "post_title": "Sim Card upside down?",
+        "post_score": 2,
+        "post_id": "1ddg1q5",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddg1q5/sim_card_upside_down/",
+        "post_numComments": 13,
+        "post_dateTime": "2024-06-11 16:51:52",
+        "post_text": "Hey there, \nMy friend is in South America trying to get his sim card working on his new iPhone 13 because, well that's what you have to do in different countries. \n\nThe sim card slot appears to be upside down and doesn't hold the sim card the way it needs to be. He has the T-Mobile rep in the US set up his eSIM before he left but it's not working. \n\n",
+        "post_comments": [
+            {
+                "comment_id": "l84hwmt",
+                "comment_body": "How about put the phone “upside down” and insert then sim 🤷🏽‍♂️",
+                "comment_author": "Jake_withaj",
+                "comment_dateTime": "2024-06-11 17:01:19",
+                "comment_score": 8,
+                "replies": []
+            },
+            {
+                "comment_id": "l84i3to",
+                "comment_body": "Sim card upside down? What difference could this possibly make? If it won't fit or stay in the phone, then the sim card reader could be damaged. Have your friend work with TMobile to get the esim to work.",
+                "comment_author": "taperk",
+                "comment_dateTime": "2024-06-11 17:02:28",
+                "comment_score": 3,
+                "replies": [
+                    {
+                        "comment_id": "l84tmn1",
+                        "comment_body": "The tray with the little notch appears to be inserting the wrong way he says. But we just got his phone unlocked so that's a start",
+                        "comment_author": "b_yourself",
+                        "comment_dateTime": "2024-06-11 18:06:50",
+                        "comment_score": 1,
+                        "replies": []
+                    },
+                    {
+                        "comment_id": "l84iw0s",
+                        "comment_body": "I hear ya but he now lives in the jungle in Ecuador. Calls are difficult to make and definitely no reps around to help.  I'm trying to help him form US with the very little details that he is giving me. Thanks, though. I'm probably messing up what he is trying to tell me and I can't physically see what he's talking about so I appreciate you trying to help.",
+                        "comment_author": "b_yourself",
+                        "comment_dateTime": "2024-06-11 17:06:57",
+                        "comment_score": 0,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l85pnpf",
+                "comment_body": "Upside down? Your friend would fail a preschool test that involves rotating blocks to make them fit through holes.",
+                "comment_author": "plaid-knight",
+                "comment_dateTime": "2024-06-11 21:02:49",
+                "comment_score": 2,
+                "replies": [
+                    {
+                        "comment_id": "l8630n3",
+                        "comment_body": "Maybe. He has been handling sim card transfers for his job for 20+ years while he goes back and forth to s. America and US so it looked off and his phone wasn't working. On top of it, the eSIM situation was new to him so it was a combination of confusing new things that we were troubleshooting to see what would actually get his phone to work.",
+                        "comment_author": "b_yourself",
+                        "comment_dateTime": "2024-06-11 22:16:54",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l85n9pi",
+                "comment_body": "Chances are it’s not upside down… it just appears like it is! The nano sim will fit snugly inside the cut out on the sim tray.",
+                "comment_author": "oVerboostUK",
+                "comment_dateTime": "2024-06-11 20:49:42",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l863572",
+                        "comment_body": "Thank you. That was what I told him! Lol we got it all working. Sometimes things in life are not what they appear 😎",
+                        "comment_author": "b_yourself",
+                        "comment_dateTime": "2024-06-11 22:17:36",
+                        "comment_score": 2,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l861q31",
+                "comment_body": "Generally speaking, SIM cards can only go in one way. You have to line up the little cutoff corner on the card with whichever corner of the tray has the same cutoff. It can‘t go any other way. And it make look “upside down” when it’s the right way.",
+                "comment_author": "willingzenith",
+                "comment_dateTime": "2024-06-11 22:09:52",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l862lhl",
+                        "comment_body": "Thanks. from what I gather it just looked \"off\" to him compared to his old phone. He's been dealing with sim cards for 20+ years of his life. Little did we know, there were other larger issues at hand that were preventing him from using his phone down there. Thank you.",
+                        "comment_author": "b_yourself",
+                        "comment_dateTime": "2024-06-11 22:14:36",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l88ygft",
+                "comment_body": "Are you sure it's not an australian iPhone model?",
+                "comment_author": "Jesusaurus2000",
+                "comment_dateTime": "2024-06-12 12:13:43",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l8mz2kz",
+                        "comment_body": "Lol probably!! 👉🏼😎👉🏼",
+                        "comment_author": "b_yourself",
+                        "comment_dateTime": "2024-06-14 22:58:12",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l84i54r",
+                "comment_body": "Lol, I hear ya. I'm iPhone illiterate! So I have no idea what he's talking about. Just trying to see if anyone else has had trouble with the sim card on the iPhone 13.",
+                "comment_author": "b_yourself",
+                "comment_dateTime": "2024-06-11 17:02:41",
+                "comment_score": -3,
+                "replies": []
+            },
+            {
+                "comment_id": "l84tmn1",
+                "comment_body": "The tray with the little notch appears to be inserting the wrong way he says. But we just got his phone unlocked so that's a start",
+                "comment_author": "b_yourself",
+                "comment_dateTime": "2024-06-11 18:06:50",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l84iw0s",
+                "comment_body": "I hear ya but he now lives in the jungle in Ecuador. Calls are difficult to make and definitely no reps around to help.  I'm trying to help him form US with the very little details that he is giving me. Thanks, though. I'm probably messing up what he is trying to tell me and I can't physically see what he's talking about so I appreciate you trying to help.",
+                "comment_author": "b_yourself",
+                "comment_dateTime": "2024-06-11 17:06:57",
+                "comment_score": 0,
+                "replies": []
+            },
+            {
+                "comment_id": "l8630n3",
+                "comment_body": "Maybe. He has been handling sim card transfers for his job for 20+ years while he goes back and forth to s. America and US so it looked off and his phone wasn't working. On top of it, the eSIM situation was new to him so it was a combination of confusing new things that we were troubleshooting to see what would actually get his phone to work.",
+                "comment_author": "b_yourself",
+                "comment_dateTime": "2024-06-11 22:16:54",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l863572",
+                "comment_body": "Thank you. That was what I told him! Lol we got it all working. Sometimes things in life are not what they appear 😎",
+                "comment_author": "b_yourself",
+                "comment_dateTime": "2024-06-11 22:17:36",
+                "comment_score": 2,
+                "replies": []
+            },
+            {
+                "comment_id": "l862lhl",
+                "comment_body": "Thanks. from what I gather it just looked \"off\" to him compared to his old phone. He's been dealing with sim cards for 20+ years of his life. Little did we know, there were other larger issues at hand that were preventing him from using his phone down there. Thank you.",
+                "comment_author": "b_yourself",
+                "comment_dateTime": "2024-06-11 22:14:36",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l8mz2kz",
+                "comment_body": "Lol probably!! 👉🏼😎👉🏼",
+                "comment_author": "b_yourself",
+                "comment_dateTime": "2024-06-14 22:58:12",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Find My says “Location not found”but app still says “this person shares their location with you” what does this indicate ?",
+        "post_score": 2,
+        "post_id": "1ddf7px",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddf7px/find_my_says_location_not_foundbut_app_still_says/",
+        "post_numComments": 1,
+        "post_dateTime": "2024-06-11 16:16:56",
+        "post_text": "I’m confused at this . ",
+        "post_comments": [
+            {
+                "comment_id": "l8aisl5",
+                "comment_body": "They’re in a spot/building that’s shielded and signals can’t get in or out, in an area with poor cellular coverage, etc. or similar.",
+                "comment_author": "RetiredBSN",
+                "comment_dateTime": "2024-06-12 18:39:47",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Removing IOS18 Developer beta",
+        "post_score": 0,
+        "post_id": "1ddexmd",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddexmd/removing_ios18_developer_beta/",
+        "post_numComments": 2,
+        "post_dateTime": "2024-06-11 16:04:35",
+        "post_text": "Is there a quicker way to remove the developer beta without factory resetting and from there downloading your backup?",
+        "post_comments": [
+            {
+                "comment_id": "l84cia2",
+                "comment_body": "No. Only full wipe and restore with a computer.",
+                "comment_author": "ofdtv",
+                "comment_dateTime": "2024-06-11 16:29:59",
+                "comment_score": 10,
+                "replies": []
+            },
+            {
+                "comment_id": "l85kp3p",
+                "comment_body": "Me too, I posted this right after installing, my phone got warm for 30 minutes but after that it went back to normaI. It’s much more smooth, Im definitely keeping it.",
+                "comment_author": "cadzu",
+                "comment_dateTime": "2024-06-11 20:35:39",
+                "comment_score": 2,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Issues with static /poor call quality on IPhone 15 max ",
+        "post_score": 2,
+        "post_id": "1ddecvf",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddecvf/issues_with_static_poor_call_quality_on_iphone_15/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-11 15:38:54",
+        "post_text": "Anyone else experiencing this over last 48 hours using Verizon service in the US?\n\n",
+        "post_comments": []
+    },
+    {
+        "post_title": "Did we get a filter in the new photos app somewhere that only shows captured images/videos from the phone cameras?",
+        "post_score": 2,
+        "post_id": "1ddebj1",
+        "post_url": "https://i.redd.it/s05xy1254y5d1.jpeg",
+        "post_numComments": 4,
+        "post_dateTime": "2024-06-11 15:37:08",
+        "post_text": "I see the photos app is a huge redesign but can’t figure out how to add such filter.",
+        "post_comments": [
+            {
+                "comment_id": "l844i6f",
+                "comment_body": "In the photos app scroll all the way down and tap the customize button ",
+                "comment_author": "Initial-Middle446",
+                "comment_dateTime": "2024-06-11 15:40:38",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l844pk7",
+                        "comment_body": "Then what? There’s no option that filters out non-captured images",
+                        "comment_author": "Giohb777",
+                        "comment_dateTime": "2024-06-11 15:41:57",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l845c0z",
+                                "comment_body": "I don't know all I have is the option to hide screenshots ",
+                                "comment_author": "Initial-Middle446",
+                                "comment_dateTime": "2024-06-11 15:45:59",
+                                "comment_score": 1,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l84habw",
+                "comment_body": "Idk about the new update but you can always search for iphone 13 mini for example to see all the pictures you took with it. ",
+                "comment_author": "taha_simsek",
+                "comment_dateTime": "2024-06-11 16:57:46",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l844pk7",
+                "comment_body": "Then what? There’s no option that filters out non-captured images",
+                "comment_author": "Giohb777",
+                "comment_dateTime": "2024-06-11 15:41:57",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l845c0z",
+                        "comment_body": "I don't know all I have is the option to hide screenshots ",
+                        "comment_author": "Initial-Middle446",
+                        "comment_dateTime": "2024-06-11 15:45:59",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l845c0z",
+                "comment_body": "I don't know all I have is the option to hide screenshots ",
+                "comment_author": "Initial-Middle446",
+                "comment_dateTime": "2024-06-11 15:45:59",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Turn off AirPods location for family members on Find My",
+        "post_score": 1,
+        "post_id": "1dddga6",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dddga6/turn_off_airpods_location_for_family_members_on/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-11 14:56:58",
+        "post_text": "Hey! I’ve turned off location sharing for my phone for my family members whose devices are visible on the find my app. But even my AirPods Pro 2 is visible on the list. Although my phone’s location is not shared with other members, is my AirPods Pro location visible to them? If yes, can I disable it for them only?",
+        "post_comments": []
+    },
+    {
+        "post_title": "Siri and carplay and lockscreen.",
+        "post_score": 1,
+        "post_id": "1ddd3me",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddd3me/siri_and_carplay_and_lockscreen/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-11 14:39:32",
+        "post_text": "Here's my scenario:  \nAt home I have homepods, and I don't want my phone to try and respond when its sitting on the charger. I want my homepods to be the only thing responding.  \nIn the car, I use carplay. So siri needs to be enabled on my phone.  \nI tried disabling \"Allow Siri When Locked\" on my phone to make it shut up when at home/charging but that makes it unavailable when plugged into my car.  \n  \nIs this just something I am going to have to live with? or is there a solution",
+        "post_comments": []
+    },
+    {
+        "post_title": "Annoying iPhone quirk checking emails while logging into WiFi",
+        "post_score": 2,
+        "post_id": "1ddc81w",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddc81w/annoying_iphone_quirk_checking_emails_while/",
+        "post_numComments": 1,
+        "post_dateTime": "2024-06-11 13:51:40",
+        "post_text": "Is there any way to check your email while logging into a WiFi hotspot? The WiFi hotspot needs an email to register, it sends an otp to the email but when I try to access my email app it disconnects from WiFi, then I need to reconnect and it asks for my email again and send another otp, therefore making it impossible to use. ",
+        "post_comments": []
+    },
+    {
+        "post_title": "My iPhone sounds like a cicada ",
+        "post_score": 0,
+        "post_id": "1ddbo8u",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddbo8u/my_iphone_sounds_like_a_cicada/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-11 13:20:07",
+        "post_text": "One day my iPhone SE 2nd gen was working normal as before and the next day the vibration sounds like there’s a loose piece rattling inside. There was a software update iOS 17.5.1 that occurred during the night. \n\nI’m gonna try to clean out the port and see if that helps. Has anyone come across this before?",
+        "post_comments": []
+    },
+    {
+        "post_title": "Can I pair an Apple Watch running watch OS 10 to an iPhone running iOS 18?",
+        "post_score": 0,
+        "post_id": "1ddalor",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1ddalor/can_i_pair_an_apple_watch_running_watch_os_10_to/",
+        "post_numComments": 4,
+        "post_dateTime": "2024-06-11 12:12:58",
+        "post_text": "So I am using an Apple Watch SE 1st gen and an iPhone XS. The iPhone will get the new iOS update but my Apple Watch won’t get the new watchOS version. Will I still be able to use it and pair it with my iPhone after I update it?",
+        "post_comments": [
+            {
+                "comment_id": "l83gdw5",
+                "comment_body": "Yes",
+                "comment_author": "rkrismcneely",
+                "comment_dateTime": "2024-06-11 12:25:01",
+                "comment_score": 2,
+                "replies": []
+            },
+            {
+                "comment_id": "l8agzmt",
+                "comment_body": "The watch will stay paired with the phone, you won’t have to do anything with the watch. No re-pairing necessary.",
+                "comment_author": "RetiredBSN",
+                "comment_dateTime": "2024-06-12 18:29:48",
+                "comment_score": 2,
+                "replies": [
+                    {
+                        "comment_id": "l8e8qnm",
+                        "comment_body": "Will I still be able to use them both as normally? Like changing the wallpaper in the phone and to show on the watch or to still b able to update the watch to a newer watchOS 10 version?",
+                        "comment_author": "ERO_Reddit_",
+                        "comment_dateTime": "2024-06-13 09:57:26",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l8ioy4l",
+                                "comment_body": "From what I've seen so far, the SE Gen 1 will NOT get WatchOS 11 when it comes out with iOS 18. You'll still be able to do all the things you're doing with it now, though. There are changes coming for home screen appearance, etc., but I don't play with the betas, so don't have any idea what it actually is going to look like.",
+                                "comment_author": "RetiredBSN",
+                                "comment_dateTime": "2024-06-14 03:51:16",
+                                "comment_score": 2,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l8e8qnm",
+                "comment_body": "Will I still be able to use them both as normally? Like changing the wallpaper in the phone and to show on the watch or to still b able to update the watch to a newer watchOS 10 version?",
+                "comment_author": "ERO_Reddit_",
+                "comment_dateTime": "2024-06-13 09:57:26",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l8ioy4l",
+                        "comment_body": "From what I've seen so far, the SE Gen 1 will NOT get WatchOS 11 when it comes out with iOS 18. You'll still be able to do all the things you're doing with it now, though. There are changes coming for home screen appearance, etc., but I don't play with the betas, so don't have any idea what it actually is going to look like.",
+                        "comment_author": "RetiredBSN",
+                        "comment_dateTime": "2024-06-14 03:51:16",
+                        "comment_score": 2,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l8ioy4l",
+                "comment_body": "From what I've seen so far, the SE Gen 1 will NOT get WatchOS 11 when it comes out with iOS 18. You'll still be able to do all the things you're doing with it now, though. There are changes coming for home screen appearance, etc., but I don't play with the betas, so don't have any idea what it actually is going to look like.",
+                "comment_author": "RetiredBSN",
+                "comment_dateTime": "2024-06-14 03:51:16",
+                "comment_score": 2,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "eSIM help",
+        "post_score": 1,
+        "post_id": "1dd9o51",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd9o51/esim_help/",
+        "post_numComments": 3,
+        "post_dateTime": "2024-06-11 11:06:34",
+        "post_text": "I need to send my phone (13 Pro) off for repair which may take up to a week. I don't have a spare phone lying around but I do have my work phone (iPhone XR). \n\nCan I set up an eSIM using my phone number on my work phone to use that for both phones while my phone gets repaired? ",
+        "post_comments": [
+            {
+                "comment_id": "l83g9xd",
+                "comment_body": "Transferring the eSIM # to the work phone will disable the eSIM # on your personal phone. You can't have two instances running at once.\n\nYou can have 2 eSIMs with 2 different numbers activated at the same time on 1 phone.",
+                "comment_author": "saint_louis_bagels",
+                "comment_dateTime": "2024-06-11 12:23:50",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l85bodl",
+                "comment_body": "I’d pop in to a shop they should be bald to help you out with physical sim",
+                "comment_author": "EqualPicture9709",
+                "comment_dateTime": "2024-06-11 19:46:10",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "iPhone 13 Pro randomly turn off while charging and does not turn back on",
+        "post_score": 1,
+        "post_id": "1dd8vzb",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd8vzb/iphone_13_pro_randomly_turn_off_while_charging/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-11 10:09:09",
+        "post_text": "I was using my iPhone 13 Pro while charging. I was charging just fine and the screen went black. The phone has not turned on since. \n\nI tried holding vol up vol down and power. \nvol up and power\nvol down and power\n\nPhone appears to be dead. \n\nIs there anything more i can try to do?",
+        "post_comments": []
+    },
+    {
+        "post_title": "What?",
+        "post_score": 0,
+        "post_id": "1dd8t86",
+        "post_url": "https://www.reddit.com/gallery/1dd8t86",
+        "post_numComments": 1,
+        "post_dateTime": "2024-06-11 10:03:41",
+        "post_text": "I dont get this sleep cycle. Is it a bug? How do i fix it?\n\nContext : i went into overnight shifts so now i sleep in the day. I adjusted it also in the sleep sched in settings. ",
+        "post_comments": [
+            {
+                "comment_id": "l839obe",
+                "comment_body": "r/softwaregore",
+                "comment_author": "GameOPedia-20",
+                "comment_dateTime": "2024-06-11 11:06:15",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "my wifi keeps reconnecting and disconnecting during updating to ios 18 on my iphone 15 plus",
+        "post_score": 0,
+        "post_id": "1dd8f7l",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd8f7l/my_wifi_keeps_reconnecting_and_disconnecting/",
+        "post_numComments": 5,
+        "post_dateTime": "2024-06-11 09:35:35",
+        "post_text": "while i’m updating my iphone to ios 18 my phone keeps disconnecting wifi and reconnecting and it’s slowing the update, i turn the wifi on and off again but yet it still turns off after 10 seconds",
+        "post_comments": [
+            {
+                "comment_id": "l83ds5l",
+                "comment_body": "That’s unusual - have you reset your network settings?",
+                "comment_author": "HerrBadger",
+                "comment_dateTime": "2024-06-11 11:55:58",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l83dtsp",
+                        "comment_body": "i said WHILE updating to ios 18",
+                        "comment_author": "Brodie1other",
+                        "comment_dateTime": "2024-06-11 11:56:29",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l83dutn",
+                                "comment_body": "I noticed and edited 😊",
+                                "comment_author": "HerrBadger",
+                                "comment_dateTime": "2024-06-11 11:56:48",
+                                "comment_score": 1,
+                                "replies": [
+                                    {
+                                        "comment_id": "l83dw26",
+                                        "comment_body": "what do u mean reset network settings?",
+                                        "comment_author": "Brodie1other",
+                                        "comment_dateTime": "2024-06-11 11:57:12",
+                                        "comment_score": 1,
+                                        "replies": [
+                                            {
+                                                "comment_id": "l83fcpf",
+                                                "comment_body": "Before you do, are any other devices on your network dropping out? Have you restarted your router? Are you in range of it? Have you restarted your iPhone first? \n\nAlso, I’d go to Settings > Mobile Data, scroll all the way down and turn WiFi assist off. \n\nIf all else fails, to reset your network settings, you go to Settings > General > Transfer or Reser iPhone > Reset > Reset network settings \n\nIt’ll clear your known WiFi networks, but it should flush out any issues if that’s it.",
+                                                "comment_author": "HerrBadger",
+                                                "comment_dateTime": "2024-06-11 12:13:41",
+                                                "comment_score": 2,
+                                                "replies": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l83dtsp",
+                "comment_body": "i said WHILE updating to ios 18",
+                "comment_author": "Brodie1other",
+                "comment_dateTime": "2024-06-11 11:56:29",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l83dutn",
+                        "comment_body": "I noticed and edited 😊",
+                        "comment_author": "HerrBadger",
+                        "comment_dateTime": "2024-06-11 11:56:48",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l83dw26",
+                                "comment_body": "what do u mean reset network settings?",
+                                "comment_author": "Brodie1other",
+                                "comment_dateTime": "2024-06-11 11:57:12",
+                                "comment_score": 1,
+                                "replies": [
+                                    {
+                                        "comment_id": "l83fcpf",
+                                        "comment_body": "Before you do, are any other devices on your network dropping out? Have you restarted your router? Are you in range of it? Have you restarted your iPhone first? \n\nAlso, I’d go to Settings > Mobile Data, scroll all the way down and turn WiFi assist off. \n\nIf all else fails, to reset your network settings, you go to Settings > General > Transfer or Reser iPhone > Reset > Reset network settings \n\nIt’ll clear your known WiFi networks, but it should flush out any issues if that’s it.",
+                                        "comment_author": "HerrBadger",
+                                        "comment_dateTime": "2024-06-11 12:13:41",
+                                        "comment_score": 2,
+                                        "replies": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l83dutn",
+                "comment_body": "I noticed and edited 😊",
+                "comment_author": "HerrBadger",
+                "comment_dateTime": "2024-06-11 11:56:48",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l83dw26",
+                        "comment_body": "what do u mean reset network settings?",
+                        "comment_author": "Brodie1other",
+                        "comment_dateTime": "2024-06-11 11:57:12",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l83fcpf",
+                                "comment_body": "Before you do, are any other devices on your network dropping out? Have you restarted your router? Are you in range of it? Have you restarted your iPhone first? \n\nAlso, I’d go to Settings > Mobile Data, scroll all the way down and turn WiFi assist off. \n\nIf all else fails, to reset your network settings, you go to Settings > General > Transfer or Reser iPhone > Reset > Reset network settings \n\nIt’ll clear your known WiFi networks, but it should flush out any issues if that’s it.",
+                                "comment_author": "HerrBadger",
+                                "comment_dateTime": "2024-06-11 12:13:41",
+                                "comment_score": 2,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l83dw26",
+                "comment_body": "what do u mean reset network settings?",
+                "comment_author": "Brodie1other",
+                "comment_dateTime": "2024-06-11 11:57:12",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l83fcpf",
+                        "comment_body": "Before you do, are any other devices on your network dropping out? Have you restarted your router? Are you in range of it? Have you restarted your iPhone first? \n\nAlso, I’d go to Settings > Mobile Data, scroll all the way down and turn WiFi assist off. \n\nIf all else fails, to reset your network settings, you go to Settings > General > Transfer or Reser iPhone > Reset > Reset network settings \n\nIt’ll clear your known WiFi networks, but it should flush out any issues if that’s it.",
+                        "comment_author": "HerrBadger",
+                        "comment_dateTime": "2024-06-11 12:13:41",
+                        "comment_score": 2,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l83fcpf",
+                "comment_body": "Before you do, are any other devices on your network dropping out? Have you restarted your router? Are you in range of it? Have you restarted your iPhone first? \n\nAlso, I’d go to Settings > Mobile Data, scroll all the way down and turn WiFi assist off. \n\nIf all else fails, to reset your network settings, you go to Settings > General > Transfer or Reser iPhone > Reset > Reset network settings \n\nIt’ll clear your known WiFi networks, but it should flush out any issues if that’s it.",
+                "comment_author": "HerrBadger",
+                "comment_dateTime": "2024-06-11 12:13:41",
+                "comment_score": 2,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "iPhone 14 Pro Camera Fault",
+        "post_score": 1,
+        "post_id": "1dd8f6h",
+        "post_url": "https://i.redd.it/6x1f08jmbw5d1.jpeg",
+        "post_numComments": 5,
+        "post_dateTime": "2024-06-11 09:35:33",
+        "post_text": "Hi everyone, for some reason whenever I take a photo with my iPhone 14 Pro any light blurs into the photo. If anyone has any recommendations on how to fix this it would be appreciated. Thanks",
+        "post_comments": [
+            {
+                "comment_id": "l833owi",
+                "comment_body": "Clean your lenses and don't shoot into lights.",
+                "comment_author": "rboab",
+                "comment_dateTime": "2024-06-11 09:52:19",
+                "comment_score": 8,
+                "replies": []
+            },
+            {
+                "comment_id": "l83321n",
+                "comment_body": "Turn the lights off. Those are bright ass leds, my phone does the same thing. You typically have to avoid the lights in the picture. Take the picture not including the ceiling and it will be a lot less blurry, use the lights for the light without getting them in the shot",
+                "comment_author": "BasedGodGifted",
+                "comment_dateTime": "2024-06-11 09:44:34",
+                "comment_score": 2,
+                "replies": []
+            },
+            {
+                "comment_id": "l833x4k",
+                "comment_body": "Clean your lenses. IF you have another smartphone, take a photo with the same angle. That would clarify somethings. Just saying.",
+                "comment_author": "bharathinreddit",
+                "comment_dateTime": "2024-06-11 09:55:08",
+                "comment_score": 2,
+                "replies": [
+                    {
+                        "comment_id": "l83hi50",
+                        "comment_body": "My dad has the same phone and when we compared both together mine had way more light blur than his 🤷",
+                        "comment_author": "Dzrs",
+                        "comment_dateTime": "2024-06-11 12:36:50",
+                        "comment_score": 0,
+                        "replies": [
+                            {
+                                "comment_id": "l83hwm6",
+                                "comment_body": "Oh, if the photos are taken  the same way and still there is a difference, you might want to check it out. Just to be sure , compare it with 3 sets of photos from both iphones and different subjects every set, so that you can learn where is the problem. That would save some money.",
+                                "comment_author": "bharathinreddit",
+                                "comment_dateTime": "2024-06-11 12:41:00",
+                                "comment_score": 1,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l83hi50",
+                "comment_body": "My dad has the same phone and when we compared both together mine had way more light blur than his 🤷",
+                "comment_author": "Dzrs",
+                "comment_dateTime": "2024-06-11 12:36:50",
+                "comment_score": 0,
+                "replies": [
+                    {
+                        "comment_id": "l83hwm6",
+                        "comment_body": "Oh, if the photos are taken  the same way and still there is a difference, you might want to check it out. Just to be sure , compare it with 3 sets of photos from both iphones and different subjects every set, so that you can learn where is the problem. That would save some money.",
+                        "comment_author": "bharathinreddit",
+                        "comment_dateTime": "2024-06-11 12:41:00",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l83hwm6",
+                "comment_body": "Oh, if the photos are taken  the same way and still there is a difference, you might want to check it out. Just to be sure , compare it with 3 sets of photos from both iphones and different subjects every set, so that you can learn where is the problem. That would save some money.",
+                "comment_author": "bharathinreddit",
+                "comment_dateTime": "2024-06-11 12:41:00",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Pictures in the dark and night camera",
+        "post_score": 0,
+        "post_id": "1dd8e53",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd8e53/pictures_in_the_dark_and_night_camera/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-11 09:33:23",
+        "post_text": "When I’m in low light conditions the camera gives black things a red tint and when I enable night cam it gives it a even more noticeable tint. Does any one else have this issue? I’m on iPhone 13 btw ",
+        "post_comments": []
+    },
+    {
+        "post_title": "Apple ID",
+        "post_score": 0,
+        "post_id": "1dd8b6i",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd8b6i/apple_id/",
+        "post_numComments": 4,
+        "post_dateTime": "2024-06-11 09:27:19",
+        "post_text": "So recently my Apple ID got blocked and I can’t install/update any apps since then rendering my phone useless. I’ve contacted Apple Support, they told me it was because of a financial situation but they can’t look further than that nor can they reverse the blockage. I’ve tried creating a new ID instantly blocked as well. My question is if I buy a new phone and put my SD card in it will it block me from making a brand new Apple ID? ",
+        "post_comments": [
+            {
+                "comment_id": "l83tv94",
+                "comment_body": "iPhones don't have SD card slots. You'll have a sim slot only if you are outside the US. If so, perhaps get a new sim along with a new phone and Apple id.",
+                "comment_author": "taperk",
+                "comment_dateTime": "2024-06-11 14:25:28",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l84l93f",
+                        "comment_body": "Yea I meant a sim card",
+                        "comment_author": "One-Lie515",
+                        "comment_dateTime": "2024-06-11 17:20:27",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l87yr82",
+                "comment_body": "It’s impossible to say without knowing why they blocked your account. This is really something you need to escalate with Apple support.",
+                "comment_author": "bigdogxxl",
+                "comment_dateTime": "2024-06-12 05:50:52",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l87ywst",
+                        "comment_body": "The thing is I already did and they will not escalate it further, I did nothing wrong to warrant a deactivation",
+                        "comment_author": "One-Lie515",
+                        "comment_dateTime": "2024-06-12 05:52:05",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l84l93f",
+                "comment_body": "Yea I meant a sim card",
+                "comment_author": "One-Lie515",
+                "comment_dateTime": "2024-06-11 17:20:27",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l87ywst",
+                "comment_body": "The thing is I already did and they will not escalate it further, I did nothing wrong to warrant a deactivation",
+                "comment_author": "One-Lie515",
+                "comment_dateTime": "2024-06-12 05:52:05",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Apple Pay, billing information?",
+        "post_score": 1,
+        "post_id": "1dd8abu",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd8abu/apple_pay_billing_information/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-11 09:25:37",
+        "post_text": "Hi all,  \nI had a small question. With apple pay, what information is actually sent to an online merchant? \n\nI made an online purchase yesterday (a VPN subscription), but the Apple Pay only had my card details. Usually when I buy online, I can see my name, address, email, etc. So I am not sure which information has been sent to the merchant in this case? \n\nIs it just my name, and billing address? Is even billing address sent to the merchant via apple pay if it is encrypted. \n\nI am just confused as usually, I can see or change the information being sent to the merchant. This time, there was nothing present, not even the billing address, just the card I wanted to use for payment... \n\n",
+        "post_comments": []
+    },
+    {
+        "post_title": "Inhibit Apple Music from opening every time iPhone connects to car bluetooth?",
+        "post_score": 3,
+        "post_id": "1dd89j4",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd89j4/inhibit_apple_music_from_opening_every_time/",
+        "post_numComments": 3,
+        "post_dateTime": "2024-06-11 09:24:01",
+        "post_text": "Hi all,\n\nI'm a spotify user, I really hate that when car bluetooth connects Apple Music pops up. Is there any obscure setting somewhere to avoid this?\n\nI'm on iPhone 15pro with iOS 17.5.1",
+        "post_comments": [
+            {
+                "comment_id": "l83mq8h",
+                "comment_body": "Uninstall it?",
+                "comment_author": "slimdizzy",
+                "comment_dateTime": "2024-06-11 13:26:45",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l83wzl8",
+                        "comment_body": "I feel so dumb, thought it was a system app that couldn't be deleted. Thank you!!!!",
+                        "comment_author": "Fort_u_nato",
+                        "comment_dateTime": "2024-06-11 14:49:13",
+                        "comment_score": 3,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l843srq",
+                "comment_body": "I deleted the Apple Music app because of this. It’s beyond stupid you can have a setting to disable auto play.",
+                "comment_author": "cheoahbald",
+                "comment_dateTime": "2024-06-11 15:36:00",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l83wzl8",
+                "comment_body": "I feel so dumb, thought it was a system app that couldn't be deleted. Thank you!!!!",
+                "comment_author": "Fort_u_nato",
+                "comment_dateTime": "2024-06-11 14:49:13",
+                "comment_score": 3,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Customization Options for Low Power Mode",
+        "post_score": 1,
+        "post_id": "1dd86we",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd86we/customization_options_for_low_power_mode/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-11 09:18:32",
+        "post_text": "Is it possible to change which services will be affected by Low Power Mode?\n\nI want to switch Low Power Mode but I also want Google Maps to continue saving my location history to Timeline. However, that service becomes suspended in Low Power Mode. So basically I want the mode to function as is with a specific exception for location history.",
+        "post_comments": []
+    },
+    {
+        "post_title": "What is ios18 beta and is ios18 public beta came out yet?",
+        "post_score": 0,
+        "post_id": "1dd7ken",
+        "post_url": "https://i.redd.it/7pi0a55q0w5d1.jpeg",
+        "post_numComments": 19,
+        "post_dateTime": "2024-06-11 08:34:27",
+        "post_text": "Hey! 👋 \nHere’s Alvi an fellow web surfer🏄\nWho needs help from you\n\nI’m hipped up after watching the WWDC 2024 event. Now I wanna try out the new ios 18, because its now out use i wanna try the beta version but dont anything about apple’s beta stuff, i mean don’t know anything about the pros and cons of beta.\nNow i needed your guidance that what should i do? \n\nSide note: i have done some googleing and somehow in the software update page in my phone there is something called ios18 developer beta? Dont know that it is so i didn’t wanna risk anything…",
+        "post_comments": [
+            {
+                "comment_id": "l83n6wr",
+                "comment_body": "How do you even have Developer Beta option if you have all these questions?",
+                "comment_author": "homebridgeenthusiast",
+                "comment_dateTime": "2024-06-11 13:30:48",
+                "comment_score": 7,
+                "replies": [
+                    {
+                        "comment_id": "l83np2k",
+                        "comment_body": "Probably followed a YouTube video without any idea of what's going on ",
+                        "comment_author": "Lower_Fan",
+                        "comment_dateTime": "2024-06-11 13:35:12",
+                        "comment_score": 9,
+                        "replies": [
+                            {
+                                "comment_id": "l8a4vkh",
+                                "comment_body": "Naaa googled about beta and got into a apple website then just followed the instructions and now just before i want to update i was wandering  why isn’t the public beta not showing and then I discovered that its recommended to backup everything before updating to beta version and that made me come here (wamp wamp)",
+                                "comment_author": "Alvi_sheikh",
+                                "comment_dateTime": "2024-06-12 17:19:29",
+                                "comment_score": 1,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l82y4e2",
+                "comment_body": "IOS 18 Public beta is coming next month if I remember right from wwdc. Only developer beta is out rn",
+                "comment_author": "Individual_Young_716",
+                "comment_dateTime": "2024-06-11 08:46:19",
+                "comment_score": 5,
+                "replies": [
+                    {
+                        "comment_id": "l82ydyt",
+                        "comment_body": "Should i download it or i shouldn’t download it?",
+                        "comment_author": "Alvi_sheikh",
+                        "comment_dateTime": "2024-06-11 08:49:20",
+                        "comment_score": -2,
+                        "replies": [
+                            {
+                                "comment_id": "l82yhwf",
+                                "comment_body": "If you want a stable bug free experience do not download any beta. It's not worth it.",
+                                "comment_author": "Manoj200801",
+                                "comment_dateTime": "2024-06-11 08:50:33",
+                                "comment_score": 8,
+                                "replies": [
+                                    {
+                                        "comment_id": "l830um2",
+                                        "comment_body": "Getting Bug’s is no problemo’ for me. I was wandering that in a youtube video they told to backuo my phone why is that is there any rick?",
+                                        "comment_author": "Alvi_sheikh",
+                                        "comment_dateTime": "2024-06-11 09:17:43",
+                                        "comment_score": 1,
+                                        "replies": [
+                                            {
+                                                "comment_id": "l8343qw",
+                                                "comment_body": "It’s not real stable. I’m having a few issues. It’s pretty laggy, I’ve crashed about 4 times in the last 10 hours. It seems to be working itself out but if you don’t know what you’re doing, I’d suggest waiting.",
+                                                "comment_author": "CYPH3R_22",
+                                                "comment_dateTime": "2024-06-11 09:57:22",
+                                                "comment_score": 3,
+                                                "replies": []
+                                            },
+                                            {
+                                                "comment_id": "l83nmis",
+                                                "comment_body": "You can't go back to the stable channel from the developer beta unless you restore your phone, so make sure you have a backup to do the restore ",
+                                                "comment_author": "Lower_Fan",
+                                                "comment_dateTime": "2024-06-11 13:34:35",
+                                                "comment_score": 3,
+                                                "replies": [
+                                                    {
+                                                        "comment_id": "l8b1494",
+                                                        "comment_body": "So public beta is a better option than developer beta? Or i am screwed if i choose ether of them",
+                                                        "comment_author": "Alvi_sheikh",
+                                                        "comment_dateTime": "2024-06-12 20:19:43",
+                                                        "comment_score": 1,
+                                                        "replies": [
+                                                            {
+                                                                "comment_id": "l8bwasx",
+                                                                "comment_body": "Public beta is better option yes. You can switch to the stable channel once it comes out ",
+                                                                "comment_author": "Lower_Fan",
+                                                                "comment_dateTime": "2024-06-12 23:11:47",
+                                                                "comment_score": 2,
+                                                                "replies": [
+                                                                    {
+                                                                        "comment_id": "l8fulj3",
+                                                                        "comment_body": "So waiting for the public beta is worth the wait…",
+                                                                        "comment_author": "Alvi_sheikh",
+                                                                        "comment_dateTime": "2024-06-13 17:40:09",
+                                                                        "comment_score": 1,
+                                                                        "replies": []
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "comment_id": "l83dl9h",
+                                                "comment_body": "Backing up was just to make sure to revert back once you encounter those buggy unstable experience",
+                                                "comment_author": "Manoj200801",
+                                                "comment_dateTime": "2024-06-11 11:53:45",
+                                                "comment_score": 2,
+                                                "replies": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l85o6cu",
+                "comment_body": "The fact that you have so many questions, suggests to me, a beta is not something you should be installing.",
+                "comment_author": "oVerboostUK",
+                "comment_dateTime": "2024-06-11 20:54:39",
+                "comment_score": 2,
+                "replies": []
+            },
+            {
+                "comment_id": "l85pm09",
+                "comment_body": "Also might want to consider blurring out your email address.",
+                "comment_author": "Strvctvred",
+                "comment_dateTime": "2024-06-11 21:02:33",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l8a4buj",
+                        "comment_body": "Can i edit it now?",
+                        "comment_author": "Alvi_sheikh",
+                        "comment_dateTime": "2024-06-12 17:16:19",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l8a5s6g",
+                                "comment_body": "You can edit your post sure.",
+                                "comment_author": "Strvctvred",
+                                "comment_dateTime": "2024-06-12 17:24:53",
+                                "comment_score": 1,
+                                "replies": []
+                            }
+                        ]
+                    },
+                    {
+                        "comment_id": "l8a5cpk",
+                        "comment_body": "Btw i how did you get that iphone  15 pro title under your name?",
+                        "comment_author": "Alvi_sheikh",
+                        "comment_dateTime": "2024-06-12 17:22:21",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l8a6c96",
+                                "comment_body": "User Flair in the subreddit: https://support.reddithelp.com/hc/en-us/articles/15484503095060-User-Flair",
+                                "comment_author": "Strvctvred",
+                                "comment_dateTime": "2024-06-12 17:28:06",
+                                "comment_score": 1,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l83np2k",
+                "comment_body": "Probably followed a YouTube video without any idea of what's going on ",
+                "comment_author": "Lower_Fan",
+                "comment_dateTime": "2024-06-11 13:35:12",
+                "comment_score": 9,
+                "replies": [
+                    {
+                        "comment_id": "l8a4vkh",
+                        "comment_body": "Naaa googled about beta and got into a apple website then just followed the instructions and now just before i want to update i was wandering  why isn’t the public beta not showing and then I discovered that its recommended to backup everything before updating to beta version and that made me come here (wamp wamp)",
+                        "comment_author": "Alvi_sheikh",
+                        "comment_dateTime": "2024-06-12 17:19:29",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l82ydyt",
+                "comment_body": "Should i download it or i shouldn’t download it?",
+                "comment_author": "Alvi_sheikh",
+                "comment_dateTime": "2024-06-11 08:49:20",
+                "comment_score": -2,
+                "replies": [
+                    {
+                        "comment_id": "l82yhwf",
+                        "comment_body": "If you want a stable bug free experience do not download any beta. It's not worth it.",
+                        "comment_author": "Manoj200801",
+                        "comment_dateTime": "2024-06-11 08:50:33",
+                        "comment_score": 8,
+                        "replies": [
+                            {
+                                "comment_id": "l830um2",
+                                "comment_body": "Getting Bug’s is no problemo’ for me. I was wandering that in a youtube video they told to backuo my phone why is that is there any rick?",
+                                "comment_author": "Alvi_sheikh",
+                                "comment_dateTime": "2024-06-11 09:17:43",
+                                "comment_score": 1,
+                                "replies": [
+                                    {
+                                        "comment_id": "l8343qw",
+                                        "comment_body": "It’s not real stable. I’m having a few issues. It’s pretty laggy, I’ve crashed about 4 times in the last 10 hours. It seems to be working itself out but if you don’t know what you’re doing, I’d suggest waiting.",
+                                        "comment_author": "CYPH3R_22",
+                                        "comment_dateTime": "2024-06-11 09:57:22",
+                                        "comment_score": 3,
+                                        "replies": []
+                                    },
+                                    {
+                                        "comment_id": "l83nmis",
+                                        "comment_body": "You can't go back to the stable channel from the developer beta unless you restore your phone, so make sure you have a backup to do the restore ",
+                                        "comment_author": "Lower_Fan",
+                                        "comment_dateTime": "2024-06-11 13:34:35",
+                                        "comment_score": 3,
+                                        "replies": [
+                                            {
+                                                "comment_id": "l8b1494",
+                                                "comment_body": "So public beta is a better option than developer beta? Or i am screwed if i choose ether of them",
+                                                "comment_author": "Alvi_sheikh",
+                                                "comment_dateTime": "2024-06-12 20:19:43",
+                                                "comment_score": 1,
+                                                "replies": [
+                                                    {
+                                                        "comment_id": "l8bwasx",
+                                                        "comment_body": "Public beta is better option yes. You can switch to the stable channel once it comes out ",
+                                                        "comment_author": "Lower_Fan",
+                                                        "comment_dateTime": "2024-06-12 23:11:47",
+                                                        "comment_score": 2,
+                                                        "replies": [
+                                                            {
+                                                                "comment_id": "l8fulj3",
+                                                                "comment_body": "So waiting for the public beta is worth the wait…",
+                                                                "comment_author": "Alvi_sheikh",
+                                                                "comment_dateTime": "2024-06-13 17:40:09",
+                                                                "comment_score": 1,
+                                                                "replies": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "comment_id": "l83dl9h",
+                                        "comment_body": "Backing up was just to make sure to revert back once you encounter those buggy unstable experience",
+                                        "comment_author": "Manoj200801",
+                                        "comment_dateTime": "2024-06-11 11:53:45",
+                                        "comment_score": 2,
+                                        "replies": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l8a4buj",
+                "comment_body": "Can i edit it now?",
+                "comment_author": "Alvi_sheikh",
+                "comment_dateTime": "2024-06-12 17:16:19",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l8a5s6g",
+                        "comment_body": "You can edit your post sure.",
+                        "comment_author": "Strvctvred",
+                        "comment_dateTime": "2024-06-12 17:24:53",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l8a5cpk",
+                "comment_body": "Btw i how did you get that iphone  15 pro title under your name?",
+                "comment_author": "Alvi_sheikh",
+                "comment_dateTime": "2024-06-12 17:22:21",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l8a6c96",
+                        "comment_body": "User Flair in the subreddit: https://support.reddithelp.com/hc/en-us/articles/15484503095060-User-Flair",
+                        "comment_author": "Strvctvred",
+                        "comment_dateTime": "2024-06-12 17:28:06",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l8a4vkh",
+                "comment_body": "Naaa googled about beta and got into a apple website then just followed the instructions and now just before i want to update i was wandering  why isn’t the public beta not showing and then I discovered that its recommended to backup everything before updating to beta version and that made me come here (wamp wamp)",
+                "comment_author": "Alvi_sheikh",
+                "comment_dateTime": "2024-06-12 17:19:29",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l82yhwf",
+                "comment_body": "If you want a stable bug free experience do not download any beta. It's not worth it.",
+                "comment_author": "Manoj200801",
+                "comment_dateTime": "2024-06-11 08:50:33",
+                "comment_score": 8,
+                "replies": [
+                    {
+                        "comment_id": "l830um2",
+                        "comment_body": "Getting Bug’s is no problemo’ for me. I was wandering that in a youtube video they told to backuo my phone why is that is there any rick?",
+                        "comment_author": "Alvi_sheikh",
+                        "comment_dateTime": "2024-06-11 09:17:43",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l8343qw",
+                                "comment_body": "It’s not real stable. I’m having a few issues. It’s pretty laggy, I’ve crashed about 4 times in the last 10 hours. It seems to be working itself out but if you don’t know what you’re doing, I’d suggest waiting.",
+                                "comment_author": "CYPH3R_22",
+                                "comment_dateTime": "2024-06-11 09:57:22",
+                                "comment_score": 3,
+                                "replies": []
+                            },
+                            {
+                                "comment_id": "l83nmis",
+                                "comment_body": "You can't go back to the stable channel from the developer beta unless you restore your phone, so make sure you have a backup to do the restore ",
+                                "comment_author": "Lower_Fan",
+                                "comment_dateTime": "2024-06-11 13:34:35",
+                                "comment_score": 3,
+                                "replies": [
+                                    {
+                                        "comment_id": "l8b1494",
+                                        "comment_body": "So public beta is a better option than developer beta? Or i am screwed if i choose ether of them",
+                                        "comment_author": "Alvi_sheikh",
+                                        "comment_dateTime": "2024-06-12 20:19:43",
+                                        "comment_score": 1,
+                                        "replies": [
+                                            {
+                                                "comment_id": "l8bwasx",
+                                                "comment_body": "Public beta is better option yes. You can switch to the stable channel once it comes out ",
+                                                "comment_author": "Lower_Fan",
+                                                "comment_dateTime": "2024-06-12 23:11:47",
+                                                "comment_score": 2,
+                                                "replies": [
+                                                    {
+                                                        "comment_id": "l8fulj3",
+                                                        "comment_body": "So waiting for the public beta is worth the wait…",
+                                                        "comment_author": "Alvi_sheikh",
+                                                        "comment_dateTime": "2024-06-13 17:40:09",
+                                                        "comment_score": 1,
+                                                        "replies": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "comment_id": "l83dl9h",
+                                "comment_body": "Backing up was just to make sure to revert back once you encounter those buggy unstable experience",
+                                "comment_author": "Manoj200801",
+                                "comment_dateTime": "2024-06-11 11:53:45",
+                                "comment_score": 2,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l8a5s6g",
+                "comment_body": "You can edit your post sure.",
+                "comment_author": "Strvctvred",
+                "comment_dateTime": "2024-06-12 17:24:53",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l8a6c96",
+                "comment_body": "User Flair in the subreddit: https://support.reddithelp.com/hc/en-us/articles/15484503095060-User-Flair",
+                "comment_author": "Strvctvred",
+                "comment_dateTime": "2024-06-12 17:28:06",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l830um2",
+                "comment_body": "Getting Bug’s is no problemo’ for me. I was wandering that in a youtube video they told to backuo my phone why is that is there any rick?",
+                "comment_author": "Alvi_sheikh",
+                "comment_dateTime": "2024-06-11 09:17:43",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l8343qw",
+                        "comment_body": "It’s not real stable. I’m having a few issues. It’s pretty laggy, I’ve crashed about 4 times in the last 10 hours. It seems to be working itself out but if you don’t know what you’re doing, I’d suggest waiting.",
+                        "comment_author": "CYPH3R_22",
+                        "comment_dateTime": "2024-06-11 09:57:22",
+                        "comment_score": 3,
+                        "replies": []
+                    },
+                    {
+                        "comment_id": "l83nmis",
+                        "comment_body": "You can't go back to the stable channel from the developer beta unless you restore your phone, so make sure you have a backup to do the restore ",
+                        "comment_author": "Lower_Fan",
+                        "comment_dateTime": "2024-06-11 13:34:35",
+                        "comment_score": 3,
+                        "replies": [
+                            {
+                                "comment_id": "l8b1494",
+                                "comment_body": "So public beta is a better option than developer beta? Or i am screwed if i choose ether of them",
+                                "comment_author": "Alvi_sheikh",
+                                "comment_dateTime": "2024-06-12 20:19:43",
+                                "comment_score": 1,
+                                "replies": [
+                                    {
+                                        "comment_id": "l8bwasx",
+                                        "comment_body": "Public beta is better option yes. You can switch to the stable channel once it comes out ",
+                                        "comment_author": "Lower_Fan",
+                                        "comment_dateTime": "2024-06-12 23:11:47",
+                                        "comment_score": 2,
+                                        "replies": [
+                                            {
+                                                "comment_id": "l8fulj3",
+                                                "comment_body": "So waiting for the public beta is worth the wait…",
+                                                "comment_author": "Alvi_sheikh",
+                                                "comment_dateTime": "2024-06-13 17:40:09",
+                                                "comment_score": 1,
+                                                "replies": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "comment_id": "l83dl9h",
+                        "comment_body": "Backing up was just to make sure to revert back once you encounter those buggy unstable experience",
+                        "comment_author": "Manoj200801",
+                        "comment_dateTime": "2024-06-11 11:53:45",
+                        "comment_score": 2,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l8343qw",
+                "comment_body": "It’s not real stable. I’m having a few issues. It’s pretty laggy, I’ve crashed about 4 times in the last 10 hours. It seems to be working itself out but if you don’t know what you’re doing, I’d suggest waiting.",
+                "comment_author": "CYPH3R_22",
+                "comment_dateTime": "2024-06-11 09:57:22",
+                "comment_score": 3,
+                "replies": []
+            },
+            {
+                "comment_id": "l83nmis",
+                "comment_body": "You can't go back to the stable channel from the developer beta unless you restore your phone, so make sure you have a backup to do the restore ",
+                "comment_author": "Lower_Fan",
+                "comment_dateTime": "2024-06-11 13:34:35",
+                "comment_score": 3,
+                "replies": [
+                    {
+                        "comment_id": "l8b1494",
+                        "comment_body": "So public beta is a better option than developer beta? Or i am screwed if i choose ether of them",
+                        "comment_author": "Alvi_sheikh",
+                        "comment_dateTime": "2024-06-12 20:19:43",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l8bwasx",
+                                "comment_body": "Public beta is better option yes. You can switch to the stable channel once it comes out ",
+                                "comment_author": "Lower_Fan",
+                                "comment_dateTime": "2024-06-12 23:11:47",
+                                "comment_score": 2,
+                                "replies": [
+                                    {
+                                        "comment_id": "l8fulj3",
+                                        "comment_body": "So waiting for the public beta is worth the wait…",
+                                        "comment_author": "Alvi_sheikh",
+                                        "comment_dateTime": "2024-06-13 17:40:09",
+                                        "comment_score": 1,
+                                        "replies": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l83dl9h",
+                "comment_body": "Backing up was just to make sure to revert back once you encounter those buggy unstable experience",
+                "comment_author": "Manoj200801",
+                "comment_dateTime": "2024-06-11 11:53:45",
+                "comment_score": 2,
+                "replies": []
+            },
+            {
+                "comment_id": "l8b1494",
+                "comment_body": "So public beta is a better option than developer beta? Or i am screwed if i choose ether of them",
+                "comment_author": "Alvi_sheikh",
+                "comment_dateTime": "2024-06-12 20:19:43",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l8bwasx",
+                        "comment_body": "Public beta is better option yes. You can switch to the stable channel once it comes out ",
+                        "comment_author": "Lower_Fan",
+                        "comment_dateTime": "2024-06-12 23:11:47",
+                        "comment_score": 2,
+                        "replies": [
+                            {
+                                "comment_id": "l8fulj3",
+                                "comment_body": "So waiting for the public beta is worth the wait…",
+                                "comment_author": "Alvi_sheikh",
+                                "comment_dateTime": "2024-06-13 17:40:09",
+                                "comment_score": 1,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l8bwasx",
+                "comment_body": "Public beta is better option yes. You can switch to the stable channel once it comes out ",
+                "comment_author": "Lower_Fan",
+                "comment_dateTime": "2024-06-12 23:11:47",
+                "comment_score": 2,
+                "replies": [
+                    {
+                        "comment_id": "l8fulj3",
+                        "comment_body": "So waiting for the public beta is worth the wait…",
+                        "comment_author": "Alvi_sheikh",
+                        "comment_dateTime": "2024-06-13 17:40:09",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l8fulj3",
+                "comment_body": "So waiting for the public beta is worth the wait…",
+                "comment_author": "Alvi_sheikh",
+                "comment_dateTime": "2024-06-13 17:40:09",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Lost iPhone in a different country…",
+        "post_score": 1,
+        "post_id": "1dd6pzm",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd6pzm/lost_iphone_in_a_different_country/",
+        "post_numComments": 6,
+        "post_dateTime": "2024-06-11 07:37:49",
+        "post_text": "I just moved to a new country and I barely bought a spare iPhone to keep the two phones separately for each country. \n\nI lost the new phone 2 days ago. It shares the same Apple ID/iCloud with my current iPhone. Settings are also almost identical including some messaging apps. But, the lost phone has Find My turned off. Original SIM from the old country was still in there when lost but roaming is off too. \n\nI can’t find it on iCloud/find map. It doesn’t show up. I can see it under my Apple ID in the settings, listed as one of my devices. I can see serial number and IMEI and all. \n\nWhat should I do in this situation?\nIs there a way to track the phone?\nI can’t seem to even turn on Lost Mode. \n\nThanks in advance!🙏",
+        "post_comments": [
+            {
+                "comment_id": "l82wxq2",
+                "comment_body": "> the lost phone has Find My turned off\n\nWell there's your problem. Realistically, you're probably out of luck, whoever finds the phone will reset it and enjoy their new phone.\n\nMaybe you'll get lucky and they'll try to reach you, but without a working SIM your odds of anyone jumping through the additional hoops go way down.",
+                "comment_author": "thedaveCA",
+                "comment_dateTime": "2024-06-11 08:33:07",
+                "comment_score": 5,
+                "replies": [
+                    {
+                        "comment_id": "l87ap5a",
+                        "comment_body": "What if Find My was enabled, what can I do?",
+                        "comment_author": "Brownboysea",
+                        "comment_dateTime": "2024-06-12 02:52:32",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l87h0ue",
+                                "comment_body": "Track the phone, get a location if it is spotted by other devices (potentially, anyway). And most importantly, someone who finds it can't wipe it and use it, which won't stop a professional thief but it may encourage a somewhat honest person to contact you.",
+                                "comment_author": "thedaveCA",
+                                "comment_dateTime": "2024-06-12 03:37:49",
+                                "comment_score": 1,
+                                "replies": [
+                                    {
+                                        "comment_id": "l87h4xt",
+                                        "comment_body": "Thanks",
+                                        "comment_author": "Brownboysea",
+                                        "comment_dateTime": "2024-06-12 03:38:38",
+                                        "comment_score": 1,
+                                        "replies": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l82up4u",
+                "comment_body": "No it’s gone, sorry. You’ll have to wait to see if someone finds and puts an active working sim in it",
+                "comment_author": "HauntingReddit88",
+                "comment_dateTime": "2024-06-11 08:08:36",
+                "comment_score": 0,
+                "replies": []
+            },
+            {
+                "comment_id": "l87ap5a",
+                "comment_body": "What if Find My was enabled, what can I do?",
+                "comment_author": "Brownboysea",
+                "comment_dateTime": "2024-06-12 02:52:32",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l87h0ue",
+                        "comment_body": "Track the phone, get a location if it is spotted by other devices (potentially, anyway). And most importantly, someone who finds it can't wipe it and use it, which won't stop a professional thief but it may encourage a somewhat honest person to contact you.",
+                        "comment_author": "thedaveCA",
+                        "comment_dateTime": "2024-06-12 03:37:49",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l87h4xt",
+                                "comment_body": "Thanks",
+                                "comment_author": "Brownboysea",
+                                "comment_dateTime": "2024-06-12 03:38:38",
+                                "comment_score": 1,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l87h0ue",
+                "comment_body": "Track the phone, get a location if it is spotted by other devices (potentially, anyway). And most importantly, someone who finds it can't wipe it and use it, which won't stop a professional thief but it may encourage a somewhat honest person to contact you.",
+                "comment_author": "thedaveCA",
+                "comment_dateTime": "2024-06-12 03:37:49",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l87h4xt",
+                        "comment_body": "Thanks",
+                        "comment_author": "Brownboysea",
+                        "comment_dateTime": "2024-06-12 03:38:38",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l87h4xt",
+                "comment_body": "Thanks",
+                "comment_author": "Brownboysea",
+                "comment_dateTime": "2024-06-12 03:38:38",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "How much should I spend on a phone case?",
+        "post_score": 0,
+        "post_id": "1dd11cn",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd11cn/how_much_should_i_spend_on_a_phone_case/",
+        "post_numComments": 5,
+        "post_dateTime": "2024-06-11 02:24:25",
+        "post_text": "Should I pay 20-40 for a case with art on it or just get a black one? Is there some other cheaper way like buying a sticker and a plain case? ",
+        "post_comments": [
+            {
+                "comment_id": "l82xl8g",
+                "comment_body": "5 dollars top",
+                "comment_author": "Sempot",
+                "comment_dateTime": "2024-06-11 08:40:19",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l838kma",
+                "comment_body": "It’s up to you. Do you have any preferences? What are your spending limits?",
+                "comment_author": "soggy_bellows",
+                "comment_dateTime": "2024-06-11 10:52:37",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l83omip",
+                "comment_body": "If the phone case doesn’t cost at least 50% the price of the phone, you don’t love your phone enough. Armed with this information, make your decision.",
+                "comment_author": "ag3ntweird0",
+                "comment_dateTime": "2024-06-11 13:43:09",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "locked notes don’t show up on icloud.com",
+        "post_score": 1,
+        "post_id": "1dd3fbp",
+        "post_url": "https://www.reddit.com/gallery/1dd3fbp",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-11 04:26:48",
+        "post_text": "hey guys can anybody else see locked notes on icloud.com? cause for me when i go to the main homepage it only previews the unlocked ones. but if i click on the notes from there it will show the locked one in the list and i’m able to unlock it and stuff but why doesn’t it show previewed on notes. But when i click on the notes on icloud.com it shows the locked note in the list and i’m able to unlock it and stuff ",
+        "post_comments": []
+    },
+    {
+        "post_title": "What do I do about this?",
+        "post_score": 8,
+        "post_id": "1dd5y0c",
+        "post_url": "https://i.redd.it/wcil99jqhv5d1.jpeg",
+        "post_numComments": 9,
+        "post_dateTime": "2024-06-11 06:48:00",
+        "post_text": "",
+        "post_comments": [
+            {
+                "comment_id": "l82ounx",
+                "comment_body": "It knows you never read or reply to messages…., so it’s decided you no longer need the phone to charge..",
+                "comment_author": "Winter-Love-3812",
+                "comment_dateTime": "2024-06-11 07:08:51",
+                "comment_score": 4,
+                "replies": [
+                    {
+                        "comment_id": "l82p1nu",
+                        "comment_body": "😂ya that number looks bad but I stg it’s all spam stuff I just never clean it out 😅",
+                        "comment_author": "ImAreptile2355",
+                        "comment_dateTime": "2024-06-11 07:10:44",
+                        "comment_score": 3,
+                        "replies": [
+                            {
+                                "comment_id": "l82tnyu",
+                                "comment_body": "Sure…..sure…. 🤣 😉 \n\nAs far as the phone goes, you could try some compressed air (gently) or even a can of ‘air duster’ - the stuff used to clean out computer keyboards etc. maybe even a hairdryer on low heat 🤷‍♂️ \n\nhttps://www.tradeflame.com/air-duster\n\nIt *may* work, but no guarantees sorry",
+                                "comment_author": "Winter-Love-3812",
+                                "comment_dateTime": "2024-06-11 07:57:33",
+                                "comment_score": 1,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l84y96r",
+                "comment_body": "Magsafe charging",
+                "comment_author": "migatte_yosha",
+                "comment_dateTime": "2024-06-11 18:32:27",
+                "comment_score": 3,
+                "replies": []
+            },
+            {
+                "comment_id": "l82mqzm",
+                "comment_body": "I haven’t dropped it in water or anything. This is completely random as far as I’m aware",
+                "comment_author": "ImAreptile2355",
+                "comment_dateTime": "2024-06-11 06:48:58",
+                "comment_score": 4,
+                "replies": [
+                    {
+                        "comment_id": "l82t3ej",
+                        "comment_body": "then it could be a bad charging cable or bad charging port. any visual damage on either?",
+                        "comment_author": "dayankuo234",
+                        "comment_dateTime": "2024-06-11 07:51:35",
+                        "comment_score": 5,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l82w3bj",
+                "comment_body": "Use the app “shortcuts” and download the “water eject” shortcut",
+                "comment_author": "Pestosus",
+                "comment_dateTime": "2024-06-11 08:23:45",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l83jh5p",
+                "comment_body": "just plug the hair dryer and make it dry tho you didnt put it in water . Give it a try.",
+                "comment_author": "mosthated_bitch",
+                "comment_dateTime": "2024-06-11 12:56:37",
+                "comment_score": 0,
+                "replies": []
+            },
+            {
+                "comment_id": "l83dwrg",
+                "comment_body": "Rice",
+                "comment_author": "Ok-Wrongdoer4021",
+                "comment_dateTime": "2024-06-11 11:57:26",
+                "comment_score": -1,
+                "replies": []
+            },
+            {
+                "comment_id": "l82p1nu",
+                "comment_body": "😂ya that number looks bad but I stg it’s all spam stuff I just never clean it out 😅",
+                "comment_author": "ImAreptile2355",
+                "comment_dateTime": "2024-06-11 07:10:44",
+                "comment_score": 3,
+                "replies": [
+                    {
+                        "comment_id": "l82tnyu",
+                        "comment_body": "Sure…..sure…. 🤣 😉 \n\nAs far as the phone goes, you could try some compressed air (gently) or even a can of ‘air duster’ - the stuff used to clean out computer keyboards etc. maybe even a hairdryer on low heat 🤷‍♂️ \n\nhttps://www.tradeflame.com/air-duster\n\nIt *may* work, but no guarantees sorry",
+                        "comment_author": "Winter-Love-3812",
+                        "comment_dateTime": "2024-06-11 07:57:33",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l82t3ej",
+                "comment_body": "then it could be a bad charging cable or bad charging port. any visual damage on either?",
+                "comment_author": "dayankuo234",
+                "comment_dateTime": "2024-06-11 07:51:35",
+                "comment_score": 5,
+                "replies": []
+            },
+            {
+                "comment_id": "l82tnyu",
+                "comment_body": "Sure…..sure…. 🤣 😉 \n\nAs far as the phone goes, you could try some compressed air (gently) or even a can of ‘air duster’ - the stuff used to clean out computer keyboards etc. maybe even a hairdryer on low heat 🤷‍♂️ \n\nhttps://www.tradeflame.com/air-duster\n\nIt *may* work, but no guarantees sorry",
+                "comment_author": "Winter-Love-3812",
+                "comment_dateTime": "2024-06-11 07:57:33",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Photos gone",
+        "post_score": 8,
+        "post_id": "1dd4wnl",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd4wnl/photos_gone/",
+        "post_numComments": 2,
+        "post_dateTime": "2024-06-11 05:48:29",
+        "post_text": "I am trying to upload all of my photos from my old phones to Google photos. In doing this, I came across one phone that would not let me download the Google photos app. The phone did have airdrop, so I (thought) airdropped the photos to my current phone, relying on the automatic Google sync, then deleted them from the old phone. This was about 3 months ago. Tonight I plugged in the phone to finish uploading, and I noticed the airdrop failed, so they didn’t get uploaded, and the photos are gone from the recently deleted folder. Is there any way at all I can get these back? These were all the photos of memories from my high school, I am sick to my stomach. Does Apple keep these anywhere? Is there any hope???",
+        "post_comments": [
+            {
+                "comment_id": "l82p8p3",
+                "comment_body": "Try checking your Mac/PC for backups, might have synced before Airdrop failed",
+                "comment_author": "DolorumDerideo9005",
+                "comment_dateTime": "2024-06-11 07:12:41",
+                "comment_score": 2,
+                "replies": [
+                    {
+                        "comment_id": "l8dhvfd",
+                        "comment_body": "Turns out I had a sync to my photos on my Mac, so crisis has been resolved!!!",
+                        "comment_author": "Yogurt_clam_chowder",
+                        "comment_dateTime": "2024-06-13 05:29:59",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l8dhvfd",
+                "comment_body": "Turns out I had a sync to my photos on my Mac, so crisis has been resolved!!!",
+                "comment_author": "Yogurt_clam_chowder",
+                "comment_dateTime": "2024-06-13 05:29:59",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Slower device using dual sim?",
+        "post_score": 1,
+        "post_id": "1dd41ca",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd41ca/slower_device_using_dual_sim/",
+        "post_numComments": 1,
+        "post_dateTime": "2024-06-11 04:59:47",
+        "post_text": "Hi! \n\nI have a brand new iPhone 15 pro. It was working very quickly and my 5G was super quick. \n\nHowever after adding an e-sim as I am moving countries next month. It has slowed down significantly. \n\nI have data switching off, but the second line is still on set to low data mode. \n\nHas anyone else encountered this issue?\n\nCheers ",
+        "post_comments": [
+            {
+                "comment_id": "l82p9mn",
+                "comment_body": "Yeah something with running both sim at the same time and connecting to bands and frequencies. Not as good if you’re looking for data speed performance on dual sim",
+                "comment_author": "IBIubbleTea",
+                "comment_dateTime": "2024-06-11 07:12:56",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "iPhone 15 pro crashing",
+        "post_score": 1,
+        "post_id": "1dd2vsy",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd2vsy/iphone_15_pro_crashing/",
+        "post_numComments": 2,
+        "post_dateTime": "2024-06-11 03:59:15",
+        "post_text": "Anyone having issues with the iPhone 15 going black when you try to add a photo in messages? Or randomly the browser is just black and won’t actually load a webpage? Started like two weeks ago. iOS 17.5.1. Only resetting the phone seems to resolve temporarily.",
+        "post_comments": [
+            {
+                "comment_id": "l821pck",
+                "comment_body": "Try restarting the Messages app or clearing browser cache, see if that helps!",
+                "comment_author": "OptioAngustus1433",
+                "comment_dateTime": "2024-06-11 04:04:18",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l82mtaj",
+                        "comment_body": "Thanks, didn’t work. Safari still struggling, and noticed the photos app is also freezing.",
+                        "comment_author": "HeatFan_LA",
+                        "comment_dateTime": "2024-06-11 06:49:34",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l82mtaj",
+                "comment_body": "Thanks, didn’t work. Safari still struggling, and noticed the photos app is also freezing.",
+                "comment_author": "HeatFan_LA",
+                "comment_dateTime": "2024-06-11 06:49:34",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Transferring music",
+        "post_score": 1,
+        "post_id": "1dd2v8h",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd2v8h/transferring_music/",
+        "post_numComments": 4,
+        "post_dateTime": "2024-06-11 03:58:22",
+        "post_text": "Anyone know of a way to transfer music from files app on iPhone to pc? I’m about to get a new phone and really don’t want to lose all the music I’ve downloaded over the years. Tons of stuff online but nothing really works. ",
+        "post_comments": [
+            {
+                "comment_id": "l82tzss",
+                "comment_body": "I use LocalSend. It transfers over your Wi-Fi network and is pretty easy to use. (tip: easier if you put all your music in a zip file)",
+                "comment_author": "trajnomleko",
+                "comment_dateTime": "2024-06-11 08:01:04",
+                "comment_score": 2,
+                "replies": []
+            },
+            {
+                "comment_id": "l8220zk",
+                "comment_body": "Try using iTunes on your PC to transfer music from your iPhone.",
+                "comment_author": "OptioAngustus1433",
+                "comment_dateTime": "2024-06-11 04:06:32",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l8229dy",
+                        "comment_body": "I don’t think iTunes lets you transfer from files app.",
+                        "comment_author": "Jft91",
+                        "comment_dateTime": "2024-06-11 04:08:09",
+                        "comment_score": 2,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l8edrc7",
+                "comment_body": "From Files app? Check this: [https://www.copytrans.net/copytransfiley/](https://www.copytrans.net/copytransfiley/)",
+                "comment_author": "WindMarc",
+                "comment_dateTime": "2024-06-13 10:58:42",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l8229dy",
+                "comment_body": "I don’t think iTunes lets you transfer from files app.",
+                "comment_author": "Jft91",
+                "comment_dateTime": "2024-06-11 04:08:09",
+                "comment_score": 2,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Quicktime logo flashes after skipping intro on apple tv shows?",
+        "post_score": 9,
+        "post_id": "1dd2o3m",
+        "post_url": "https://i.redd.it/bddyh8fllu5d1.jpeg",
+        "post_numComments": 2,
+        "post_dateTime": "2024-06-11 03:47:50",
+        "post_text": "Have never seen this before. But when I skip the intro on apple tv+ shows, the screen briefly flashes with this image. It happens on my new iPad Pro as well. Any one else experiencing this?",
+        "post_comments": [
+            {
+                "comment_id": "l826swk",
+                "comment_body": "Works as intended. Its just a loading thing",
+                "comment_author": "tlasan1",
+                "comment_dateTime": "2024-06-11 04:40:06",
+                "comment_score": 2,
+                "replies": []
+            },
+            {
+                "comment_id": "l831yjy",
+                "comment_body": "QuickTime Player logo silhouette for loading",
+                "comment_author": "martin191234",
+                "comment_dateTime": "2024-06-11 09:31:05",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Find my iPhone- “You stopped sharing location” question ",
+        "post_score": 1,
+        "post_id": "1dd25ri",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd25ri/find_my_iphone_you_stopped_sharing_location/",
+        "post_numComments": 4,
+        "post_dateTime": "2024-06-11 03:21:31",
+        "post_text": "My girlfriend and I share our locations with each other but today I received a notification in our chat that said, “You stopped sharing location with (gf name)”. I got the notification at 5pm and when I asked why she stopped sharing her location she said I removed her contact from the shared location list and sent a screenshot of our chat with the same notification “You stopped sharing location with (my name)” that she received at 1pm but I can’t see it on my phone. The thing is I never stopped sharing my location, I have no problem with it, but she insists I manually went into the app and removed her contact. Last night I asked my girlfriend about her odd locations while she was drunk in the passenger seat driving around with her friend so when our locations stop sharing the next day it raises an alarm. Can anyone tell me if there’s some kind of glitch or oversight cause it’s either that or my girlfriend is gaslighting me into oblivion and she stopped sharing her location earlier. Thank you\n\n\nTDLR: Received notification at 5pm saying I stopped sharing location with girlfriend. Girlfriend sent a screenshot of the same notification on her phone from 1pm and insists I stopped sharing my location so she did the same at 5pm. I never stopped sharing my location in over a year. This comes a day after I asked about her strange locations while she had been drinking. Is my girlfriend just blatantly lying or could there be a glitch or oversight? Dm if you need screenshot for clarity \n",
+        "post_comments": [
+            {
+                "comment_id": "l81xs97",
+                "comment_body": "Oh, honey",
+                "comment_author": "burner46",
+                "comment_dateTime": "2024-06-11 03:37:11",
+                "comment_score": 3,
+                "replies": []
+            },
+            {
+                "comment_id": "l81x3q9",
+                "comment_body": "There’s no oversight. She removed you from her Find My, and I’m sure you can figure out why.",
+                "comment_author": "nanapancakethusiast",
+                "comment_dateTime": "2024-06-11 03:32:18",
+                "comment_score": 2,
+                "replies": []
+            },
+            {
+                "comment_id": "l81zxu1",
+                "comment_body": "I’ve seen a few threads like this pop up recently, though they seem to just have locations suddenly turned off. I don’t see anyone getting a warning that its been turned off from memory. Get her to show you the message in person, not a screenshot. Then i would honestly just accept it as truth. Though her turning off her instead of asking why you turned off yours was strange. \n\nIf i suddenly got a message that my partner turned off his I’d be straight on the phone asking why.",
+                "comment_author": "StarlingX10",
+                "comment_dateTime": "2024-06-11 03:52:12",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l81zhtx",
+                "comment_body": "I have heard other people complain about this. \n\nI'd have a small talk and give each other the benefit of the doubt. Technology is never perfect. \n\nMaybe use this AND 360. I have never had a problem with that not working. I've used it for years.",
+                "comment_author": "TamagotchiGirl",
+                "comment_dateTime": "2024-06-11 03:49:06",
+                "comment_score": 0,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Need help transferring WhatsApp chats from iOS to Android - Backup file is over 80GB!",
+        "post_score": 0,
+        "post_id": "1dd1k65",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dd1k65/need_help_transferring_whatsapp_chats_from_ios_to/",
+        "post_numComments": 1,
+        "post_dateTime": "2024-06-11 02:50:59",
+        "post_text": "Hi everyone,\n\nI'm facing a serious issue and I'm hoping someone here can offer a viable solution. I recently switched from an iPhone to an Android device, and I'm trying to transfer all my WhatsApp chats. So far, so good, but the huge problem is that my WhatsApp backup file in iCloud is over 80GB.\n\nI've tried several options, but all the guides and tools I've found don't seem to handle a file of this size. Additionally, I don't want to lose any important chats or attachments. Here are some additional details that might be helpful:\n\n* I have enough storage space on my new Android device.\n* I've already tried using the official WhatsApp transfer method, but it seems it can't handle the file size.\n* I've seen some third-party tools, but I'm concerned about their security and effectiveness.\n\nHas anyone else gone through something similar or have any suggestions on how I can transfer my chats without losing anything in the process? Any advice, tools, or guides would be greatly appreciated.\n\nThanks in advance for your help!",
+        "post_comments": []
+    }
+]

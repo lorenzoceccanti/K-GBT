@@ -1,0 +1,1178 @@
+[
+    {
+        "post_title": "iPhone disconnects from hotspot Wifi when device is locked.",
+        "post_score": 0,
+        "post_id": "1dcgu83",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dcgu83/iphone_disconnects_from_hotspot_wifi_when_device/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-10 10:44:58",
+        "post_text": "So here is one annoying thing. I have two devices, one android and other is iOS device (15 pm) running  17.4. I have my work SIM on android device and i uses its hotspot for my iOS device to stay connected. \n\nHowever whenever i lock my iOS device, it disconnects from the hotspot until i unlock it. No matter what, it never stays connected with the hotspot. Its like it knows it is connected to a hotspot so it disconnects. Because of this, i miss my emails, WhatsApp calls and messages. As soon as i unlock the device, im bombarded with the notifications which were never delivered since my device was apparently offline. \n\nNow this never happens with the home WiFi. Device  always stays connected. It only happens with the hotspot. \n\nI thought it might be the hotspot on android device which might be turning off but i have kept it on always on.  \n\nIs this a bug because this doesn’t seem normal to me. Or is there a setting i need to change so it stays connected with the hotspot?\n\nThanks",
+        "post_comments": []
+    },
+    {
+        "post_title": "Does apple send out a notification if family sharing is turned off?",
+        "post_score": 0,
+        "post_id": "1dcgf7m",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dcgf7m/does_apple_send_out_a_notification_if_family/",
+        "post_numComments": 3,
+        "post_dateTime": "2024-06-10 10:12:46",
+        "post_text": "Hi, so i might kinda have a weird situation. \n\nAnyway I live in the Philippines and my parents are like super strict and track everything I do. Unfortunately a few years ago I found out I was queer and have to hide it from them. I managed to hide it from them so far and am now in college. \n\nThe thing is I need to buy procreate for my class. I have a payment method that works after asking my friend to try it out for me. I just don’t have a way to purchase it at the moment because I’m on family sharing and need permission to purchase. \n\nLuckily I have access to my dad’s phone and he is the organizer. I was just wondering if a notification would be sent if I turned off family sharing. I just don’t want my parents to find out I bought procreate cause that means they’ll regularly ask to see the contents of the app and I don’t want to delete any of my art just because I fear they might see it. ",
+        "post_comments": [
+            {
+                "comment_id": "l7xrfcm",
+                "comment_body": "You are no longer under 13, so as long as you have enough balance in your Apple account, your purchases should not be sent to your parents for payment. To add balances, just purchase Apple Gift cards in your country.\n\nhttps://www.apple.com/ph/shop/gift-cards\n\nBtw, if you are doing purchase sharing to your parents, then they can see your purchased software, so you may want to stop it.",
+                "comment_author": "ussv0y4g3r",
+                "comment_dateTime": "2024-06-10 11:04:54",
+                "comment_score": 3,
+                "replies": []
+            },
+            {
+                "comment_id": "l7xqv8p",
+                "comment_body": "just take a deep breath what is the worst that can happen.",
+                "comment_author": "Outrageous-Carob-236",
+                "comment_dateTime": "2024-06-10 10:57:53",
+                "comment_score": -7,
+                "replies": [
+                    {
+                        "comment_id": "l7xt0rz",
+                        "comment_body": "Is this meant to be reassuring? Because the answer to that question is not gonna reassure OP.",
+                        "comment_author": "strawbrmoon",
+                        "comment_dateTime": "2024-06-10 11:24:50",
+                        "comment_score": 5,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l7xt0rz",
+                "comment_body": "Is this meant to be reassuring? Because the answer to that question is not gonna reassure OP.",
+                "comment_author": "strawbrmoon",
+                "comment_dateTime": "2024-06-10 11:24:50",
+                "comment_score": 5,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Give old phone to kid - worried about deleting photos",
+        "post_score": 1,
+        "post_id": "1dcepgh",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dcepgh/give_old_phone_to_kid_worried_about_deleting/",
+        "post_numComments": 2,
+        "post_dateTime": "2024-06-10 08:11:18",
+        "post_text": "I want to give my old iPhone to my kid. I’ve removed almost all the alls from it. I mainly want him to use it for music and photos. \n\nWhat’s the best way for him to use it without affecting my iCloud account but still being able to use apps registered in my name?",
+        "post_comments": [
+            {
+                "comment_id": "l7xdf0v",
+                "comment_body": "Set up Apple family and share apps/purchases. Set him up as a child account and you can micromanage what he does. Create an iCloud account and if he’s under 13 it will be simple",
+                "comment_author": "Theblobsnark",
+                "comment_dateTime": "2024-06-10 08:17:48",
+                "comment_score": 6,
+                "replies": []
+            },
+            {
+                "comment_id": "l7xl1iq",
+                "comment_body": "Wipe the phone (restore to factory settings) and set it up from scratch using his Apple ID. Then use family sharing to share apps",
+                "comment_author": "LTS81",
+                "comment_dateTime": "2024-06-10 09:45:28",
+                "comment_score": 5,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Help Backing up iPhone photos",
+        "post_score": 1,
+        "post_id": "1dceblb",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dceblb/help_backing_up_iphone_photos/",
+        "post_numComments": 3,
+        "post_dateTime": "2024-06-10 07:45:32",
+        "post_text": "So I recently bought an iPhone 15. Transferred all my data, photos and all media from my previous iPhone 8S and had been using it without any problems. I also pay for iCloud+, so all my photos are synced to the cloud as well.\n\nLast week I found out that all my 2023 photos were missing, both on my iCloud and locally. This was really strange since I made no changes, nor deleted any photos recently and photos sync shows up to date.  I really panicked,because last year we made a very memorable trip to Washington and took many photos. I Checked on iCloud from my PC and they were also gone. I thought the photos were gone for good until today I found, miraculously, a really old iPhone 6s I had previously which was last synced on March. It still has all the missing 2023 photos, so my first thought was to immediately turn off iCloud sync so they wouldn’t auto delete. Now I need some advice on how can I proceed to save the missing photos.\n\nI tried connecting the iPhone via USB and using iTunes but when syncing finishes it is still missing all the 2023 photos and just downloads the most up to date photos stored in iCloud.\n\npd. Sorry for my bad English. This is not my first language. I really appreciate if you guys could shed some light on this matter.",
+        "post_comments": [
+            {
+                "comment_id": "l7xekga",
+                "comment_body": "Transfer them to Dropbox or email them to yourself maybe?",
+                "comment_author": "Pigeonofthesea8",
+                "comment_dateTime": "2024-06-10 08:30:25",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l8j39v5",
+                "comment_body": "I understand your situation where you recently discovered all your photos from 2023 are missing both from iCloud and your local device, which is understandably distressing. You've taken a wise step by disabling iCloud sync to prevent further data loss.\n\nTo help you retrieve the lost photos, I suggest using **MobiKin Doctor for iOS**. This tool can scan and recover all photos from your iCloud, even if they are no longer visible on your device.\n\nYou can download and install MobiKin Doctor for iOS, then follow the steps to scan your iCloud account. This tool is specifically designed to recover lost data from iOS devices, including photos, contacts, messages, and more.",
+                "comment_author": "AllenyGavin",
+                "comment_dateTime": "2024-06-14 05:37:18",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Background apps are restarting too often",
+        "post_score": 1,
+        "post_id": "1dcculw",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dcculw/background_apps_are_restarting_too_often/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-10 06:14:03",
+        "post_text": "Background Apps Refreshing Way too Often\n\nPrior to the iPhone 15 Pro, I had an iPhone 11 Pro Max and an issue that cropped up recently was that any time I sent an app to the background and went to another app, if I were to go back to the original app, it would refresh, which is a pain if I'm trying to copy over text or using a bank app, etc. It's happening almost every time I switch apps, even with only 2 apps being active.\n\nI backed up my device and bought a new iPhone 15 Pro in hopes that by upgrading my phone with a better chip and more RAM, it'd get rid of this problem but it still exists. Anyone else experience this? I backed up my iPhone 11 Pro Max and loaded onto the new phone, so maybe it's something related to that?",
+        "post_comments": []
+    },
+    {
+        "post_title": "Can you turn off sound notifications while keeping vibrations NOT in silent mode?",
+        "post_score": 1,
+        "post_id": "1dccl7z",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dccl7z/can_you_turn_off_sound_notifications_while/",
+        "post_numComments": 2,
+        "post_dateTime": "2024-06-10 06:00:03",
+        "post_text": "I want to be able to hear incoming calls, so silent mode is not an option, but I don’t want to have a sound for my notifications, just vibrations. Is it even possible?",
+        "post_comments": [
+            {
+                "comment_id": "l7xdphu",
+                "comment_body": "Use a silent ringtone. You can either buy one from the built-in Tone Store or create one yourself by following some guides on internet.",
+                "comment_author": "ussv0y4g3r",
+                "comment_dateTime": "2024-06-10 08:21:00",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l7xg39m",
+                        "comment_body": "You’re a lifesaver, thank you!",
+                        "comment_author": "ii_elfie_ii",
+                        "comment_dateTime": "2024-06-10 08:47:24",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l7xg39m",
+                "comment_body": "You’re a lifesaver, thank you!",
+                "comment_author": "ii_elfie_ii",
+                "comment_dateTime": "2024-06-10 08:47:24",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Restoring backup without resetting new iPhone?",
+        "post_score": 0,
+        "post_id": "1dcchip",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dcchip/restoring_backup_without_resetting_new_iphone/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-10 05:54:01",
+        "post_text": "Hello!\nI have two phones, an old one (SE 1st Generation) and a new one (11).\nI’ve been using my new one for quite some time now, and didn’t restore the data from my old phone; since there isn’t much in there.\nAlthough, as of lately, I’ve been wanting to replay a game that’s downloaded on my old phone. Issue is, that game doesn’t ask you to make an account.\nSo to transfer my game’s data; the solution I was given was to create a backup from my old iPhone, and upload it to my new iPhone. This way, the app’s data would be transferred as well.\nAlthough, when I looked it up; it says restoring a backup would delete all of my new phone’s data.\n\nIs there any way for me to get my game’s data onto my new phone, without resetting everything?",
+        "post_comments": []
+    },
+    {
+        "post_title": "Replacement messed up my phone",
+        "post_score": 0,
+        "post_id": "1dccg3o",
+        "post_url": "https://i.redd.it/96urmu0s2o5d1.jpeg",
+        "post_numComments": 2,
+        "post_dateTime": "2024-06-10 05:51:42",
+        "post_text": "I got my phone 11’s batter(y) replaced today from Geek Squad and now I have this irregularity on the bottom right of my display, my cellular isn’t working, and my front facing camera lens looks like it has a giant smudge on it when I try to take a picture, even though there’s nothing on it. If they can’t fix this damage that THEY caused, am I screwed? ",
+        "post_comments": [
+            {
+                "comment_id": "l7x6fhb",
+                "comment_body": "While I can’t speak to the camera or the cell signal, every once in a while when you replace a screen the screen gets those smudges on them that fade away in a day or two. I have a steam deck I replaced the screen on that had a similar smudge for about a day and now it looks fine.",
+                "comment_author": "DeathByPetrichor",
+                "comment_dateTime": "2024-06-10 07:05:19",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l7x6j6c",
+                        "comment_body": "https://preview.redd.it/e70r2tg0go5d1.png?width=950&format=png&auto=webp&s=ba051c7a6fd081686e6df659e03d6a69637eb98d\n\nHard to tell but those black streaks were super messed up at certain angles, like it damaged the polarizer filter, but it faded away.",
+                        "comment_author": "DeathByPetrichor",
+                        "comment_dateTime": "2024-06-10 07:06:18",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l7x6j6c",
+                "comment_body": "https://preview.redd.it/e70r2tg0go5d1.png?width=950&format=png&auto=webp&s=ba051c7a6fd081686e6df659e03d6a69637eb98d\n\nHard to tell but those black streaks were super messed up at certain angles, like it damaged the polarizer filter, but it faded away.",
+                "comment_author": "DeathByPetrichor",
+                "comment_dateTime": "2024-06-10 07:06:18",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "How to backup as quickly as possible?",
+        "post_score": 1,
+        "post_id": "1dcbn9m",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dcbn9m/how_to_backup_as_quickly_as_possible/",
+        "post_numComments": 3,
+        "post_dateTime": "2024-06-10 05:05:48",
+        "post_text": "I stupidly used my phone after dropping it in water, and after 2 days of glitchy operation it has shut down and only flashes the apple logo. I looked up the problem, and see that other people experiencing the same issue have had their phones work for a short amount of time then crash again. I'd like to know how I can back my phone up as quickly as possible, in case this happens for me.\n\nTheres about 64 gb of data on my phone ( minus however much the updates take up, which is probably a lot). Roughly half of it is in camera roll, I'm not sure why so much, I dont have that many videos, but I guess all my pictures add up. I only have the free 5GB of icloud storage so my phone hasn't backed up through icloud in a long time.   \n  \nI've tried recently to download my photos to a computer but it just didnt work, the photos app on my PC and laptop would just infinitely say they had sent a request to my phone but nothing would show up. So I'm not sure I'll be able to upload stuff manually like that.   \nI'd really like to save my saved passwords, contacts, and some photos, but am not sure what the fastest way to do that will be - assuming I have a short window of opportunity to use my phone.\n\nThanks.",
+        "post_comments": [
+            {
+                "comment_id": "l7wtu5j",
+                "comment_body": "maybe backup the whole phone into ur pc? not them individually",
+                "comment_author": "ahliadeetz",
+                "comment_dateTime": "2024-06-10 05:14:05",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l7wv300",
+                "comment_body": "There really isn't. Ur phone does back up every night or is supposed to. All data is usually backed up to icloud including photos notes icloud keychain(passwords) etc.",
+                "comment_author": "tlasan1",
+                "comment_dateTime": "2024-06-10 05:24:02",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Can I block a number that texted me without opening the text message thread?",
+        "post_score": 2,
+        "post_id": "1dcbj4h",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dcbj4h/can_i_block_a_number_that_texted_me_without/",
+        "post_numComments": 3,
+        "post_dateTime": "2024-06-10 04:59:42",
+        "post_text": "If I get a spam text from an unknown number, can I easily block the number without tapping/opening the text message thread? \n\nI don’t want the sender to see that I’ve clicked/read it. AFAIK you have to tap the message, tap the number at the top, tap Info, then tap “block caller.” But by that point, you’ve “read” the text. I tried swiping but I can only delete or silence; no option to block.\n\nI know I can turn off read receipt, but let’s assume I don’t want to…",
+        "post_comments": [
+            {
+                "comment_id": "l7wtia8",
+                "comment_body": "In the conversation list, you can long-press the sender photos on the left. Do this, and you can tap the number without opening the message, then tap info, etc.",
+                "comment_author": "plaid-knight",
+                "comment_dateTime": "2024-06-10 05:11:31",
+                "comment_score": 4,
+                "replies": [
+                    {
+                        "comment_id": "l7xyr0a",
+                        "comment_body": "That did the trick! Thank you!",
+                        "comment_author": "Milan514",
+                        "comment_dateTime": "2024-06-10 12:30:59",
+                        "comment_score": 3,
+                        "replies": []
+                    },
+                    {
+                        "comment_id": "l8iel5n",
+                        "comment_body": "Thank you so much!! I’ve been trying to find a solution for ages for this. Had no idea about this trick. Ty! :) ",
+                        "comment_author": "synivale",
+                        "comment_dateTime": "2024-06-14 02:38:33",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l7xyr0a",
+                "comment_body": "That did the trick! Thank you!",
+                "comment_author": "Milan514",
+                "comment_dateTime": "2024-06-10 12:30:59",
+                "comment_score": 3,
+                "replies": []
+            },
+            {
+                "comment_id": "l8iel5n",
+                "comment_body": "Thank you so much!! I’ve been trying to find a solution for ages for this. Had no idea about this trick. Ty! :) ",
+                "comment_author": "synivale",
+                "comment_dateTime": "2024-06-14 02:38:33",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Text Messages Being Received By My Ipad From 'Some' Iphone Users",
+        "post_score": 1,
+        "post_id": "1dcb5w0",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dcb5w0/text_messages_being_received_by_my_ipad_from_some/",
+        "post_numComments": 3,
+        "post_dateTime": "2024-06-10 04:39:45",
+        "post_text": "I have a Galaxy S24, but I've had this happen with several of my past Galaxy phones. For some reason, with certain Iphone users, when I text them from my phone - their responses are received by my Ipad instead of my Galaxy phone. \n\nI have no idea why this happens with some Iphone users but not with others. I have plenty of contacts with Iphones, but this only happens with 3-4 of them. ",
+        "post_comments": [
+            {
+                "comment_id": "l809czz",
+                "comment_body": "most probably that they receive an SMS from your galaxy but when they reply, they send an iMessage and the iMessage would only come on iPhone/iPad/Mac so it goes there and does not come on your samsung phone.",
+                "comment_author": "nikonz9",
+                "comment_dateTime": "2024-06-10 21:19:57",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l80akr4",
+                        "comment_body": "How does the IMessage know to hit the Ipad? I assume there must be a phone number linking the two?",
+                        "comment_author": "boxingfan828",
+                        "comment_dateTime": "2024-06-10 21:26:46",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l80blqa",
+                                "comment_body": "your phone number would be linked to your appleID. you may have done that when registering for your appleID. That phone number may still be valid as the number for receiving iMessages. so when from the same number an incoming iMessage is arriving, it would arrive on all devices having that phone/appleID linked.",
+                                "comment_author": "nikonz9",
+                                "comment_dateTime": "2024-06-10 21:32:30",
+                                "comment_score": 1,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l80akr4",
+                "comment_body": "How does the IMessage know to hit the Ipad? I assume there must be a phone number linking the two?",
+                "comment_author": "boxingfan828",
+                "comment_dateTime": "2024-06-10 21:26:46",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l80blqa",
+                        "comment_body": "your phone number would be linked to your appleID. you may have done that when registering for your appleID. That phone number may still be valid as the number for receiving iMessages. so when from the same number an incoming iMessage is arriving, it would arrive on all devices having that phone/appleID linked.",
+                        "comment_author": "nikonz9",
+                        "comment_dateTime": "2024-06-10 21:32:30",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l80blqa",
+                "comment_body": "your phone number would be linked to your appleID. you may have done that when registering for your appleID. That phone number may still be valid as the number for receiving iMessages. so when from the same number an incoming iMessage is arriving, it would arrive on all devices having that phone/appleID linked.",
+                "comment_author": "nikonz9",
+                "comment_dateTime": "2024-06-10 21:32:30",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Voicemail / Phone - possibly forwarding ?",
+        "post_score": 1,
+        "post_id": "1dcai1p",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dcai1p/voicemail_phone_possibly_forwarding/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-10 04:05:09",
+        "post_text": "For additional context: I share a phone plan with person B.\n\nI recently had someone call my phone (person A) and I missed the call. When I went to check my missed calls it said I had 2 at the same time. One from the person who actually called and the second from person B.\nPerson B says they didn’t call me. \n\nTonight, person A facetimed me and when I went to call back, it ended the call with a voicemail option for person B.\n\nIt is only when person A calls me that for some reason it shows B.\n\nAm I being paranoid or is my stuff being forwarded / bugged? How can I check?",
+        "post_comments": []
+    },
+    {
+        "post_title": "‘Adjustment Plist’ photo files",
+        "post_score": 1,
+        "post_id": "1dcad9k",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dcad9k/adjustment_plist_photo_files/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-10 03:58:32",
+        "post_text": "Hello, I’ve had a search and couldn’t see any discussion on this. When I export photos from my phone, they are showing as an ‘adjustment plist’ file (although it says JPEG on the file on my phone if you click for the file info). I can’t open any of these files on my computer or elsewhere which is really frustrating. Does anyone know how I can convert it back to a jpeg? \n",
+        "post_comments": []
+    },
+    {
+        "post_title": "Have notifications for messages changed for you too?",
+        "post_score": 3,
+        "post_id": "1dca3o8",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dca3o8/have_notifications_for_messages_changed_for_you/",
+        "post_numComments": 2,
+        "post_dateTime": "2024-06-10 03:44:43",
+        "post_text": "I used to have messages (text and iMessage) set so that when the phones locked it would show senders name and just \"message\" underneath. When the phones unlocked and the banner comes up top it was the same. \n\nAll of the sudden one day I was getting full name and preview message on Lock Screen as well is when unlocked. I changed the settings back to what I thought would resolve the issue and then it just turned into \"you have a notification\" (no name. No message). Change it again and now I have name and \"notification\" on lock and name and preview message on unlock. \n\nI want:\n\nName\n\"Message\" ((NOT A PREVIEW))\n\nOn both lock and unlock. The ONLY time I want to read texts is when I open the application. Is that too much for someone to ask???\n\nThanks in advance for the help. And also, what the heck happened???\n",
+        "post_comments": [
+            {
+                "comment_id": "l7wkbsw",
+                "comment_body": "Sounds like a setting changed.. you can go into settings and search notifications and modify it there.",
+                "comment_author": "GSK1972Chi",
+                "comment_dateTime": "2024-06-10 04:05:27",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l7x34yb",
+                        "comment_body": "Tried that. Apple must've changed something",
+                        "comment_author": "Gpauliv",
+                        "comment_dateTime": "2024-06-10 06:33:56",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l7x34yb",
+                "comment_body": "Tried that. Apple must've changed something",
+                "comment_author": "Gpauliv",
+                "comment_dateTime": "2024-06-10 06:33:56",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "I already purchased these?",
+        "post_score": 5,
+        "post_id": "1dca35g",
+        "post_url": "https://i.redd.it/33bp2tmzfn5d1.jpeg",
+        "post_numComments": 1,
+        "post_dateTime": "2024-06-10 03:43:57",
+        "post_text": "I already paid for these two on a PayPal account. I have access to both services. But I can’t buy anything now because it is trying to make me pay for something I already paid for? I dont have much in my cashapp, which is what I have as my payment method. Even so, I shouldn’t have to pay for it again. ",
+        "post_comments": [
+            {
+                "comment_id": "l7wkoek",
+                "comment_body": "Oh you paid for the subscription outside of your Apple ID, you need to have canceled the subscription through iOS. It says it’s a renewal so at some point you paid for it through iOS.",
+                "comment_author": "calmdrive",
+                "comment_dateTime": "2024-06-10 04:07:53",
+                "comment_score": 13,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Blacker black?  I use dark mode and I would like the black background to be… Blacker.  When I watch Netflix movies, and turn the contrast all the way up for a dark scene, the black ”darkness” is still a dark gray and it’s difficult to visually see the movie. ",
+        "post_score": 1,
+        "post_id": "1dc9tx4",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dc9tx4/blacker_black_i_use_dark_mode_and_i_would_like/",
+        "post_numComments": 5,
+        "post_dateTime": "2024-06-10 03:30:21",
+        "post_text": "iPhone 12. Something changed a month or two ago and I cannot figure out what. It went from a normal.”black” to a brilliant navy blue.\n\nI’ve tried accessibility settings and verified the accessibility screen options are correct. \nReduce transparency and Increase contrast are selected. Reduce white point is off.\n\nWhat am I missing? \nThanks!\n\n\n\nWhat am I missing?",
+        "post_comments": [
+            {
+                "comment_id": "l7wjel6",
+                "comment_body": "What phone? You are never going to get true blacks with a device with an LCD screen, you’d need a device with an OLED screen.",
+                "comment_author": "True-Experience-2273",
+                "comment_dateTime": "2024-06-10 03:59:00",
+                "comment_score": 3,
+                "replies": [
+                    {
+                        "comment_id": "l810c3v",
+                        "comment_body": "I’m rolling my eyes at myself. \niPhone 12. \nI refused iPhones for 15 years. I know this is different. Something changed a few weeks ago.\n\nThe black is now like a radiant navy blue. \nIt definitely wasn’t this way before, and I certainly could watch dark movie scenes in the past",
+                        "comment_author": "Flowering-Ocean",
+                        "comment_dateTime": "2024-06-10 23:53:31",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l883lda",
+                                "comment_body": "it might be something within the netflix app, not something that should be happening since the iPhone 12 (I have one too) has an OLED screen. try deleting the app and re-install? worst case scenario reset your iPhone? if it happens again it might be a software problem and you'll have to take it to Apple",
+                                "comment_author": "burneracc4t",
+                                "comment_dateTime": "2024-06-12 06:31:12",
+                                "comment_score": 2,
+                                "replies": [
+                                    {
+                                        "comment_id": "l8vsofl",
+                                        "comment_body": "Thanks for your insight!",
+                                        "comment_author": "Flowering-Ocean",
+                                        "comment_dateTime": "2024-06-16 19:07:34",
+                                        "comment_score": 1,
+                                        "replies": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l832hbt",
+                "comment_body": "Apps usually use dark gray backgruond because pure black would produce too high contrast and that would be harder on eyes.",
+                "comment_author": "USBdata",
+                "comment_dateTime": "2024-06-11 09:37:27",
+                "comment_score": 2,
+                "replies": []
+            },
+            {
+                "comment_id": "l810c3v",
+                "comment_body": "I’m rolling my eyes at myself. \niPhone 12. \nI refused iPhones for 15 years. I know this is different. Something changed a few weeks ago.\n\nThe black is now like a radiant navy blue. \nIt definitely wasn’t this way before, and I certainly could watch dark movie scenes in the past",
+                "comment_author": "Flowering-Ocean",
+                "comment_dateTime": "2024-06-10 23:53:31",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l883lda",
+                        "comment_body": "it might be something within the netflix app, not something that should be happening since the iPhone 12 (I have one too) has an OLED screen. try deleting the app and re-install? worst case scenario reset your iPhone? if it happens again it might be a software problem and you'll have to take it to Apple",
+                        "comment_author": "burneracc4t",
+                        "comment_dateTime": "2024-06-12 06:31:12",
+                        "comment_score": 2,
+                        "replies": [
+                            {
+                                "comment_id": "l8vsofl",
+                                "comment_body": "Thanks for your insight!",
+                                "comment_author": "Flowering-Ocean",
+                                "comment_dateTime": "2024-06-16 19:07:34",
+                                "comment_score": 1,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l883lda",
+                "comment_body": "it might be something within the netflix app, not something that should be happening since the iPhone 12 (I have one too) has an OLED screen. try deleting the app and re-install? worst case scenario reset your iPhone? if it happens again it might be a software problem and you'll have to take it to Apple",
+                "comment_author": "burneracc4t",
+                "comment_dateTime": "2024-06-12 06:31:12",
+                "comment_score": 2,
+                "replies": [
+                    {
+                        "comment_id": "l8vsofl",
+                        "comment_body": "Thanks for your insight!",
+                        "comment_author": "Flowering-Ocean",
+                        "comment_dateTime": "2024-06-16 19:07:34",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l8vsofl",
+                "comment_body": "Thanks for your insight!",
+                "comment_author": "Flowering-Ocean",
+                "comment_dateTime": "2024-06-16 19:07:34",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Where did my “Find My” app go?",
+        "post_score": 0,
+        "post_id": "1dc9qbg",
+        "post_url": "https://www.reddit.com/gallery/1dc9qbg",
+        "post_numComments": 2,
+        "post_dateTime": "2024-06-10 03:25:08",
+        "post_text": "It magically disappeared yesterday, it doesn’t show up in my App Library, on my Home Screen, or in the add widget ",
+        "post_comments": [
+            {
+                "comment_id": "l7wfybu",
+                "comment_body": "Sounds like it was deleted. You can redownload it:\n\nhttps://apps.apple.com/us/app/find-my/id1514844621",
+                "comment_author": "macmaverickk",
+                "comment_dateTime": "2024-06-10 03:35:22",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l7wgrx9",
+                        "comment_body": "It was, I checked my purchases on the App Store and it never showed up. Thank you",
+                        "comment_author": "RunDeep1916",
+                        "comment_dateTime": "2024-06-10 03:41:07",
+                        "comment_score": 2,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l7wgrx9",
+                "comment_body": "It was, I checked my purchases on the App Store and it never showed up. Thank you",
+                "comment_author": "RunDeep1916",
+                "comment_dateTime": "2024-06-10 03:41:07",
+                "comment_score": 2,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Small doubt :)",
+        "post_score": 1,
+        "post_id": "1dc9jd4",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dc9jd4/small_doubt/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-10 03:15:08",
+        "post_text": "How prone are the camera lenses of my phone to get scratched if I dont use a case ? \n\niPhone 15 ",
+        "post_comments": []
+    },
+    {
+        "post_title": "Weird notifications",
+        "post_score": 5,
+        "post_id": "1dc934a",
+        "post_url": "https://i.redd.it/ttfbubnl6n5d1.jpeg",
+        "post_numComments": 2,
+        "post_dateTime": "2024-06-10 02:51:20",
+        "post_text": "I haven’t touched my phone in like a hour and i randomly get these 2 notifications at the same time.\nAnybody know what this could be?\n(Sorry if this is the wrong sub to ask this)",
+        "post_comments": [
+            {
+                "comment_id": "l7wapdl",
+                "comment_body": "I think it has something to do with shortcuts but i havent tried to do anything. Maybe im just tired",
+                "comment_author": "Efficient_Gene_513",
+                "comment_dateTime": "2024-06-10 02:58:40",
+                "comment_score": 2,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Border effect on people?",
+        "post_score": 1,
+        "post_id": "1dc83bk",
+        "post_url": "https://i.redd.it/vh35q5alxm5d1.jpeg",
+        "post_numComments": 5,
+        "post_dateTime": "2024-06-10 02:00:51",
+        "post_text": "Hello, any idea why that white border is happening? (No edits)",
+        "post_comments": [
+            {
+                "comment_id": "l7xeqqx",
+                "comment_body": "My guess, either you pressed and hold or Some shitty feature called Deep Fusion sometimes not working properly",
+                "comment_author": "ArcticStorm16",
+                "comment_dateTime": "2024-06-10 08:32:21",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l80djmy",
+                        "comment_body": "Might be deep fusion or some setting, it happend in other pictures as well…. I’ve checked online some settings and set to standard the Style.. I’ll see if it will improve",
+                        "comment_author": "ItalianMenBall",
+                        "comment_dateTime": "2024-06-10 21:43:21",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l80dvm4",
+                                "comment_body": "I’ve gotten similar effects and definitely is because of Deep Fusion but it has definitely gotten better over the years, this happened to me on iPhone 13 I think",
+                                "comment_author": "ArcticStorm16",
+                                "comment_dateTime": "2024-06-10 21:45:13",
+                                "comment_score": 1,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l7wp0zg",
+                "comment_body": "Press and hold. It's just showing you that object on the photo can be copied.",
+                "comment_author": "Ocerlis",
+                "comment_dateTime": "2024-06-10 04:37:55",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l7y011p",
+                "comment_body": "\"She's had her ReadyBrek!\"",
+                "comment_author": "dmcardlenl",
+                "comment_dateTime": "2024-06-10 12:44:29",
+                "comment_score": 0,
+                "replies": []
+            },
+            {
+                "comment_id": "l80djmy",
+                "comment_body": "Might be deep fusion or some setting, it happend in other pictures as well…. I’ve checked online some settings and set to standard the Style.. I’ll see if it will improve",
+                "comment_author": "ItalianMenBall",
+                "comment_dateTime": "2024-06-10 21:43:21",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l80dvm4",
+                        "comment_body": "I’ve gotten similar effects and definitely is because of Deep Fusion but it has definitely gotten better over the years, this happened to me on iPhone 13 I think",
+                        "comment_author": "ArcticStorm16",
+                        "comment_dateTime": "2024-06-10 21:45:13",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l80dvm4",
+                "comment_body": "I’ve gotten similar effects and definitely is because of Deep Fusion but it has definitely gotten better over the years, this happened to me on iPhone 13 I think",
+                "comment_author": "ArcticStorm16",
+                "comment_dateTime": "2024-06-10 21:45:13",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Went from a 13 to a 15PM and now CarPlay won’t work. ",
+        "post_score": 3,
+        "post_id": "1dc77d3",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dc77d3/went_from_a_13_to_a_15pm_and_now_carplay_wont_work/",
+        "post_numComments": 9,
+        "post_dateTime": "2024-06-10 01:17:09",
+        "post_text": "It was working perfectly with my iPhone 13 but it will not connect at all now with the new phone. I’ve googled it and I can’t seem to find a solution so has anybody else had this problem and was able to fix it? \n\nI have an aftermarket radio (2017 Wrangler/ Pioneer NEX2500?) I also bought the adapter to use the original cord the phone came with but still no luck!",
+        "post_comments": [
+            {
+                "comment_id": "l7wkuho",
+                "comment_body": "It’s probably the adapter. Get an Anker USB-A to USB-C cable",
+                "comment_author": "HuskyLemons",
+                "comment_dateTime": "2024-06-10 04:09:04",
+                "comment_score": 2,
+                "replies": [
+                    {
+                        "comment_id": "l7xufav",
+                        "comment_body": "I’ll second this. Lots of USB C cables out there don’t have all the wires in them for data they just have the charging ones to save cost. Get an anker cable.",
+                        "comment_author": "tkchumly",
+                        "comment_dateTime": "2024-06-10 11:42:07",
+                        "comment_score": 2,
+                        "replies": [
+                            {
+                                "comment_id": "l7zknmh",
+                                "comment_body": "The one I bought won’t even charge the dang phone 🤦‍♂️",
+                                "comment_author": "ThatPokemonNerd2521",
+                                "comment_dateTime": "2024-06-10 19:03:13",
+                                "comment_score": 1,
+                                "replies": [
+                                    {
+                                        "comment_id": "l7zmhnb",
+                                        "comment_body": "Probably your problem then.",
+                                        "comment_author": "tkchumly",
+                                        "comment_dateTime": "2024-06-10 19:13:32",
+                                        "comment_score": 2,
+                                        "replies": [
+                                            {
+                                                "comment_id": "l81c2ss",
+                                                "comment_body": "oh whale I’ll figure it out eventually I guess lol",
+                                                "comment_author": "ThatPokemonNerd2521",
+                                                "comment_dateTime": "2024-06-11 01:09:00",
+                                                "comment_score": 1,
+                                                "replies": [
+                                                    {
+                                                        "comment_id": "l83dd72",
+                                                        "comment_body": "Not sure what there is to figure out. Go buy a quality cable like Anker that doesn’t need an adapter (probably USB A to C).",
+                                                        "comment_author": "tkchumly",
+                                                        "comment_dateTime": "2024-06-11 11:51:09",
+                                                        "comment_score": 2,
+                                                        "replies": [
+                                                            {
+                                                                "comment_id": "l8fkr3i",
+                                                                "comment_body": "You were right, kinda? I bought a different adapter and it’s working so I’m happy",
+                                                                "comment_author": "ThatPokemonNerd2521",
+                                                                "comment_dateTime": "2024-06-13 16:44:45",
+                                                                "comment_score": 1,
+                                                                "replies": [
+                                                                    {
+                                                                        "comment_id": "l8foldm",
+                                                                        "comment_body": "That’s really satisfying to hear the end of the story. Glad it worked",
+                                                                        "comment_author": "tkchumly",
+                                                                        "comment_dateTime": "2024-06-13 17:06:40",
+                                                                        "comment_score": 2,
+                                                                        "replies": []
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l7wlx2e",
+                "comment_body": "I’d start here.. \n\nDelete all prior connections on the radio and \nMake sure Firmware on the radio is updated",
+                "comment_author": "12_yo_d",
+                "comment_dateTime": "2024-06-10 04:16:34",
+                "comment_score": 2,
+                "replies": []
+            },
+            {
+                "comment_id": "l7xufav",
+                "comment_body": "I’ll second this. Lots of USB C cables out there don’t have all the wires in them for data they just have the charging ones to save cost. Get an anker cable.",
+                "comment_author": "tkchumly",
+                "comment_dateTime": "2024-06-10 11:42:07",
+                "comment_score": 2,
+                "replies": [
+                    {
+                        "comment_id": "l7zknmh",
+                        "comment_body": "The one I bought won’t even charge the dang phone 🤦‍♂️",
+                        "comment_author": "ThatPokemonNerd2521",
+                        "comment_dateTime": "2024-06-10 19:03:13",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l7zmhnb",
+                                "comment_body": "Probably your problem then.",
+                                "comment_author": "tkchumly",
+                                "comment_dateTime": "2024-06-10 19:13:32",
+                                "comment_score": 2,
+                                "replies": [
+                                    {
+                                        "comment_id": "l81c2ss",
+                                        "comment_body": "oh whale I’ll figure it out eventually I guess lol",
+                                        "comment_author": "ThatPokemonNerd2521",
+                                        "comment_dateTime": "2024-06-11 01:09:00",
+                                        "comment_score": 1,
+                                        "replies": [
+                                            {
+                                                "comment_id": "l83dd72",
+                                                "comment_body": "Not sure what there is to figure out. Go buy a quality cable like Anker that doesn’t need an adapter (probably USB A to C).",
+                                                "comment_author": "tkchumly",
+                                                "comment_dateTime": "2024-06-11 11:51:09",
+                                                "comment_score": 2,
+                                                "replies": [
+                                                    {
+                                                        "comment_id": "l8fkr3i",
+                                                        "comment_body": "You were right, kinda? I bought a different adapter and it’s working so I’m happy",
+                                                        "comment_author": "ThatPokemonNerd2521",
+                                                        "comment_dateTime": "2024-06-13 16:44:45",
+                                                        "comment_score": 1,
+                                                        "replies": [
+                                                            {
+                                                                "comment_id": "l8foldm",
+                                                                "comment_body": "That’s really satisfying to hear the end of the story. Glad it worked",
+                                                                "comment_author": "tkchumly",
+                                                                "comment_dateTime": "2024-06-13 17:06:40",
+                                                                "comment_score": 2,
+                                                                "replies": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l7zknmh",
+                "comment_body": "The one I bought won’t even charge the dang phone 🤦‍♂️",
+                "comment_author": "ThatPokemonNerd2521",
+                "comment_dateTime": "2024-06-10 19:03:13",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l7zmhnb",
+                        "comment_body": "Probably your problem then.",
+                        "comment_author": "tkchumly",
+                        "comment_dateTime": "2024-06-10 19:13:32",
+                        "comment_score": 2,
+                        "replies": [
+                            {
+                                "comment_id": "l81c2ss",
+                                "comment_body": "oh whale I’ll figure it out eventually I guess lol",
+                                "comment_author": "ThatPokemonNerd2521",
+                                "comment_dateTime": "2024-06-11 01:09:00",
+                                "comment_score": 1,
+                                "replies": [
+                                    {
+                                        "comment_id": "l83dd72",
+                                        "comment_body": "Not sure what there is to figure out. Go buy a quality cable like Anker that doesn’t need an adapter (probably USB A to C).",
+                                        "comment_author": "tkchumly",
+                                        "comment_dateTime": "2024-06-11 11:51:09",
+                                        "comment_score": 2,
+                                        "replies": [
+                                            {
+                                                "comment_id": "l8fkr3i",
+                                                "comment_body": "You were right, kinda? I bought a different adapter and it’s working so I’m happy",
+                                                "comment_author": "ThatPokemonNerd2521",
+                                                "comment_dateTime": "2024-06-13 16:44:45",
+                                                "comment_score": 1,
+                                                "replies": [
+                                                    {
+                                                        "comment_id": "l8foldm",
+                                                        "comment_body": "That’s really satisfying to hear the end of the story. Glad it worked",
+                                                        "comment_author": "tkchumly",
+                                                        "comment_dateTime": "2024-06-13 17:06:40",
+                                                        "comment_score": 2,
+                                                        "replies": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l7zmhnb",
+                "comment_body": "Probably your problem then.",
+                "comment_author": "tkchumly",
+                "comment_dateTime": "2024-06-10 19:13:32",
+                "comment_score": 2,
+                "replies": [
+                    {
+                        "comment_id": "l81c2ss",
+                        "comment_body": "oh whale I’ll figure it out eventually I guess lol",
+                        "comment_author": "ThatPokemonNerd2521",
+                        "comment_dateTime": "2024-06-11 01:09:00",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l83dd72",
+                                "comment_body": "Not sure what there is to figure out. Go buy a quality cable like Anker that doesn’t need an adapter (probably USB A to C).",
+                                "comment_author": "tkchumly",
+                                "comment_dateTime": "2024-06-11 11:51:09",
+                                "comment_score": 2,
+                                "replies": [
+                                    {
+                                        "comment_id": "l8fkr3i",
+                                        "comment_body": "You were right, kinda? I bought a different adapter and it’s working so I’m happy",
+                                        "comment_author": "ThatPokemonNerd2521",
+                                        "comment_dateTime": "2024-06-13 16:44:45",
+                                        "comment_score": 1,
+                                        "replies": [
+                                            {
+                                                "comment_id": "l8foldm",
+                                                "comment_body": "That’s really satisfying to hear the end of the story. Glad it worked",
+                                                "comment_author": "tkchumly",
+                                                "comment_dateTime": "2024-06-13 17:06:40",
+                                                "comment_score": 2,
+                                                "replies": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l81c2ss",
+                "comment_body": "oh whale I’ll figure it out eventually I guess lol",
+                "comment_author": "ThatPokemonNerd2521",
+                "comment_dateTime": "2024-06-11 01:09:00",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l83dd72",
+                        "comment_body": "Not sure what there is to figure out. Go buy a quality cable like Anker that doesn’t need an adapter (probably USB A to C).",
+                        "comment_author": "tkchumly",
+                        "comment_dateTime": "2024-06-11 11:51:09",
+                        "comment_score": 2,
+                        "replies": [
+                            {
+                                "comment_id": "l8fkr3i",
+                                "comment_body": "You were right, kinda? I bought a different adapter and it’s working so I’m happy",
+                                "comment_author": "ThatPokemonNerd2521",
+                                "comment_dateTime": "2024-06-13 16:44:45",
+                                "comment_score": 1,
+                                "replies": [
+                                    {
+                                        "comment_id": "l8foldm",
+                                        "comment_body": "That’s really satisfying to hear the end of the story. Glad it worked",
+                                        "comment_author": "tkchumly",
+                                        "comment_dateTime": "2024-06-13 17:06:40",
+                                        "comment_score": 2,
+                                        "replies": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l83dd72",
+                "comment_body": "Not sure what there is to figure out. Go buy a quality cable like Anker that doesn’t need an adapter (probably USB A to C).",
+                "comment_author": "tkchumly",
+                "comment_dateTime": "2024-06-11 11:51:09",
+                "comment_score": 2,
+                "replies": [
+                    {
+                        "comment_id": "l8fkr3i",
+                        "comment_body": "You were right, kinda? I bought a different adapter and it’s working so I’m happy",
+                        "comment_author": "ThatPokemonNerd2521",
+                        "comment_dateTime": "2024-06-13 16:44:45",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l8foldm",
+                                "comment_body": "That’s really satisfying to hear the end of the story. Glad it worked",
+                                "comment_author": "tkchumly",
+                                "comment_dateTime": "2024-06-13 17:06:40",
+                                "comment_score": 2,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l8fkr3i",
+                "comment_body": "You were right, kinda? I bought a different adapter and it’s working so I’m happy",
+                "comment_author": "ThatPokemonNerd2521",
+                "comment_dateTime": "2024-06-13 16:44:45",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l8foldm",
+                        "comment_body": "That’s really satisfying to hear the end of the story. Glad it worked",
+                        "comment_author": "tkchumly",
+                        "comment_dateTime": "2024-06-13 17:06:40",
+                        "comment_score": 2,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l8foldm",
+                "comment_body": "That’s really satisfying to hear the end of the story. Glad it worked",
+                "comment_author": "tkchumly",
+                "comment_dateTime": "2024-06-13 17:06:40",
+                "comment_score": 2,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Black Screen of Death? Try this first.",
+        "post_score": 8,
+        "post_id": "1dc5hti",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dc5hti/black_screen_of_death_try_this_first/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-09 23:59:38",
+        "post_text": "Siri: \"brighten screen.\" \nIt can’t hurt, right?\nThis morning a friend was complaining his iPhone screen was black. I researched solutions for him on my phone, but, irrationally, most suggested solutions that required him to be able to see his screen (plus, more logically, reboot phone). Another friend suggested to simply ask Siri to \"brighten screen.\" THIS WORKED! It seems weird this obvious, and easy, solution is not at the top of all the lists of ways to fix this problem. Maybe I just did not dig down deep enough in the search results.",
+        "post_comments": []
+    },
+    {
+        "post_title": "iPhone GPS failing constantly",
+        "post_score": 1,
+        "post_id": "1dc4lmh",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dc4lmh/iphone_gps_failing_constantly/",
+        "post_numComments": 1,
+        "post_dateTime": "2024-06-09 23:20:25",
+        "post_text": "I have an iPhone XR. For at least 10 or so months I've been having this problem where I'm driving and my Apple Maps (or Waze or whatever else I'm using) will lag, say I'm facing the wrong direction, or say that my location is not on the road. It will intermittently fix itself and fail again a couple minutes later. Usually I can use the written directions to get where I'm going, but I miss turns a lot. My new job requires a lot of traveling and I need this to stop happening. \n\nAt first I thought it was my old phone (iPhone XR) because it was damaged. So my boyfriend gave me his XR and turns out it's giving me the same problem. Then, I had my sister use her phone's GPS (iPhone 11) today on my way to buy a new iPhone 12, and we were still having the same problem (I didn't end up buying a new phone). \n\nMy boyfriend can still see my location update even when all of this is happening. I drive a Mazda 6 2014 and my carrier is MetroPCS, if that matters. Is anyone else having this problem?? Is there a fix? I've tried turning my phone on and off, resetting location settings, and making sure all location settings are correct as per the Apple website's help page. ",
+        "post_comments": [
+            {
+                "comment_id": "l8pby5z",
+                "comment_body": "I also have a iPhone XR, and I am currently facing the same problem it started about 2 weeks ago. I have yet to find a solution. I have tried everything recommended on Apple webpage. I am on Verizon I have had this phone since its release in 2018. Really sucks because I heavily depend on the gps for work as well. \n\nOnly other suggestions I was given was to replace the battery or WiFi antenna but I haven’t done either bc a few people I know have same issue",
+                "comment_author": "OmgItsTea",
+                "comment_dateTime": "2024-06-15 11:10:24",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Anyone have any experience with this?",
+        "post_score": 1,
+        "post_id": "1dc3ymt",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dc3ymt/anyone_have_any_experience_with_this/",
+        "post_numComments": 0,
+        "post_dateTime": "2024-06-09 22:53:34",
+        "post_text": "I'm currently transferring my data from a galaxy A71 to an iPhone 15. I've tried multiple times to transfer it but the only thing that isn't going over is this 1 image. I have absolutely no clue why it isn't working. It says 'these items were not able to be transferred to your iPhone. Review your Android device to make sure all data is safe before erasing it.' I don't know where to look on my android to sort this out so any ideas what it could be? Apologies if this isn't the right place to ask but I don't where else to look.",
+        "post_comments": []
+    },
+    {
+        "post_title": "Safari keeps not working. “Server stopped responding”",
+        "post_score": 2,
+        "post_id": "1dc3tn3",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dc3tn3/safari_keeps_not_working_server_stopped_responding/",
+        "post_numComments": 2,
+        "post_dateTime": "2024-06-09 22:47:54",
+        "post_text": "Only safari. All other internet apps work. \n\nDon’t matter if I use wifi or data (different companies). \n\nHappening daily now for ’ big chunks of time where no site will load. Sometimes at really inconvenient times like in the middle of baking. ",
+        "post_comments": [
+            {
+                "comment_id": "l7vbzu8",
+                "comment_body": "Are you using a VPN?",
+                "comment_author": "BestBodybuilder7329",
+                "comment_dateTime": "2024-06-09 23:04:09",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l7vhubl",
+                        "comment_body": "No, just normal safari",
+                        "comment_author": "Historical_Peach_545",
+                        "comment_dateTime": "2024-06-09 23:40:44",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l7vhubl",
+                "comment_body": "No, just normal safari",
+                "comment_author": "Historical_Peach_545",
+                "comment_dateTime": "2024-06-09 23:40:44",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "post_title": "Can't search the calendar on my new iPhone",
+        "post_score": 2,
+        "post_id": "1dc3425",
+        "post_url": "https://www.reddit.com/r/iphone/comments/1dc3425/cant_search_the_calendar_on_my_new_iphone/",
+        "post_numComments": 6,
+        "post_dateTime": "2024-06-09 22:17:48",
+        "post_text": "I just got an iPhone 15 (an upgrade from a much older model) and I'm no longer able to search my calendar. The information is still there but it doesn't come up in a search. For example, if I go to February 22nd, my calendar says \"Mom's birthday.\" But if I search the calendar for \"Mom's birthday,\" nothing comes up. Can this be fixed?",
+        "post_comments": [
+            {
+                "comment_id": "l7vcgg6",
+                "comment_body": "What happens if you search for 'birthday'? Also what calendar is it in?",
+                "comment_author": "Apprehensive_ac",
+                "comment_dateTime": "2024-06-09 23:07:00",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l7vkdro",
+                        "comment_body": "If I search for birthday (or any other term), it says No Results. \n\nI think it's just...the standard iPhone calendar? Looks like it might just be called the Apple Calendar app.",
+                        "comment_author": "RalphWiggum1984",
+                        "comment_dateTime": "2024-06-09 23:57:17",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l7vpkqi",
+                                "comment_body": "I meant the calendars listed on menu at bottom of page",
+                                "comment_author": "Apprehensive_ac",
+                                "comment_dateTime": "2024-06-10 00:32:11",
+                                "comment_score": 1,
+                                "replies": []
+                            },
+                            {
+                                "comment_id": "l7vpy14",
+                                "comment_body": "If all else fails reinstall the app and if that doesn't restart your iphone",
+                                "comment_author": "Apprehensive_ac",
+                                "comment_dateTime": "2024-06-10 00:34:42",
+                                "comment_score": 1,
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "comment_id": "l7wdjyb",
+                "comment_body": "How recently did you get the phone?  iPhones don’t transfer there search indexes when they move the events (your mom’s birthday) over to the new phone.  Instead over the next week to 10 days or so all search indexes are rebuilt.  If it’s been less than a week or so just sit tight.",
+                "comment_author": "mrBill12",
+                "comment_dateTime": "2024-06-10 03:18:24",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l8r9kg2",
+                "comment_body": "It turns out that the solution was to go to settings/calendar/Siri & Search and toggle \"show content in search\" on and off.",
+                "comment_author": "RalphWiggum1984",
+                "comment_dateTime": "2024-06-15 20:49:19",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l7vkdro",
+                "comment_body": "If I search for birthday (or any other term), it says No Results. \n\nI think it's just...the standard iPhone calendar? Looks like it might just be called the Apple Calendar app.",
+                "comment_author": "RalphWiggum1984",
+                "comment_dateTime": "2024-06-09 23:57:17",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l7vpkqi",
+                        "comment_body": "I meant the calendars listed on menu at bottom of page",
+                        "comment_author": "Apprehensive_ac",
+                        "comment_dateTime": "2024-06-10 00:32:11",
+                        "comment_score": 1,
+                        "replies": []
+                    },
+                    {
+                        "comment_id": "l7vpy14",
+                        "comment_body": "If all else fails reinstall the app and if that doesn't restart your iphone",
+                        "comment_author": "Apprehensive_ac",
+                        "comment_dateTime": "2024-06-10 00:34:42",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "comment_id": "l7vpkqi",
+                "comment_body": "I meant the calendars listed on menu at bottom of page",
+                "comment_author": "Apprehensive_ac",
+                "comment_dateTime": "2024-06-10 00:32:11",
+                "comment_score": 1,
+                "replies": []
+            },
+            {
+                "comment_id": "l7vpy14",
+                "comment_body": "If all else fails reinstall the app and if that doesn't restart your iphone",
+                "comment_author": "Apprehensive_ac",
+                "comment_dateTime": "2024-06-10 00:34:42",
+                "comment_score": 1,
+                "replies": []
+            }
+        ]
+    }
+]
