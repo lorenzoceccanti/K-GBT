@@ -33,31 +33,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l8mwsiu",
-                "comment_body": "Why",
-                "comment_author": "ItsRobinn_",
-                "comment_dateTime": "2024-06-14 22:45:12",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8myi93",
-                        "comment_body": "It doesn't add any real security value and it creates more connections in between u and ur service.\n\nAnd if anything should happen(ie internet hiccup, updating sometimes, or anything else regarding the connection) it messes up internet connectivity with devices.\n\nVpns are just another security issue wrapped up in silver and gold. The companies advertise them as additional security but it really doesn't do that. They are allowed to get away with it as it does change your ip address to a different location.",
-                        "comment_author": "tlasan1",
-                        "comment_dateTime": "2024-06-14 22:54:58",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8myi93",
-                "comment_body": "It doesn't add any real security value and it creates more connections in between u and ur service.\n\nAnd if anything should happen(ie internet hiccup, updating sometimes, or anything else regarding the connection) it messes up internet connectivity with devices.\n\nVpns are just another security issue wrapped up in silver and gold. The companies advertise them as additional security but it really doesn't do that. They are allowed to get away with it as it does change your ip address to a different location.",
-                "comment_author": "tlasan1",
-                "comment_dateTime": "2024-06-14 22:54:58",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -85,7 +60,7 @@
                 "comment_body": "You need to do a hard restart. Press the volume buttons on the left side of the phone up and then down and then hold in the right hand power button down until. The phone goes off and then restarts with the Apple logo. That should fix your problem.",
                 "comment_author": "lovingtate",
                 "comment_dateTime": "2024-06-13 02:35:29",
-                "comment_score": 4,
+                "comment_score": 5,
                 "replies": []
             },
             {
@@ -121,28 +96,12 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8cuvct",
-                "comment_body": "i  actually meant the 100 times metaphorically i did multime times still but to no good result",
-                "comment_author": "yaksha_ftw",
-                "comment_dateTime": "2024-06-13 02:52:20",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8ek65k",
-                "comment_body": "If you still haven't fixed it, just stop by an Apple store and show them. Hope you get it resolved, pretty strange issue.",
-                "comment_author": "CandiceSwaninthepool",
-                "comment_dateTime": "2024-06-13 12:09:42",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "Is usb-c to usb-c superior to usb-c to usb-a?",
-        "post_score": 9,
+        "post_score": 11,
         "post_id": "1deln4j",
         "post_url": "https://www.reddit.com/r/iphone/comments/1deln4j/is_usbc_to_usbc_superior_to_usbc_to_usba/",
         "post_numComments": 17,
@@ -154,7 +113,7 @@
                 "comment_body": "The whole draw of USB-C for me would be that I can connect my laptop to my wall charger, my phone to my wall charger, my powerbank to my wall charger, my powerbank to my phone, and my phone to my laptop all with the same cable.  \n   \nC to A is basically pointless for me since I can’t even connect my devices to each other with it",
                 "comment_author": "pizza_toast102",
                 "comment_dateTime": "2024-06-13 02:32:52",
-                "comment_score": 19,
+                "comment_score": 18,
                 "replies": []
             },
             {
@@ -162,7 +121,7 @@
                 "comment_body": "typical USB-A is limited to 2.5-12 watts, specific cables with a specific port might be up to 18 watts.\n\nthe typical iPhone USB-C bricks (the ones that came with past phones and ipads) are 20 watts, unless specified otherwise.\n\nApple never officially reveals its charging speed, but I believe tests show the max to be be between 20-29 watts (even if you use a 45w or 60w charger with the right cable, the phone will only charge at 20-29w)\n\nits a difference of 0 to 50% in 30 minutes, vs 0 to 50% in 2 hours\n\nhighly recommended to start using C to C. but if you're ok with slower speeds, and if there is no heat problems with the older cables or bricks (heat can degreate the battery and/or be a fire hazard for those old bricks) then that's fine too, stick with the old A to C.",
                 "comment_author": "dayankuo234",
                 "comment_dateTime": "2024-06-13 03:02:10",
-                "comment_score": 10,
+                "comment_score": 9,
                 "replies": []
             },
             {
@@ -277,14 +236,14 @@
                                 "comment_body": "C to c is way faster than a to c for charging and data",
                                 "comment_author": "atan420",
                                 "comment_dateTime": "2024-06-13 02:54:04",
-                                "comment_score": 4,
+                                "comment_score": 5,
                                 "replies": [
                                     {
                                         "comment_id": "l8dhkd2",
                                         "comment_body": "Not necessarily. Even the USB-C cable that comes with the 15s only supports USB2 transfer rates. \n\nPoint is, being Type C doesn’t guarantee faster speed. Check the cable details.",
                                         "comment_author": "Furrealyo",
                                         "comment_dateTime": "2024-06-13 05:27:32",
-                                        "comment_score": 2,
+                                        "comment_score": 3,
                                         "replies": []
                                     }
                                 ]
@@ -292,151 +251,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l8fmj18",
-                "comment_body": "I planned on ordering from Amazon. Can certain cables damage the phone battery?",
-                "comment_author": "Laps8240",
-                "comment_dateTime": "2024-06-13 16:54:54",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8gcgin",
-                        "comment_body": "Fires via melting or shorting out.",
-                        "comment_author": "Patrol-007",
-                        "comment_dateTime": "2024-06-13 19:18:52",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l8hmol9",
-                                "comment_body": "Aren’t brands like Anker ok to use?",
-                                "comment_author": "Laps8240",
-                                "comment_dateTime": "2024-06-13 23:36:36",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8hpog7",
-                                        "comment_body": "Yes. Anker.com, Costco carries them, I use them. But Amazon is having problems with counterfeit items, so I’d get the cable from Anker website or from Costco store. \n\nOne of mine is damaged and I tossed it. Looking at your post about intermittent usage of fwd/reverse is puzzling. Hence trying different cable, vehicle and phone, and cleaning the physical port (vehicle, phone, cable ends)",
-                                        "comment_author": "Patrol-007",
-                                        "comment_dateTime": "2024-06-13 23:54:20",
-                                        "comment_score": 1,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8myw0h",
-                "comment_body": "> USB-C transfer speeds are also significantly faster than USB-A so if you are using your phone for it’s camera, having a USB-C cord will make it much easier to transfer those photos and videos over.\n\nUSB C/A is primarily just the physical shape of the connector and not indicative of transfer speed. There are devices with 10Gbps USB-A ports, though I don't believe Apple sells any (I think their USB-A ports only go up to 5Gbps), there are also USB-C cables that only support USB 2.0 speeds (usually sold as \"charging cables\", like the cable that comes with iPads).\n\nContrary to popular belief, buying USB hardware isn't *that* hard, just make sure to look for cables that indicate their rated speed.\n\n480Mbps is USB 2.0, 5Gbps is basic USB 3 (most widely supported). I usually buy 10Gbps cables, there is also a somewhat rare 20Gbps connection in the USB 3 family, but at that point I'd just go for Thunderbolt 4/USB4 rated cables.\n\nPro Tip: As long as the host, client, and hub devices support it, 5Gbps -> 10Gbps isn't restricted by the physical wiring like 480Mbps -> 5Gbps is, but mostly imposed by cable quality. I have some cables and adapters that are rated for 5Gbps, but run fine at 10Gbps, but the connection may be downgraded by the USB controllers.",
-                "comment_author": "MartinsRedditAccount",
-                "comment_dateTime": "2024-06-14 22:57:09",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8cthd5",
-                "comment_body": "Ok this is all I really needed to know. I know they say usb c charges faster, I just didn’t know if specifically usb c to usb c made a difference in charging speed. I’d like to keep all my power bricks so I’ll go with usb c to usb a. Thank you!",
-                "comment_author": "Laps8240",
-                "comment_dateTime": "2024-06-13 02:43:02",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8cv4ux",
-                        "comment_body": "C to c is way faster than a to c for charging and data",
-                        "comment_author": "atan420",
-                        "comment_dateTime": "2024-06-13 02:54:04",
-                        "comment_score": 4,
-                        "replies": [
-                            {
-                                "comment_id": "l8dhkd2",
-                                "comment_body": "Not necessarily. Even the USB-C cable that comes with the 15s only supports USB2 transfer rates. \n\nPoint is, being Type C doesn’t guarantee faster speed. Check the cable details.",
-                                "comment_author": "Furrealyo",
-                                "comment_dateTime": "2024-06-13 05:27:32",
-                                "comment_score": 2,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8gcgin",
-                "comment_body": "Fires via melting or shorting out.",
-                "comment_author": "Patrol-007",
-                "comment_dateTime": "2024-06-13 19:18:52",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8hmol9",
-                        "comment_body": "Aren’t brands like Anker ok to use?",
-                        "comment_author": "Laps8240",
-                        "comment_dateTime": "2024-06-13 23:36:36",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l8hpog7",
-                                "comment_body": "Yes. Anker.com, Costco carries them, I use them. But Amazon is having problems with counterfeit items, so I’d get the cable from Anker website or from Costco store. \n\nOne of mine is damaged and I tossed it. Looking at your post about intermittent usage of fwd/reverse is puzzling. Hence trying different cable, vehicle and phone, and cleaning the physical port (vehicle, phone, cable ends)",
-                                "comment_author": "Patrol-007",
-                                "comment_dateTime": "2024-06-13 23:54:20",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8cv4ux",
-                "comment_body": "C to c is way faster than a to c for charging and data",
-                "comment_author": "atan420",
-                "comment_dateTime": "2024-06-13 02:54:04",
-                "comment_score": 4,
-                "replies": [
-                    {
-                        "comment_id": "l8dhkd2",
-                        "comment_body": "Not necessarily. Even the USB-C cable that comes with the 15s only supports USB2 transfer rates. \n\nPoint is, being Type C doesn’t guarantee faster speed. Check the cable details.",
-                        "comment_author": "Furrealyo",
-                        "comment_dateTime": "2024-06-13 05:27:32",
-                        "comment_score": 2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8hmol9",
-                "comment_body": "Aren’t brands like Anker ok to use?",
-                "comment_author": "Laps8240",
-                "comment_dateTime": "2024-06-13 23:36:36",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8hpog7",
-                        "comment_body": "Yes. Anker.com, Costco carries them, I use them. But Amazon is having problems with counterfeit items, so I’d get the cable from Anker website or from Costco store. \n\nOne of mine is damaged and I tossed it. Looking at your post about intermittent usage of fwd/reverse is puzzling. Hence trying different cable, vehicle and phone, and cleaning the physical port (vehicle, phone, cable ends)",
-                        "comment_author": "Patrol-007",
-                        "comment_dateTime": "2024-06-13 23:54:20",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8dhkd2",
-                "comment_body": "Not necessarily. Even the USB-C cable that comes with the 15s only supports USB2 transfer rates. \n\nPoint is, being Type C doesn’t guarantee faster speed. Check the cable details.",
-                "comment_author": "Furrealyo",
-                "comment_dateTime": "2024-06-13 05:27:32",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8hpog7",
-                "comment_body": "Yes. Anker.com, Costco carries them, I use them. But Amazon is having problems with counterfeit items, so I’d get the cable from Anker website or from Costco store. \n\nOne of mine is damaged and I tossed it. Looking at your post about intermittent usage of fwd/reverse is puzzling. Hence trying different cable, vehicle and phone, and cleaning the physical port (vehicle, phone, cable ends)",
-                "comment_author": "Patrol-007",
-                "comment_dateTime": "2024-06-13 23:54:20",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -515,7 +329,7 @@
     },
     {
         "post_title": "“You have an AirTag on you” notification made me freak out.",
-        "post_score": 71,
+        "post_score": 73,
         "post_id": "1dei1kg",
         "post_url": "https://i.redd.it/8ypoc2xsk76d1.jpeg",
         "post_numComments": 48,
@@ -527,7 +341,7 @@
                 "comment_body": "I found an air tag in a used truck I bought last week. I just took it apart took the battery out and threw it in a random dumpster. You should have a option to play a sound",
                 "comment_author": "longster37",
                 "comment_dateTime": "2024-06-12 23:43:33",
-                "comment_score": 47,
+                "comment_score": 43,
                 "replies": [
                     {
                         "comment_id": "l8c26oa",
@@ -548,7 +362,7 @@
                                         "comment_body": "And maybe more to the point of the question, identifying itself is a feature that Apple added to make sure their product would not be (or would be harder to be) used for nefarious tracking purposes. Basically, if an airtag that is not yours has been following you for a while and not with the owner of the air tag, you’ll get a notification so as to suggest someone might be trying to track you.",
                                         "comment_author": "1983Targa911",
                                         "comment_dateTime": "2024-06-13 04:47:28",
-                                        "comment_score": 18,
+                                        "comment_score": 17,
                                         "replies": [
                                             {
                                                 "comment_id": "l8g3z2b",
@@ -562,7 +376,7 @@
                                                         "comment_body": "It won’t start alerting immediately. There’s a delay so as to not cause nuisance notifications. I’m not sure the exact delay and I think it is randomized a bit to law it harder to game, but I think it’s generally longer than 24 hours.",
                                                         "comment_author": "1983Targa911",
                                                         "comment_dateTime": "2024-06-13 18:33:56",
-                                                        "comment_score": 8,
+                                                        "comment_score": 7,
                                                         "replies": [
                                                             {
                                                                 "comment_id": "l8g4ysx",
@@ -599,7 +413,7 @@
                                         "comment_body": "More like \"hey random iphone, tell everyone where I am\"",
                                         "comment_author": "Sulya_be",
                                         "comment_dateTime": "2024-06-13 11:15:10",
-                                        "comment_score": 9,
+                                        "comment_score": 7,
                                         "replies": [
                                             {
                                                 "comment_id": "l8ft24z",
@@ -613,7 +427,7 @@
                                                         "comment_body": "Nope, you're missing airtag detection and airtag functionality.\nWhen iphone sees an airtag it sends it's location to the apple servers.\nWhen iphone keeps seeing the airtag for prolonged time- it gives you this popup",
                                                         "comment_author": "Sulya_be",
                                                         "comment_dateTime": "2024-06-13 17:34:08",
-                                                        "comment_score": 3,
+                                                        "comment_score": 5,
                                                         "replies": [
                                                             {
                                                                 "comment_id": "l8fxxhc",
@@ -644,7 +458,7 @@
                                 "comment_body": "Yes that’s how they work. I’ve gotten these before ( I live in A apartment so you could see how it can sometimes happen.",
                                 "comment_author": "A_Moon_Named_Luna",
                                 "comment_dateTime": "2024-06-13 01:06:07",
-                                "comment_score": 4,
+                                "comment_score": 5,
                                 "replies": []
                             },
                             {
@@ -688,14 +502,14 @@
                 "comment_body": "Read more here: https://support.apple.com/en-us/119874",
                 "comment_author": "alvinek",
                 "comment_dateTime": "2024-06-13 00:15:16",
-                "comment_score": 35,
+                "comment_score": 34,
                 "replies": [
                     {
                         "comment_id": "l8ca2gc",
                         "comment_body": "Thank you so much x",
                         "comment_author": "muchoblablabla95",
                         "comment_dateTime": "2024-06-13 00:35:27",
-                        "comment_score": 8,
+                        "comment_score": 7,
                         "replies": []
                     }
                 ]
@@ -705,7 +519,7 @@
                 "comment_body": "n o m o l e s t a r",
                 "comment_author": "MarkAssBrownieHD",
                 "comment_dateTime": "2024-06-13 10:57:35",
-                "comment_score": 7,
+                "comment_score": 8,
                 "replies": [
                     {
                         "comment_id": "l91om8h",
@@ -731,7 +545,7 @@
                 "comment_body": "You need to be contacting the local police department not us. I’m so serious if you are. That is very scary",
                 "comment_author": "BigSmoke2023",
                 "comment_dateTime": "2024-06-12 23:28:17",
-                "comment_score": 30,
+                "comment_score": 29,
                 "replies": []
             },
             {
@@ -762,7 +576,7 @@
                         "comment_body": "There is but it’s easy to take the speakers out",
                         "comment_author": "CactusSurfing",
                         "comment_dateTime": "2024-06-13 01:09:44",
-                        "comment_score": 7,
+                        "comment_score": 8,
                         "replies": [
                             {
                                 "comment_id": "l8era6i",
@@ -799,7 +613,7 @@
                 "comment_body": "Do these alert android phones too? These things are scary.",
                 "comment_author": "releasethedogs",
                 "comment_dateTime": "2024-06-13 03:40:23",
-                "comment_score": 3,
+                "comment_score": 5,
                 "replies": [
                     {
                         "comment_id": "l8dl0lp",
@@ -883,767 +697,7 @@
                 "comment_body": "Have you checked your underpants",
                 "comment_author": "Sempot",
                 "comment_dateTime": "2024-06-13 10:50:45",
-                "comment_score": -11,
-                "replies": []
-            },
-            {
-                "comment_id": "l8c26oa",
-                "comment_body": "So air tags connect to any random iPhone they find? Genuine question",
-                "comment_author": "muchoblablabla95",
-                "comment_dateTime": "2024-06-12 23:46:23",
-                "comment_score": 20,
-                "replies": [
-                    {
-                        "comment_id": "l8cizsu",
-                        "comment_body": "That’s how they know where they are, since they don’t have GPS they ask nearby iPhones where they are, kinda like a blind person who’s lost",
-                        "comment_author": "LambbbSauce",
-                        "comment_dateTime": "2024-06-13 01:33:06",
-                        "comment_score": 74,
-                        "replies": [
-                            {
-                                "comment_id": "l8dbz7y",
-                                "comment_body": "And maybe more to the point of the question, identifying itself is a feature that Apple added to make sure their product would not be (or would be harder to be) used for nefarious tracking purposes. Basically, if an airtag that is not yours has been following you for a while and not with the owner of the air tag, you’ll get a notification so as to suggest someone might be trying to track you.",
-                                "comment_author": "1983Targa911",
-                                "comment_dateTime": "2024-06-13 04:47:28",
-                                "comment_score": 18,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8g3z2b",
-                                        "comment_body": "So what happens if you are on an airplane with several on luggage?",
-                                        "comment_author": "UnenthusiasticAddict",
-                                        "comment_dateTime": "2024-06-13 18:32:04",
-                                        "comment_score": 2,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l8g4b2i",
-                                                "comment_body": "It won’t start alerting immediately. There’s a delay so as to not cause nuisance notifications. I’m not sure the exact delay and I think it is randomized a bit to law it harder to game, but I think it’s generally longer than 24 hours.",
-                                                "comment_author": "1983Targa911",
-                                                "comment_dateTime": "2024-06-13 18:33:56",
-                                                "comment_score": 8,
-                                                "replies": [
-                                                    {
-                                                        "comment_id": "l8g4ysx",
-                                                        "comment_body": "Ok thank you for the fast response!",
-                                                        "comment_author": "UnenthusiasticAddict",
-                                                        "comment_dateTime": "2024-06-13 18:37:35",
-                                                        "comment_score": 2,
-                                                        "replies": []
-                                                    },
-                                                    {
-                                                        "comment_id": "l8gqzvq",
-                                                        "comment_body": "And for long trips you’ll probably get a notification like this, especially if someone in your own group has an AirTag.",
-                                                        "comment_author": "navjot94",
-                                                        "comment_dateTime": "2024-06-13 20:40:37",
-                                                        "comment_score": 1,
-                                                        "replies": []
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "comment_id": "l8w4txf",
-                                                "comment_body": "I removed the sound thing just in case for my luggage AirTag",
-                                                "comment_author": "GreenLiving2864",
-                                                "comment_dateTime": "2024-06-16 20:23:07",
-                                                "comment_score": 2,
-                                                "replies": []
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "comment_id": "l8ef3qe",
-                                "comment_body": "More like \"hey random iphone, tell everyone where I am\"",
-                                "comment_author": "Sulya_be",
-                                "comment_dateTime": "2024-06-13 11:15:10",
-                                "comment_score": 9,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8ft24z",
-                                        "comment_body": "Only if that random iPhone is being “followed” by said AirTag. If it’s just passing by it doesn’t let the other phone user know",
-                                        "comment_author": "doob22",
-                                        "comment_dateTime": "2024-06-13 17:31:37",
-                                        "comment_score": 1,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l8ftii5",
-                                                "comment_body": "Nope, you're missing airtag detection and airtag functionality.\nWhen iphone sees an airtag it sends it's location to the apple servers.\nWhen iphone keeps seeing the airtag for prolonged time- it gives you this popup",
-                                                "comment_author": "Sulya_be",
-                                                "comment_dateTime": "2024-06-13 17:34:08",
-                                                "comment_score": 3,
-                                                "replies": [
-                                                    {
-                                                        "comment_id": "l8fxxhc",
-                                                        "comment_body": "Well you said “tell everyone where I am” and that’s not true. I was saying the only time others know “where” it is is if it’s following an iPhone for a bit",
-                                                        "comment_author": "doob22",
-                                                        "comment_dateTime": "2024-06-13 17:58:24",
-                                                        "comment_score": 2,
-                                                        "replies": []
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "comment_id": "l8c2cf6",
-                        "comment_body": "Yes if it notified on your phones it should make a sounds. It’s very dangerous. Find it asap",
-                        "comment_author": "longster37",
-                        "comment_dateTime": "2024-06-12 23:47:19",
-                        "comment_score": 11,
-                        "replies": []
-                    },
-                    {
-                        "comment_id": "l8ceud8",
-                        "comment_body": "Yes that’s how they work. I’ve gotten these before ( I live in A apartment so you could see how it can sometimes happen.",
-                        "comment_author": "A_Moon_Named_Luna",
-                        "comment_dateTime": "2024-06-13 01:06:07",
-                        "comment_score": 4,
-                        "replies": []
-                    },
-                    {
-                        "comment_id": "l8et184",
-                        "comment_body": "About 10s of googling reveals that to be true.",
-                        "comment_author": "andyhenault",
-                        "comment_dateTime": "2024-06-13 13:35:26",
-                        "comment_score": 2,
-                        "replies": []
-                    },
-                    {
-                        "comment_id": "l8hcs7l",
-                        "comment_body": "Yes, this is BY DESIGN! If you ever get this notification, that means that you are connected to a nearby AirTag… Could be your boyfriend’s, could be your neighbor’s.",
-                        "comment_author": "sethbrown321",
-                        "comment_dateTime": "2024-06-13 22:40:29",
-                        "comment_score": 1,
-                        "replies": []
-                    },
-                    {
-                        "comment_id": "l8vmqpe",
-                        "comment_body": "Not really but they use others iPhones/iPads/Macbooks/Apple Watches to wide the detecting distance and there’s an option where the iPhone can detect if an AirTag or AirPod that isn’t yours is following you",
-                        "comment_author": "Fun-Zombie3447",
-                        "comment_dateTime": "2024-06-16 18:30:02",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8w4ehc",
-                "comment_body": "They actually do play a sound after x hours away BUUUUT people have been removing it to use on luggage so on a long trip it wouldn’t start beeping like crazy in the middle of a flight ooooooor to stalk other people unfortunately.\nAlso you could’ve just take that AirTag to the police to find out who put in on your truck in case it was your ex and file something against him…",
-                "comment_author": "GreenLiving2864",
-                "comment_dateTime": "2024-06-16 20:20:28",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8ca2gc",
-                "comment_body": "Thank you so much x",
-                "comment_author": "muchoblablabla95",
-                "comment_dateTime": "2024-06-13 00:35:27",
-                "comment_score": 8,
-                "replies": []
-            },
-            {
-                "comment_id": "l91om8h",
-                "comment_body": "What did Lestar ever do to you?",
-                "comment_author": "RulerK",
-                "comment_dateTime": "2024-06-17 21:34:42",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l93v69p",
-                        "comment_body": "lmao",
-                        "comment_author": "MarkAssBrownieHD",
-                        "comment_dateTime": "2024-06-18 05:58:49",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8dgtjh",
-                "comment_body": "There is if you click the notification and open the Find My app.",
-                "comment_author": "Reach-for-the-sky_15",
-                "comment_dateTime": "2024-06-13 05:21:54",
-                "comment_score": 11,
-                "replies": []
-            },
-            {
-                "comment_id": "l8cfed1",
-                "comment_body": "There is but it’s easy to take the speakers out",
-                "comment_author": "CactusSurfing",
-                "comment_dateTime": "2024-06-13 01:09:44",
-                "comment_score": 7,
-                "replies": [
-                    {
-                        "comment_id": "l8era6i",
-                        "comment_body": "Next version should have some kind of check such that critical circuit passes through speaker. So that if you take it out, it disabled it.",
-                        "comment_author": "mxforest",
-                        "comment_dateTime": "2024-06-13 13:20:14",
-                        "comment_score": 2,
-                        "replies": [
-                            {
-                                "comment_id": "l8flpkr",
-                                "comment_body": "Yes, they should....now if i steal a bike i just play the sound, toss the tag and roll on happy. Nice feature! /s",
-                                "comment_author": "Resident_Honeydew595",
-                                "comment_dateTime": "2024-06-13 16:50:14",
-                                "comment_score": 2,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8flw6t",
-                                        "comment_body": "Sound cannot be played right away. There is a several hour delay.",
-                                        "comment_author": "mxforest",
-                                        "comment_dateTime": "2024-06-13 16:51:16",
-                                        "comment_score": 0,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8dl0lp",
-                "comment_body": "Yeah Google rolled out a Foreign Tracker Detection to Play Services a few months ago. Works with AirTags",
-                "comment_author": "doctortrento",
-                "comment_dateTime": "2024-06-13 05:54:53",
-                "comment_score": 12,
-                "replies": [
-                    {
-                        "comment_id": "l8j4598",
-                        "comment_body": "But to be clear you have to have downloaded the app. I guess that’s better than nothing.",
-                        "comment_author": "releasethedogs",
-                        "comment_dateTime": "2024-06-14 05:44:17",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l8mohtx",
-                                "comment_body": "Play Services is integrated into every Android phone that's shipped with access to Google services since like 2014.",
-                                "comment_author": "doctortrento",
-                                "comment_dateTime": "2024-06-14 21:57:59",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8nk7cz",
-                                        "comment_body": "Sweet!",
-                                        "comment_author": "releasethedogs",
-                                        "comment_dateTime": "2024-06-15 01:17:28",
-                                        "comment_score": 1,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8cje8c",
-                "comment_body": "Don’t bother changing anything on your phone, the only way to get rid of is to find it",
-                "comment_author": "LambbbSauce",
-                "comment_dateTime": "2024-06-13 01:35:39",
-                "comment_score": 36,
-                "replies": []
-            },
-            {
-                "comment_id": "l8cbgmh",
-                "comment_body": "no muchachita eso no es enough. La persona está rastreando el AirTag no tu iPhone so apagando todo de tu celular no ayuda, tienes que encontrar el AirTag.",
-                "comment_author": "mofongoDorado",
-                "comment_dateTime": "2024-06-13 00:44:25",
-                "comment_score": 14,
-                "replies": []
-            },
-            {
-                "comment_id": "l8fl2uw",
-                "comment_body": "If you live in an apartment it could be someone nearby. My girlfriend was going on a business trip and I let her use one of my AirTags for her purse. Since the AirTag wasn’t paired to her Apple ID it was giving alerts to everyone at the conference that an unidentified AirTag was nearby. \n\nDisabling sharing on your phone won’t do anything, because the tracking is coming from the AirTag itself. If you tap on that notification it will give you the option to make the AirTag play a sound",
-                "comment_author": "Hanz_VonManstrom",
-                "comment_dateTime": "2024-06-13 16:46:37",
-                "comment_score": 3,
-                "replies": []
-            },
-            {
-                "comment_id": "l8cj5ex",
-                "comment_body": "No es un error, a mi solo me salta esa notificacion cuando tomo prestado el carro de mi hermano en el cual lleva un airtag, y me desplazo una buena distancia.\n\nDeberia salirte una opcion de reproducir un sonido a traves del AirTag para ayudarte a localizarlo. Si no consigues localizarlo por el sonido, **llama a la policia**, ya que se puede sacar el altavoz del airtag para que no suene.\n\nCuidate por favor.",
-                "comment_author": "what_is_this_337",
-                "comment_dateTime": "2024-06-13 01:34:07",
-                "comment_score": 7,
-                "replies": []
-            },
-            {
-                "comment_id": "l8cizsu",
-                "comment_body": "That’s how they know where they are, since they don’t have GPS they ask nearby iPhones where they are, kinda like a blind person who’s lost",
-                "comment_author": "LambbbSauce",
-                "comment_dateTime": "2024-06-13 01:33:06",
-                "comment_score": 74,
-                "replies": [
-                    {
-                        "comment_id": "l8dbz7y",
-                        "comment_body": "And maybe more to the point of the question, identifying itself is a feature that Apple added to make sure their product would not be (or would be harder to be) used for nefarious tracking purposes. Basically, if an airtag that is not yours has been following you for a while and not with the owner of the air tag, you’ll get a notification so as to suggest someone might be trying to track you.",
-                        "comment_author": "1983Targa911",
-                        "comment_dateTime": "2024-06-13 04:47:28",
-                        "comment_score": 18,
-                        "replies": [
-                            {
-                                "comment_id": "l8g3z2b",
-                                "comment_body": "So what happens if you are on an airplane with several on luggage?",
-                                "comment_author": "UnenthusiasticAddict",
-                                "comment_dateTime": "2024-06-13 18:32:04",
-                                "comment_score": 2,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8g4b2i",
-                                        "comment_body": "It won’t start alerting immediately. There’s a delay so as to not cause nuisance notifications. I’m not sure the exact delay and I think it is randomized a bit to law it harder to game, but I think it’s generally longer than 24 hours.",
-                                        "comment_author": "1983Targa911",
-                                        "comment_dateTime": "2024-06-13 18:33:56",
-                                        "comment_score": 8,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l8g4ysx",
-                                                "comment_body": "Ok thank you for the fast response!",
-                                                "comment_author": "UnenthusiasticAddict",
-                                                "comment_dateTime": "2024-06-13 18:37:35",
-                                                "comment_score": 2,
-                                                "replies": []
-                                            },
-                                            {
-                                                "comment_id": "l8gqzvq",
-                                                "comment_body": "And for long trips you’ll probably get a notification like this, especially if someone in your own group has an AirTag.",
-                                                "comment_author": "navjot94",
-                                                "comment_dateTime": "2024-06-13 20:40:37",
-                                                "comment_score": 1,
-                                                "replies": []
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "comment_id": "l8w4txf",
-                                        "comment_body": "I removed the sound thing just in case for my luggage AirTag",
-                                        "comment_author": "GreenLiving2864",
-                                        "comment_dateTime": "2024-06-16 20:23:07",
-                                        "comment_score": 2,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "comment_id": "l8ef3qe",
-                        "comment_body": "More like \"hey random iphone, tell everyone where I am\"",
-                        "comment_author": "Sulya_be",
-                        "comment_dateTime": "2024-06-13 11:15:10",
-                        "comment_score": 9,
-                        "replies": [
-                            {
-                                "comment_id": "l8ft24z",
-                                "comment_body": "Only if that random iPhone is being “followed” by said AirTag. If it’s just passing by it doesn’t let the other phone user know",
-                                "comment_author": "doob22",
-                                "comment_dateTime": "2024-06-13 17:31:37",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8ftii5",
-                                        "comment_body": "Nope, you're missing airtag detection and airtag functionality.\nWhen iphone sees an airtag it sends it's location to the apple servers.\nWhen iphone keeps seeing the airtag for prolonged time- it gives you this popup",
-                                        "comment_author": "Sulya_be",
-                                        "comment_dateTime": "2024-06-13 17:34:08",
-                                        "comment_score": 3,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l8fxxhc",
-                                                "comment_body": "Well you said “tell everyone where I am” and that’s not true. I was saying the only time others know “where” it is is if it’s following an iPhone for a bit",
-                                                "comment_author": "doob22",
-                                                "comment_dateTime": "2024-06-13 17:58:24",
-                                                "comment_score": 2,
-                                                "replies": []
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8c2cf6",
-                "comment_body": "Yes if it notified on your phones it should make a sounds. It’s very dangerous. Find it asap",
-                "comment_author": "longster37",
-                "comment_dateTime": "2024-06-12 23:47:19",
-                "comment_score": 11,
-                "replies": []
-            },
-            {
-                "comment_id": "l8ceud8",
-                "comment_body": "Yes that’s how they work. I’ve gotten these before ( I live in A apartment so you could see how it can sometimes happen.",
-                "comment_author": "A_Moon_Named_Luna",
-                "comment_dateTime": "2024-06-13 01:06:07",
-                "comment_score": 4,
-                "replies": []
-            },
-            {
-                "comment_id": "l8et184",
-                "comment_body": "About 10s of googling reveals that to be true.",
-                "comment_author": "andyhenault",
-                "comment_dateTime": "2024-06-13 13:35:26",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8hcs7l",
-                "comment_body": "Yes, this is BY DESIGN! If you ever get this notification, that means that you are connected to a nearby AirTag… Could be your boyfriend’s, could be your neighbor’s.",
-                "comment_author": "sethbrown321",
-                "comment_dateTime": "2024-06-13 22:40:29",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8vmqpe",
-                "comment_body": "Not really but they use others iPhones/iPads/Macbooks/Apple Watches to wide the detecting distance and there’s an option where the iPhone can detect if an AirTag or AirPod that isn’t yours is following you",
-                "comment_author": "Fun-Zombie3447",
-                "comment_dateTime": "2024-06-16 18:30:02",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l93v69p",
-                "comment_body": "lmao",
-                "comment_author": "MarkAssBrownieHD",
-                "comment_dateTime": "2024-06-18 05:58:49",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8era6i",
-                "comment_body": "Next version should have some kind of check such that critical circuit passes through speaker. So that if you take it out, it disabled it.",
-                "comment_author": "mxforest",
-                "comment_dateTime": "2024-06-13 13:20:14",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8flpkr",
-                        "comment_body": "Yes, they should....now if i steal a bike i just play the sound, toss the tag and roll on happy. Nice feature! /s",
-                        "comment_author": "Resident_Honeydew595",
-                        "comment_dateTime": "2024-06-13 16:50:14",
-                        "comment_score": 2,
-                        "replies": [
-                            {
-                                "comment_id": "l8flw6t",
-                                "comment_body": "Sound cannot be played right away. There is a several hour delay.",
-                                "comment_author": "mxforest",
-                                "comment_dateTime": "2024-06-13 16:51:16",
-                                "comment_score": 0,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8j4598",
-                "comment_body": "But to be clear you have to have downloaded the app. I guess that’s better than nothing.",
-                "comment_author": "releasethedogs",
-                "comment_dateTime": "2024-06-14 05:44:17",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8mohtx",
-                        "comment_body": "Play Services is integrated into every Android phone that's shipped with access to Google services since like 2014.",
-                        "comment_author": "doctortrento",
-                        "comment_dateTime": "2024-06-14 21:57:59",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l8nk7cz",
-                                "comment_body": "Sweet!",
-                                "comment_author": "releasethedogs",
-                                "comment_dateTime": "2024-06-15 01:17:28",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8dbz7y",
-                "comment_body": "And maybe more to the point of the question, identifying itself is a feature that Apple added to make sure their product would not be (or would be harder to be) used for nefarious tracking purposes. Basically, if an airtag that is not yours has been following you for a while and not with the owner of the air tag, you’ll get a notification so as to suggest someone might be trying to track you.",
-                "comment_author": "1983Targa911",
-                "comment_dateTime": "2024-06-13 04:47:28",
-                "comment_score": 18,
-                "replies": [
-                    {
-                        "comment_id": "l8g3z2b",
-                        "comment_body": "So what happens if you are on an airplane with several on luggage?",
-                        "comment_author": "UnenthusiasticAddict",
-                        "comment_dateTime": "2024-06-13 18:32:04",
-                        "comment_score": 2,
-                        "replies": [
-                            {
-                                "comment_id": "l8g4b2i",
-                                "comment_body": "It won’t start alerting immediately. There’s a delay so as to not cause nuisance notifications. I’m not sure the exact delay and I think it is randomized a bit to law it harder to game, but I think it’s generally longer than 24 hours.",
-                                "comment_author": "1983Targa911",
-                                "comment_dateTime": "2024-06-13 18:33:56",
-                                "comment_score": 8,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8g4ysx",
-                                        "comment_body": "Ok thank you for the fast response!",
-                                        "comment_author": "UnenthusiasticAddict",
-                                        "comment_dateTime": "2024-06-13 18:37:35",
-                                        "comment_score": 2,
-                                        "replies": []
-                                    },
-                                    {
-                                        "comment_id": "l8gqzvq",
-                                        "comment_body": "And for long trips you’ll probably get a notification like this, especially if someone in your own group has an AirTag.",
-                                        "comment_author": "navjot94",
-                                        "comment_dateTime": "2024-06-13 20:40:37",
-                                        "comment_score": 1,
-                                        "replies": []
-                                    }
-                                ]
-                            },
-                            {
-                                "comment_id": "l8w4txf",
-                                "comment_body": "I removed the sound thing just in case for my luggage AirTag",
-                                "comment_author": "GreenLiving2864",
-                                "comment_dateTime": "2024-06-16 20:23:07",
-                                "comment_score": 2,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8ef3qe",
-                "comment_body": "More like \"hey random iphone, tell everyone where I am\"",
-                "comment_author": "Sulya_be",
-                "comment_dateTime": "2024-06-13 11:15:10",
-                "comment_score": 9,
-                "replies": [
-                    {
-                        "comment_id": "l8ft24z",
-                        "comment_body": "Only if that random iPhone is being “followed” by said AirTag. If it’s just passing by it doesn’t let the other phone user know",
-                        "comment_author": "doob22",
-                        "comment_dateTime": "2024-06-13 17:31:37",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l8ftii5",
-                                "comment_body": "Nope, you're missing airtag detection and airtag functionality.\nWhen iphone sees an airtag it sends it's location to the apple servers.\nWhen iphone keeps seeing the airtag for prolonged time- it gives you this popup",
-                                "comment_author": "Sulya_be",
-                                "comment_dateTime": "2024-06-13 17:34:08",
-                                "comment_score": 3,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8fxxhc",
-                                        "comment_body": "Well you said “tell everyone where I am” and that’s not true. I was saying the only time others know “where” it is is if it’s following an iPhone for a bit",
-                                        "comment_author": "doob22",
-                                        "comment_dateTime": "2024-06-13 17:58:24",
-                                        "comment_score": 2,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8flpkr",
-                "comment_body": "Yes, they should....now if i steal a bike i just play the sound, toss the tag and roll on happy. Nice feature! /s",
-                "comment_author": "Resident_Honeydew595",
-                "comment_dateTime": "2024-06-13 16:50:14",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8flw6t",
-                        "comment_body": "Sound cannot be played right away. There is a several hour delay.",
-                        "comment_author": "mxforest",
-                        "comment_dateTime": "2024-06-13 16:51:16",
-                        "comment_score": 0,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8mohtx",
-                "comment_body": "Play Services is integrated into every Android phone that's shipped with access to Google services since like 2014.",
-                "comment_author": "doctortrento",
-                "comment_dateTime": "2024-06-14 21:57:59",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8nk7cz",
-                        "comment_body": "Sweet!",
-                        "comment_author": "releasethedogs",
-                        "comment_dateTime": "2024-06-15 01:17:28",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8g3z2b",
-                "comment_body": "So what happens if you are on an airplane with several on luggage?",
-                "comment_author": "UnenthusiasticAddict",
-                "comment_dateTime": "2024-06-13 18:32:04",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8g4b2i",
-                        "comment_body": "It won’t start alerting immediately. There’s a delay so as to not cause nuisance notifications. I’m not sure the exact delay and I think it is randomized a bit to law it harder to game, but I think it’s generally longer than 24 hours.",
-                        "comment_author": "1983Targa911",
-                        "comment_dateTime": "2024-06-13 18:33:56",
-                        "comment_score": 8,
-                        "replies": [
-                            {
-                                "comment_id": "l8g4ysx",
-                                "comment_body": "Ok thank you for the fast response!",
-                                "comment_author": "UnenthusiasticAddict",
-                                "comment_dateTime": "2024-06-13 18:37:35",
-                                "comment_score": 2,
-                                "replies": []
-                            },
-                            {
-                                "comment_id": "l8gqzvq",
-                                "comment_body": "And for long trips you’ll probably get a notification like this, especially if someone in your own group has an AirTag.",
-                                "comment_author": "navjot94",
-                                "comment_dateTime": "2024-06-13 20:40:37",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    },
-                    {
-                        "comment_id": "l8w4txf",
-                        "comment_body": "I removed the sound thing just in case for my luggage AirTag",
-                        "comment_author": "GreenLiving2864",
-                        "comment_dateTime": "2024-06-16 20:23:07",
-                        "comment_score": 2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8ft24z",
-                "comment_body": "Only if that random iPhone is being “followed” by said AirTag. If it’s just passing by it doesn’t let the other phone user know",
-                "comment_author": "doob22",
-                "comment_dateTime": "2024-06-13 17:31:37",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8ftii5",
-                        "comment_body": "Nope, you're missing airtag detection and airtag functionality.\nWhen iphone sees an airtag it sends it's location to the apple servers.\nWhen iphone keeps seeing the airtag for prolonged time- it gives you this popup",
-                        "comment_author": "Sulya_be",
-                        "comment_dateTime": "2024-06-13 17:34:08",
-                        "comment_score": 3,
-                        "replies": [
-                            {
-                                "comment_id": "l8fxxhc",
-                                "comment_body": "Well you said “tell everyone where I am” and that’s not true. I was saying the only time others know “where” it is is if it’s following an iPhone for a bit",
-                                "comment_author": "doob22",
-                                "comment_dateTime": "2024-06-13 17:58:24",
-                                "comment_score": 2,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8flw6t",
-                "comment_body": "Sound cannot be played right away. There is a several hour delay.",
-                "comment_author": "mxforest",
-                "comment_dateTime": "2024-06-13 16:51:16",
-                "comment_score": 0,
-                "replies": []
-            },
-            {
-                "comment_id": "l8nk7cz",
-                "comment_body": "Sweet!",
-                "comment_author": "releasethedogs",
-                "comment_dateTime": "2024-06-15 01:17:28",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8g4b2i",
-                "comment_body": "It won’t start alerting immediately. There’s a delay so as to not cause nuisance notifications. I’m not sure the exact delay and I think it is randomized a bit to law it harder to game, but I think it’s generally longer than 24 hours.",
-                "comment_author": "1983Targa911",
-                "comment_dateTime": "2024-06-13 18:33:56",
-                "comment_score": 8,
-                "replies": [
-                    {
-                        "comment_id": "l8g4ysx",
-                        "comment_body": "Ok thank you for the fast response!",
-                        "comment_author": "UnenthusiasticAddict",
-                        "comment_dateTime": "2024-06-13 18:37:35",
-                        "comment_score": 2,
-                        "replies": []
-                    },
-                    {
-                        "comment_id": "l8gqzvq",
-                        "comment_body": "And for long trips you’ll probably get a notification like this, especially if someone in your own group has an AirTag.",
-                        "comment_author": "navjot94",
-                        "comment_dateTime": "2024-06-13 20:40:37",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8w4txf",
-                "comment_body": "I removed the sound thing just in case for my luggage AirTag",
-                "comment_author": "GreenLiving2864",
-                "comment_dateTime": "2024-06-16 20:23:07",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8ftii5",
-                "comment_body": "Nope, you're missing airtag detection and airtag functionality.\nWhen iphone sees an airtag it sends it's location to the apple servers.\nWhen iphone keeps seeing the airtag for prolonged time- it gives you this popup",
-                "comment_author": "Sulya_be",
-                "comment_dateTime": "2024-06-13 17:34:08",
-                "comment_score": 3,
-                "replies": [
-                    {
-                        "comment_id": "l8fxxhc",
-                        "comment_body": "Well you said “tell everyone where I am” and that’s not true. I was saying the only time others know “where” it is is if it’s following an iPhone for a bit",
-                        "comment_author": "doob22",
-                        "comment_dateTime": "2024-06-13 17:58:24",
-                        "comment_score": 2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8g4ysx",
-                "comment_body": "Ok thank you for the fast response!",
-                "comment_author": "UnenthusiasticAddict",
-                "comment_dateTime": "2024-06-13 18:37:35",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8gqzvq",
-                "comment_body": "And for long trips you’ll probably get a notification like this, especially if someone in your own group has an AirTag.",
-                "comment_author": "navjot94",
-                "comment_dateTime": "2024-06-13 20:40:37",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8fxxhc",
-                "comment_body": "Well you said “tell everyone where I am” and that’s not true. I was saying the only time others know “where” it is is if it’s following an iPhone for a bit",
-                "comment_author": "doob22",
-                "comment_dateTime": "2024-06-13 17:58:24",
-                "comment_score": 2,
+                "comment_score": -10,
                 "replies": []
             }
         ]
@@ -1699,7 +753,7 @@
                 "comment_body": "You need to sign up as an Apple developer",
                 "comment_author": "britelitees",
                 "comment_dateTime": "2024-06-12 22:18:39",
-                "comment_score": 8,
+                "comment_score": 9,
                 "replies": []
             },
             {
@@ -1739,7 +793,7 @@
                 "comment_body": "The public beta hasn’t been released yet. It will be available in July. The people who have it now paid for a developer account.",
                 "comment_author": "0000GKP",
                 "comment_dateTime": "2024-06-12 22:21:32",
-                "comment_score": -4,
+                "comment_score": -3,
                 "replies": [
                     {
                         "comment_id": "l8bnwh4",
@@ -1768,57 +822,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l8bnwh4",
-                "comment_body": "The Developer Betas are also available for non-paid developer accounts. Apple changed it last year",
-                "comment_author": "Appropriate_Salad968",
-                "comment_dateTime": "2024-06-12 22:24:55",
-                "comment_score": 10,
-                "replies": [
-                    {
-                        "comment_id": "l8bt8d4",
-                        "comment_body": "The only right comment in here, which makes the fact that the option doesn't show to the OP even stranger.",
-                        "comment_author": "the_zel",
-                        "comment_dateTime": "2024-06-12 22:54:23",
-                        "comment_score": 3,
-                        "replies": [
-                            {
-                                "comment_id": "l8c0dpt",
-                                "comment_body": "You still have to sign up for a Developer Account, it’s free, gives you access to the Developer Betas, and different from the paid Developer Program.",
-                                "comment_author": "Appropriate_Salad968",
-                                "comment_dateTime": "2024-06-12 23:35:41",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8bt8d4",
-                "comment_body": "The only right comment in here, which makes the fact that the option doesn't show to the OP even stranger.",
-                "comment_author": "the_zel",
-                "comment_dateTime": "2024-06-12 22:54:23",
-                "comment_score": 3,
-                "replies": [
-                    {
-                        "comment_id": "l8c0dpt",
-                        "comment_body": "You still have to sign up for a Developer Account, it’s free, gives you access to the Developer Betas, and different from the paid Developer Program.",
-                        "comment_author": "Appropriate_Salad968",
-                        "comment_dateTime": "2024-06-12 23:35:41",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8c0dpt",
-                "comment_body": "You still have to sign up for a Developer Account, it’s free, gives you access to the Developer Betas, and different from the paid Developer Program.",
-                "comment_author": "Appropriate_Salad968",
-                "comment_dateTime": "2024-06-12 23:35:41",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1874,7 +877,7 @@
                 "comment_body": "Last seen tomorrow! Did you recently fly across a bunch of time zones?",
                 "comment_author": "Eric848448",
                 "comment_dateTime": "2024-06-13 00:51:03",
-                "comment_score": 97,
+                "comment_score": 98,
                 "replies": []
             },
             {
@@ -1882,7 +885,7 @@
                 "comment_body": "Tomorrow 👍",
                 "comment_author": "UglyWigglyBallz",
                 "comment_dateTime": "2024-06-12 22:09:22",
-                "comment_score": 619,
+                "comment_score": 613,
                 "replies": [
                     {
                         "comment_id": "l8br7hw",
@@ -1896,14 +899,14 @@
                                 "comment_body": "[Tomorrow!](https://m.youtube.com/watch?v=6PtdpI-D6mM&cbrd=1)",
                                 "comment_author": "DJ-WS",
                                 "comment_dateTime": "2024-06-12 23:58:30",
-                                "comment_score": 28,
+                                "comment_score": 26,
                                 "replies": [
                                     {
                                         "comment_id": "l8eclhk",
                                         "comment_body": "¯\\\\\\_(ツ)\\_/¯",
                                         "comment_author": "MacAppster87",
                                         "comment_dateTime": "2024-06-13 10:44:31",
-                                        "comment_score": 7,
+                                        "comment_score": 8,
                                         "replies": []
                                     }
                                 ]
@@ -1933,14 +936,14 @@
                 "comment_body": "- How much battery do you have?\n\n• Tomorrow%.",
                 "comment_author": "_Pilotamente_077_",
                 "comment_dateTime": "2024-06-13 02:45:48",
-                "comment_score": 199,
+                "comment_score": 198,
                 "replies": [
                     {
                         "comment_id": "l8degqg",
                         "comment_body": ">Tomorrow%\n\nSounds like a speedrun category",
                         "comment_author": "AbdullahMRiad",
                         "comment_dateTime": "2024-06-13 05:04:37",
-                        "comment_score": 31,
+                        "comment_score": 34,
                         "replies": []
                     },
                     {
@@ -1966,14 +969,14 @@
                 "comment_body": "It’s in the future",
                 "comment_author": "Careless_Conflict581",
                 "comment_dateTime": "2024-06-13 00:00:33",
-                "comment_score": 100,
+                "comment_score": 99,
                 "replies": [
                     {
                         "comment_id": "l8cgq8o",
                         "comment_body": "That Apple Intelligence",
                         "comment_author": "Luna259",
                         "comment_dateTime": "2024-06-13 01:18:25",
-                        "comment_score": 35,
+                        "comment_score": 33,
                         "replies": []
                     }
                 ]
@@ -1983,14 +986,14 @@
                 "comment_body": "Maybe different time zone",
                 "comment_author": "cyberspirit777",
                 "comment_dateTime": "2024-06-12 23:37:40",
-                "comment_score": 56,
+                "comment_score": 55,
                 "replies": [
                     {
                         "comment_id": "l8e93zf",
                         "comment_body": "Ugh. Reset the counter!\n\n**IT HAS BEEN** -1 **DAYS SINCE OUR LAST TIMEZONE ISSUE**",
                         "comment_author": "toholio",
                         "comment_dateTime": "2024-06-13 10:01:55",
-                        "comment_score": 31,
+                        "comment_score": 30,
                         "replies": []
                     }
                 ]
@@ -2000,7 +1003,7 @@
                 "comment_body": "Sounds like where your phone is is in the future (different time zone)",
                 "comment_author": "iAdden",
                 "comment_dateTime": "2024-06-13 02:21:03",
-                "comment_score": 15,
+                "comment_score": 17,
                 "replies": []
             },
             {
@@ -2016,14 +1019,14 @@
                 "comment_body": "What app is that? Doesn't look like \"find my\"",
                 "comment_author": "planting49",
                 "comment_dateTime": "2024-06-13 04:57:54",
-                "comment_score": 6,
+                "comment_score": 5,
                 "replies": [
                     {
                         "comment_id": "l8ec8jr",
                         "comment_body": "Find my website on pc",
                         "comment_author": "Carlazor_",
                         "comment_dateTime": "2024-06-13 10:40:08",
-                        "comment_score": 7,
+                        "comment_score": 8,
                         "replies": [
                             {
                                 "comment_id": "l8en58g",
@@ -2037,14 +1040,14 @@
                                         "comment_body": "No I meant apple's find my website, not my website, Apple's find my website is [this](http://iCloud.com/find)",
                                         "comment_author": "Carlazor_",
                                         "comment_dateTime": "2024-06-13 13:05:30",
-                                        "comment_score": 9,
+                                        "comment_score": 10,
                                         "replies": [
                                             {
                                                 "comment_id": "l8eqezx",
                                                 "comment_body": "I'm just joking, sorry",
                                                 "comment_author": "Tumleren",
                                                 "comment_dateTime": "2024-06-13 13:12:28",
-                                                "comment_score": 15,
+                                                "comment_score": 16,
                                                 "replies": []
                                             },
                                             {
@@ -2052,7 +1055,7 @@
                                                 "comment_body": "But what IS your website?",
                                                 "comment_author": "CSDNews",
                                                 "comment_dateTime": "2024-06-13 14:50:17",
-                                                "comment_score": 9,
+                                                "comment_score": 7,
                                                 "replies": [
                                                     {
                                                         "comment_id": "l8h47rv",
@@ -2078,7 +1081,7 @@
                                                 "comment_body": "Apple found your website, not your website? what?",
                                                 "comment_author": "rresende",
                                                 "comment_dateTime": "2024-06-13 16:44:54",
-                                                "comment_score": 4,
+                                                "comment_score": 6,
                                                 "replies": []
                                             }
                                         ]
@@ -2102,7 +1105,7 @@
                 "comment_body": "Theeeeeeeeeeee sun will come up…..",
                 "comment_author": "CYPH3R_22",
                 "comment_dateTime": "2024-06-13 01:04:42",
-                "comment_score": 11,
+                "comment_score": 10,
                 "replies": [
                     {
                         "comment_id": "l8gzxvj",
@@ -2176,7 +1179,7 @@
                 "comment_body": "Toyota",
                 "comment_author": "venusunusis",
                 "comment_dateTime": "2024-06-13 01:37:52",
-                "comment_score": 2,
+                "comment_score": 3,
                 "replies": []
             },
             {
@@ -2371,392 +1374,6 @@
                 "comment_dateTime": "2024-06-13 17:40:45",
                 "comment_score": 0,
                 "replies": []
-            },
-            {
-                "comment_id": "l8br7hw",
-                "comment_body": "Tomorrow battery will be low. Apple intelligence spitting out some facts lol.",
-                "comment_author": "No-Job-4431",
-                "comment_dateTime": "2024-06-12 22:43:13",
-                "comment_score": 322,
-                "replies": [
-                    {
-                        "comment_id": "l8c47cq",
-                        "comment_body": "[Tomorrow!](https://m.youtube.com/watch?v=6PtdpI-D6mM&cbrd=1)",
-                        "comment_author": "DJ-WS",
-                        "comment_dateTime": "2024-06-12 23:58:30",
-                        "comment_score": 28,
-                        "replies": [
-                            {
-                                "comment_id": "l8eclhk",
-                                "comment_body": "¯\\\\\\_(ツ)\\_/¯",
-                                "comment_author": "MacAppster87",
-                                "comment_dateTime": "2024-06-13 10:44:31",
-                                "comment_score": 7,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8eyyax",
-                "comment_body": "Apple Intelligence. It shows the device has sufficient battery life to last until tomorrow. Instead of showing an exact percentage, it estimates how long the battery is expected to last based on current usage patterns and displays this information more intuitively. But personally, I prefer the exact percentage.😂",
-                "comment_author": "super_daisy_03",
-                "comment_dateTime": "2024-06-13 14:22:55",
-                "comment_score": 12,
-                "replies": []
-            },
-            {
-                "comment_id": "l8fijya",
-                "comment_body": "r/skamtebord",
-                "comment_author": "Salt_Blackberry_1903",
-                "comment_dateTime": "2024-06-13 16:31:59",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8degqg",
-                "comment_body": ">Tomorrow%\n\nSounds like a speedrun category",
-                "comment_author": "AbdullahMRiad",
-                "comment_dateTime": "2024-06-13 05:04:37",
-                "comment_score": 31,
-                "replies": []
-            },
-            {
-                "comment_id": "l8fdmbf",
-                "comment_body": "But I asked today!",
-                "comment_author": "Tattycakes",
-                "comment_dateTime": "2024-06-13 16:02:33",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8d8vgo",
-                "comment_body": "Lmfao",
-                "comment_author": "Steelmack",
-                "comment_dateTime": "2024-06-13 04:26:19",
-                "comment_score": 0,
-                "replies": []
-            },
-            {
-                "comment_id": "l8cgq8o",
-                "comment_body": "That Apple Intelligence",
-                "comment_author": "Luna259",
-                "comment_dateTime": "2024-06-13 01:18:25",
-                "comment_score": 35,
-                "replies": []
-            },
-            {
-                "comment_id": "l8e93zf",
-                "comment_body": "Ugh. Reset the counter!\n\n**IT HAS BEEN** -1 **DAYS SINCE OUR LAST TIMEZONE ISSUE**",
-                "comment_author": "toholio",
-                "comment_dateTime": "2024-06-13 10:01:55",
-                "comment_score": 31,
-                "replies": []
-            },
-            {
-                "comment_id": "l8ec8jr",
-                "comment_body": "Find my website on pc",
-                "comment_author": "Carlazor_",
-                "comment_dateTime": "2024-06-13 10:40:08",
-                "comment_score": 7,
-                "replies": [
-                    {
-                        "comment_id": "l8en58g",
-                        "comment_body": "What's your website?",
-                        "comment_author": "Tumleren",
-                        "comment_dateTime": "2024-06-13 12:41:05",
-                        "comment_score": 20,
-                        "replies": [
-                            {
-                                "comment_id": "l8epnp8",
-                                "comment_body": "No I meant apple's find my website, not my website, Apple's find my website is [this](http://iCloud.com/find)",
-                                "comment_author": "Carlazor_",
-                                "comment_dateTime": "2024-06-13 13:05:30",
-                                "comment_score": 9,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8eqezx",
-                                        "comment_body": "I'm just joking, sorry",
-                                        "comment_author": "Tumleren",
-                                        "comment_dateTime": "2024-06-13 13:12:28",
-                                        "comment_score": 15,
-                                        "replies": []
-                                    },
-                                    {
-                                        "comment_id": "l8f2ny9",
-                                        "comment_body": "But what IS your website?",
-                                        "comment_author": "CSDNews",
-                                        "comment_dateTime": "2024-06-13 14:50:17",
-                                        "comment_score": 9,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l8h47rv",
-                                                "comment_body": "Ohh CSD is crustacean daily, I thought it was Christopher street day news.",
-                                                "comment_author": "heyitslila",
-                                                "comment_dateTime": "2024-06-13 21:53:32",
-                                                "comment_score": 0,
-                                                "replies": [
-                                                    {
-                                                        "comment_id": "l8h4lq9",
-                                                        "comment_body": "We have Crustaceans these days? Damn, when did that start?\n\nI can confirm that The Crustian Daily is still doing satirical news, I will keep you posted on the availability of crustaceans.",
-                                                        "comment_author": "CSDNews",
-                                                        "comment_dateTime": "2024-06-13 21:55:39",
-                                                        "comment_score": 2,
-                                                        "replies": []
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "comment_id": "l8fks5l",
-                                        "comment_body": "Apple found your website, not your website? what?",
-                                        "comment_author": "rresende",
-                                        "comment_dateTime": "2024-06-13 16:44:54",
-                                        "comment_score": 4,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8gzxvj",
-                "comment_body": "I cant wait to get back on the road again?",
-                "comment_author": "Fuckyousnow",
-                "comment_dateTime": "2024-06-13 21:29:53",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8eem2b",
-                "comment_body": "it's a hidden gem",
-                "comment_author": "fill-me-up-scotty",
-                "comment_dateTime": "2024-06-13 11:09:13",
-                "comment_score": 3,
-                "replies": []
-            },
-            {
-                "comment_id": "l8dli7s",
-                "comment_body": "Pay a hundred bucks.",
-                "comment_author": "cruebob",
-                "comment_dateTime": "2024-06-13 05:58:54",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8cq9g1",
-                "comment_body": "Dev profile",
-                "comment_author": "iAdden",
-                "comment_dateTime": "2024-06-13 02:21:35",
-                "comment_score": 0,
-                "replies": []
-            },
-            {
-                "comment_id": "l8c47cq",
-                "comment_body": "[Tomorrow!](https://m.youtube.com/watch?v=6PtdpI-D6mM&cbrd=1)",
-                "comment_author": "DJ-WS",
-                "comment_dateTime": "2024-06-12 23:58:30",
-                "comment_score": 28,
-                "replies": [
-                    {
-                        "comment_id": "l8eclhk",
-                        "comment_body": "¯\\\\\\_(ツ)\\_/¯",
-                        "comment_author": "MacAppster87",
-                        "comment_dateTime": "2024-06-13 10:44:31",
-                        "comment_score": 7,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8en58g",
-                "comment_body": "What's your website?",
-                "comment_author": "Tumleren",
-                "comment_dateTime": "2024-06-13 12:41:05",
-                "comment_score": 20,
-                "replies": [
-                    {
-                        "comment_id": "l8epnp8",
-                        "comment_body": "No I meant apple's find my website, not my website, Apple's find my website is [this](http://iCloud.com/find)",
-                        "comment_author": "Carlazor_",
-                        "comment_dateTime": "2024-06-13 13:05:30",
-                        "comment_score": 9,
-                        "replies": [
-                            {
-                                "comment_id": "l8eqezx",
-                                "comment_body": "I'm just joking, sorry",
-                                "comment_author": "Tumleren",
-                                "comment_dateTime": "2024-06-13 13:12:28",
-                                "comment_score": 15,
-                                "replies": []
-                            },
-                            {
-                                "comment_id": "l8f2ny9",
-                                "comment_body": "But what IS your website?",
-                                "comment_author": "CSDNews",
-                                "comment_dateTime": "2024-06-13 14:50:17",
-                                "comment_score": 9,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8h47rv",
-                                        "comment_body": "Ohh CSD is crustacean daily, I thought it was Christopher street day news.",
-                                        "comment_author": "heyitslila",
-                                        "comment_dateTime": "2024-06-13 21:53:32",
-                                        "comment_score": 0,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l8h4lq9",
-                                                "comment_body": "We have Crustaceans these days? Damn, when did that start?\n\nI can confirm that The Crustian Daily is still doing satirical news, I will keep you posted on the availability of crustaceans.",
-                                                "comment_author": "CSDNews",
-                                                "comment_dateTime": "2024-06-13 21:55:39",
-                                                "comment_score": 2,
-                                                "replies": []
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "comment_id": "l8fks5l",
-                                "comment_body": "Apple found your website, not your website? what?",
-                                "comment_author": "rresende",
-                                "comment_dateTime": "2024-06-13 16:44:54",
-                                "comment_score": 4,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8eclhk",
-                "comment_body": "¯\\\\\\_(ツ)\\_/¯",
-                "comment_author": "MacAppster87",
-                "comment_dateTime": "2024-06-13 10:44:31",
-                "comment_score": 7,
-                "replies": []
-            },
-            {
-                "comment_id": "l8epnp8",
-                "comment_body": "No I meant apple's find my website, not my website, Apple's find my website is [this](http://iCloud.com/find)",
-                "comment_author": "Carlazor_",
-                "comment_dateTime": "2024-06-13 13:05:30",
-                "comment_score": 9,
-                "replies": [
-                    {
-                        "comment_id": "l8eqezx",
-                        "comment_body": "I'm just joking, sorry",
-                        "comment_author": "Tumleren",
-                        "comment_dateTime": "2024-06-13 13:12:28",
-                        "comment_score": 15,
-                        "replies": []
-                    },
-                    {
-                        "comment_id": "l8f2ny9",
-                        "comment_body": "But what IS your website?",
-                        "comment_author": "CSDNews",
-                        "comment_dateTime": "2024-06-13 14:50:17",
-                        "comment_score": 9,
-                        "replies": [
-                            {
-                                "comment_id": "l8h47rv",
-                                "comment_body": "Ohh CSD is crustacean daily, I thought it was Christopher street day news.",
-                                "comment_author": "heyitslila",
-                                "comment_dateTime": "2024-06-13 21:53:32",
-                                "comment_score": 0,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8h4lq9",
-                                        "comment_body": "We have Crustaceans these days? Damn, when did that start?\n\nI can confirm that The Crustian Daily is still doing satirical news, I will keep you posted on the availability of crustaceans.",
-                                        "comment_author": "CSDNews",
-                                        "comment_dateTime": "2024-06-13 21:55:39",
-                                        "comment_score": 2,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "comment_id": "l8fks5l",
-                        "comment_body": "Apple found your website, not your website? what?",
-                        "comment_author": "rresende",
-                        "comment_dateTime": "2024-06-13 16:44:54",
-                        "comment_score": 4,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8eqezx",
-                "comment_body": "I'm just joking, sorry",
-                "comment_author": "Tumleren",
-                "comment_dateTime": "2024-06-13 13:12:28",
-                "comment_score": 15,
-                "replies": []
-            },
-            {
-                "comment_id": "l8f2ny9",
-                "comment_body": "But what IS your website?",
-                "comment_author": "CSDNews",
-                "comment_dateTime": "2024-06-13 14:50:17",
-                "comment_score": 9,
-                "replies": [
-                    {
-                        "comment_id": "l8h47rv",
-                        "comment_body": "Ohh CSD is crustacean daily, I thought it was Christopher street day news.",
-                        "comment_author": "heyitslila",
-                        "comment_dateTime": "2024-06-13 21:53:32",
-                        "comment_score": 0,
-                        "replies": [
-                            {
-                                "comment_id": "l8h4lq9",
-                                "comment_body": "We have Crustaceans these days? Damn, when did that start?\n\nI can confirm that The Crustian Daily is still doing satirical news, I will keep you posted on the availability of crustaceans.",
-                                "comment_author": "CSDNews",
-                                "comment_dateTime": "2024-06-13 21:55:39",
-                                "comment_score": 2,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8fks5l",
-                "comment_body": "Apple found your website, not your website? what?",
-                "comment_author": "rresende",
-                "comment_dateTime": "2024-06-13 16:44:54",
-                "comment_score": 4,
-                "replies": []
-            },
-            {
-                "comment_id": "l8h47rv",
-                "comment_body": "Ohh CSD is crustacean daily, I thought it was Christopher street day news.",
-                "comment_author": "heyitslila",
-                "comment_dateTime": "2024-06-13 21:53:32",
-                "comment_score": 0,
-                "replies": [
-                    {
-                        "comment_id": "l8h4lq9",
-                        "comment_body": "We have Crustaceans these days? Damn, when did that start?\n\nI can confirm that The Crustian Daily is still doing satirical news, I will keep you posted on the availability of crustaceans.",
-                        "comment_author": "CSDNews",
-                        "comment_dateTime": "2024-06-13 21:55:39",
-                        "comment_score": 2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8h4lq9",
-                "comment_body": "We have Crustaceans these days? Damn, when did that start?\n\nI can confirm that The Crustian Daily is still doing satirical news, I will keep you posted on the availability of crustaceans.",
-                "comment_author": "CSDNews",
-                "comment_dateTime": "2024-06-13 21:55:39",
-                "comment_score": 2,
-                "replies": []
             }
         ]
     },
@@ -2914,124 +1531,6 @@
                 "comment_dateTime": "2024-06-17 02:32:32",
                 "comment_score": 1,
                 "replies": []
-            },
-            {
-                "comment_id": "l8bd3ld",
-                "comment_body": "I don't see any settings that indicate that they'd obscure the sender's identity either in the general Notification settings or the sub-setting Notification Style of Messages.  Either way, this problem occurs whether the phone is locked or not.",
-                "comment_author": "ValkyrieIsBigger",
-                "comment_dateTime": "2024-06-12 21:25:28",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8beows",
-                        "comment_body": "go to Settings > Notifications > Messages > Show Previews and then select Always … or is it already set like that ?",
-                        "comment_author": "Roy_90",
-                        "comment_dateTime": "2024-06-12 21:34:15",
-                        "comment_score": 2,
-                        "replies": [
-                            {
-                                "comment_id": "l8bg0ae",
-                                "comment_body": "That worked- thank you!",
-                                "comment_author": "ValkyrieIsBigger",
-                                "comment_dateTime": "2024-06-12 21:41:33",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8bidx8",
-                                        "comment_body": "you’re welcome 😊",
-                                        "comment_author": "Roy_90",
-                                        "comment_dateTime": "2024-06-12 21:54:32",
-                                        "comment_score": 1,
-                                        "replies": []
-                                    }
-                                ]
-                            },
-                            {
-                                "comment_id": "l8v7hap",
-                                "comment_body": "I tried it too (I haven't received a Message yet to see if this worked) but I haven't changed the setting from was it was (default (Never)) so something else caused this to start happening within the past day. But thank you for your help!",
-                                "comment_author": "One_Mirror4550",
-                                "comment_dateTime": "2024-06-16 16:51:34",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8bdpn2",
-                "comment_body": "13 Pro running iOS 17.5.1.",
-                "comment_author": "ValkyrieIsBigger",
-                "comment_dateTime": "2024-06-12 21:28:50",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8beows",
-                "comment_body": "go to Settings > Notifications > Messages > Show Previews and then select Always … or is it already set like that ?",
-                "comment_author": "Roy_90",
-                "comment_dateTime": "2024-06-12 21:34:15",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8bg0ae",
-                        "comment_body": "That worked- thank you!",
-                        "comment_author": "ValkyrieIsBigger",
-                        "comment_dateTime": "2024-06-12 21:41:33",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l8bidx8",
-                                "comment_body": "you’re welcome 😊",
-                                "comment_author": "Roy_90",
-                                "comment_dateTime": "2024-06-12 21:54:32",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    },
-                    {
-                        "comment_id": "l8v7hap",
-                        "comment_body": "I tried it too (I haven't received a Message yet to see if this worked) but I haven't changed the setting from was it was (default (Never)) so something else caused this to start happening within the past day. But thank you for your help!",
-                        "comment_author": "One_Mirror4550",
-                        "comment_dateTime": "2024-06-16 16:51:34",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8bg0ae",
-                "comment_body": "That worked- thank you!",
-                "comment_author": "ValkyrieIsBigger",
-                "comment_dateTime": "2024-06-12 21:41:33",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8bidx8",
-                        "comment_body": "you’re welcome 😊",
-                        "comment_author": "Roy_90",
-                        "comment_dateTime": "2024-06-12 21:54:32",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8v7hap",
-                "comment_body": "I tried it too (I haven't received a Message yet to see if this worked) but I haven't changed the setting from was it was (default (Never)) so something else caused this to start happening within the past day. But thank you for your help!",
-                "comment_author": "One_Mirror4550",
-                "comment_dateTime": "2024-06-16 16:51:34",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8bidx8",
-                "comment_body": "you’re welcome 😊",
-                "comment_author": "Roy_90",
-                "comment_dateTime": "2024-06-12 21:54:32",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -3056,7 +1555,7 @@
     },
     {
         "post_title": "Why does my notifications doesn't disappear when opened on another device?",
-        "post_score": 5,
+        "post_score": 3,
         "post_id": "1dedjpo",
         "post_url": "https://www.reddit.com/r/iphone/comments/1dedjpo/why_does_my_notifications_doesnt_disappear_when/",
         "post_numComments": 3,
@@ -3087,22 +1586,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8khhvf",
-                "comment_body": "I don’t know what’s causing it. Everything is updated, I wrote the current OS builds in the post. This is not strictly a phone issue. For example, last night I was reading on my iPad, received a few notifications Outlook, iMessage, Reddit etc. Opened them, replied to the messages etc. In the morning I’ve checked my phone the notifications were there, and on my watch as well. It’s like they’re not synchronized anymore…. I have to open/dismiss everything on each device.\nEdit: I also use iCloud, and everything is turned on to be synced, so that’s not a problem for sure.",
-                "comment_author": "Opposite_Equal_1756",
-                "comment_dateTime": "2024-06-14 14:08:28",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8r4b1y",
-                "comment_body": "Okay, so it seems like the answer was to sing out  with my Apple ID from all of my devices at the same time, once logged out, started logging back in starting on my phone. And now the issue is solved. Everything is working like it supposed to!",
-                "comment_author": "Opposite_Equal_1756",
-                "comment_dateTime": "2024-06-15 20:13:39",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -3120,7 +1603,7 @@
                 "comment_body": "no, not on any realistic timescale.",
                 "comment_author": "Go_F1sh",
                 "comment_dateTime": "2024-06-12 20:57:58",
-                "comment_score": 5,
+                "comment_score": 4,
                 "replies": []
             },
             {
@@ -3159,7 +1642,7 @@
     },
     {
         "post_title": "Issues with Wallpaper Sizing",
-        "post_score": 5,
+        "post_score": 4,
         "post_id": "1decyjy",
         "post_url": "https://www.reddit.com/gallery/1decyjy",
         "post_numComments": 2,
@@ -3209,20 +1692,12 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8b14nj",
-                "comment_body": "Apple stopped bundling adapters starting with the iPhone 12. And they didn’t pass on the savings to consumers; iPhone prices are higher than ever. \n\nIf we could do everything wirelessly, from charging to data backup, they could skip the lightning-USB cable too, saving even more manufacturing costs.",
-                "comment_author": "MarkusEF",
-                "comment_dateTime": "2024-06-12 20:19:46",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "Anyone know how to leave group chat?",
-        "post_score": 12,
+        "post_score": 9,
         "post_id": "1decetn",
         "post_url": "https://i.redd.it/rcsr0wi3f66d1.jpeg",
         "post_numComments": 10,
@@ -3234,7 +1709,7 @@
                 "comment_body": "Press the chat icon in the top middle and scroll down then press leave conversation",
                 "comment_author": "Accomplished-Cut-264",
                 "comment_dateTime": "2024-06-12 19:40:30",
-                "comment_score": 10,
+                "comment_score": 9,
                 "replies": [
                     {
                         "comment_id": "l8au3ab",
@@ -3267,14 +1742,14 @@
                         "comment_body": "Goddamn android people, 🤣",
                         "comment_author": "richempire",
                         "comment_dateTime": "2024-06-12 21:50:13",
-                        "comment_score": -3,
+                        "comment_score": -2,
                         "replies": [
                             {
                                 "comment_id": "l8biigm",
                                 "comment_body": "Hopefully RCS fixes that too.",
                                 "comment_author": "EliteAgent51",
                                 "comment_dateTime": "2024-06-12 21:55:12",
-                                "comment_score": 5,
+                                "comment_score": 4,
                                 "replies": []
                             }
                         ]
@@ -3304,56 +1779,6 @@
                 "comment_dateTime": "2024-06-12 22:54:08",
                 "comment_score": 1,
                 "replies": []
-            },
-            {
-                "comment_id": "l8au3ab",
-                "comment_body": "You might not be able to leave with just 2 people try holding the thing to delete it from messages",
-                "comment_author": "Accomplished-Cut-264",
-                "comment_dateTime": "2024-06-12 19:41:31",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8cqefm",
-                        "comment_body": "Add a random person and leave, it’s their problem now. 😂",
-                        "comment_author": "iAdden",
-                        "comment_dateTime": "2024-06-13 02:22:30",
-                        "comment_score": 6,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8bhljl",
-                "comment_body": "Goddamn android people, 🤣",
-                "comment_author": "richempire",
-                "comment_dateTime": "2024-06-12 21:50:13",
-                "comment_score": -3,
-                "replies": [
-                    {
-                        "comment_id": "l8biigm",
-                        "comment_body": "Hopefully RCS fixes that too.",
-                        "comment_author": "EliteAgent51",
-                        "comment_dateTime": "2024-06-12 21:55:12",
-                        "comment_score": 5,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8cqefm",
-                "comment_body": "Add a random person and leave, it’s their problem now. 😂",
-                "comment_author": "iAdden",
-                "comment_dateTime": "2024-06-13 02:22:30",
-                "comment_score": 6,
-                "replies": []
-            },
-            {
-                "comment_id": "l8biigm",
-                "comment_body": "Hopefully RCS fixes that too.",
-                "comment_author": "EliteAgent51",
-                "comment_dateTime": "2024-06-12 21:55:12",
-                "comment_score": 5,
-                "replies": []
             }
         ]
     },
@@ -3371,14 +1796,14 @@
                 "comment_body": "Return it to the person that owns it. They can log in with their passcode to access their data.",
                 "comment_author": "James_Atlanta",
                 "comment_dateTime": "2024-06-12 19:19:02",
-                "comment_score": 6,
+                "comment_score": 5,
                 "replies": [
                     {
                         "comment_id": "l8au0px",
                         "comment_body": "It's literally mine. I'm not a scumbag. I got fucked up ( I'm clean now) n forgot the PW",
                         "comment_author": "Cr1ms0nManat33",
                         "comment_dateTime": "2024-06-12 19:41:07",
-                        "comment_score": -2,
+                        "comment_score": -3,
                         "replies": [
                             {
                                 "comment_id": "l8av4k8",
@@ -3460,139 +1885,12 @@
                 "comment_dateTime": "2024-06-12 19:42:34",
                 "comment_score": -1,
                 "replies": []
-            },
-            {
-                "comment_id": "l8au0px",
-                "comment_body": "It's literally mine. I'm not a scumbag. I got fucked up ( I'm clean now) n forgot the PW",
-                "comment_author": "Cr1ms0nManat33",
-                "comment_dateTime": "2024-06-12 19:41:07",
-                "comment_score": -2,
-                "replies": [
-                    {
-                        "comment_id": "l8av4k8",
-                        "comment_body": "If it was ever synced with iCloud, the pictures would be in iCloud. \n\nDo you know your iCloud credentials?\n\nWithout the passcode or the Apple ID credentials, the phone is a paperweight.",
-                        "comment_author": "James_Atlanta",
-                        "comment_dateTime": "2024-06-12 19:47:09",
-                        "comment_score": 2,
-                        "replies": [
-                            {
-                                "comment_id": "l8bl8hg",
-                                "comment_body": "I may actually no that info. Iv been just yelling at the phone. I'll try. Thank you\n\nEdit for shit spelling",
-                                "comment_author": "Cr1ms0nManat33",
-                                "comment_dateTime": "2024-06-12 22:10:13",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8aumq4",
-                "comment_body": "It's got old pictures of my friend who just ODd on the phone.  It's sentimental shit.",
-                "comment_author": "Cr1ms0nManat33",
-                "comment_dateTime": "2024-06-12 19:44:29",
-                "comment_score": -3,
-                "replies": [
-                    {
-                        "comment_id": "l8azswk",
-                        "comment_body": "It is impossible to access the data without the password or iCloud login if applicable. \n\nIf you know your iCloud login and it was logged into iCloud, you can access the data from there. \n\nAfter that, if you don't care about anything on the phone that wasn't backed up, you can factory reset it without the password, you'll need the iCloud login though because it will phone home and have an activation lock during the setup process.",
-                        "comment_author": "CreamOdd7966",
-                        "comment_dateTime": "2024-06-12 20:12:33",
-                        "comment_score": 2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8au3wb",
-                "comment_body": "I'm a criminal, yes. But the phone is mine. I don't steal shit.",
-                "comment_author": "Cr1ms0nManat33",
-                "comment_dateTime": "2024-06-12 19:41:36",
-                "comment_score": -1,
-                "replies": [
-                    {
-                        "comment_id": "l8b19q8",
-                        "comment_body": "I didn’t say it’s not yours, but my point still stands.You can’t just unlock it",
-                        "comment_author": "AltAccount231123",
-                        "comment_dateTime": "2024-06-12 20:20:32",
-                        "comment_score": 2,
-                        "replies": [
-                            {
-                                "comment_id": "l8bl1sv",
-                                "comment_body": "Ur right, my bad. So I'm fooked.. thanks for ur Input dude",
-                                "comment_author": "Cr1ms0nManat33",
-                                "comment_dateTime": "2024-06-12 22:09:11",
-                                "comment_score": 2,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8av4k8",
-                "comment_body": "If it was ever synced with iCloud, the pictures would be in iCloud. \n\nDo you know your iCloud credentials?\n\nWithout the passcode or the Apple ID credentials, the phone is a paperweight.",
-                "comment_author": "James_Atlanta",
-                "comment_dateTime": "2024-06-12 19:47:09",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8bl8hg",
-                        "comment_body": "I may actually no that info. Iv been just yelling at the phone. I'll try. Thank you\n\nEdit for shit spelling",
-                        "comment_author": "Cr1ms0nManat33",
-                        "comment_dateTime": "2024-06-12 22:10:13",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8azswk",
-                "comment_body": "It is impossible to access the data without the password or iCloud login if applicable. \n\nIf you know your iCloud login and it was logged into iCloud, you can access the data from there. \n\nAfter that, if you don't care about anything on the phone that wasn't backed up, you can factory reset it without the password, you'll need the iCloud login though because it will phone home and have an activation lock during the setup process.",
-                "comment_author": "CreamOdd7966",
-                "comment_dateTime": "2024-06-12 20:12:33",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8b19q8",
-                "comment_body": "I didn’t say it’s not yours, but my point still stands.You can’t just unlock it",
-                "comment_author": "AltAccount231123",
-                "comment_dateTime": "2024-06-12 20:20:32",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8bl1sv",
-                        "comment_body": "Ur right, my bad. So I'm fooked.. thanks for ur Input dude",
-                        "comment_author": "Cr1ms0nManat33",
-                        "comment_dateTime": "2024-06-12 22:09:11",
-                        "comment_score": 2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8bl8hg",
-                "comment_body": "I may actually no that info. Iv been just yelling at the phone. I'll try. Thank you\n\nEdit for shit spelling",
-                "comment_author": "Cr1ms0nManat33",
-                "comment_dateTime": "2024-06-12 22:10:13",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8bl1sv",
-                "comment_body": "Ur right, my bad. So I'm fooked.. thanks for ur Input dude",
-                "comment_author": "Cr1ms0nManat33",
-                "comment_dateTime": "2024-06-12 22:09:11",
-                "comment_score": 2,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "How do you pause and then continue recording a voice memo without it starting a new recording? ",
-        "post_score": 4,
+        "post_score": 5,
         "post_id": "1debrw5",
         "post_url": "https://www.reddit.com/r/iphone/comments/1debrw5/how_do_you_pause_and_then_continue_recording_a/",
         "post_numComments": 2,
@@ -3615,20 +1913,12 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8camql",
-                "comment_body": "TIL: you could pause, voice memos, thank you",
-                "comment_author": "Tesla2007",
-                "comment_dateTime": "2024-06-13 00:39:07",
-                "comment_score": 3,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "How to get rid of this notification?",
-        "post_score": 4,
+        "post_score": 5,
         "post_id": "1debol7",
         "post_url": "https://i.redd.it/184ixyun966d1.jpeg",
         "post_numComments": 5,
@@ -3702,7 +1992,7 @@
                 "comment_body": "You can’t use it if it’s still locked to her code. No way around it",
                 "comment_author": "NYChockey14",
                 "comment_dateTime": "2024-06-12 18:58:51",
-                "comment_score": 5,
+                "comment_score": 4,
                 "replies": [
                     {
                         "comment_id": "l8an4md",
@@ -3720,14 +2010,6 @@
                 "comment_author": "tlonreddit",
                 "comment_dateTime": "2024-06-12 19:09:26",
                 "comment_score": 4,
-                "replies": []
-            },
-            {
-                "comment_id": "l8an4md",
-                "comment_body": "Makes sense. That's what I am finding out, also. Thank you.",
-                "comment_author": "External_Study_9614",
-                "comment_dateTime": "2024-06-12 19:03:31",
-                "comment_score": 1,
                 "replies": []
             }
         ]
@@ -3757,14 +2039,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8denca",
-                "comment_body": "Ok thanks. That is helpful.",
-                "comment_author": "Evening_Dot_1292",
-                "comment_dateTime": "2024-06-13 05:05:55",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -3801,20 +2075,12 @@
                 "comment_dateTime": "2024-06-12 23:49:24",
                 "comment_score": 1,
                 "replies": []
-            },
-            {
-                "comment_id": "l8awuyd",
-                "comment_body": "This happened in Rome, but I'm in Naples now.",
-                "comment_author": "dylandalal",
-                "comment_dateTime": "2024-06-12 19:56:32",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "What is this TY that my phone and  iPad are connected to and I can’t remove it ?",
-        "post_score": 225,
+        "post_score": 220,
         "post_id": "1deaw5s",
         "post_url": "https://i.redd.it/g7dmbn4r366d1.jpeg",
         "post_numComments": 28,
@@ -3826,14 +2092,14 @@
                 "comment_body": "Google says that some devices remove the “i” when connected (fitbits, tesla car, etc). The way to fix it is to to your Privacy & Security setting, go down to Bluetooth, and start removing things one by one until you find the culprit",
                 "comment_author": "NYChockey14",
                 "comment_dateTime": "2024-06-12 18:37:22",
-                "comment_score": 204,
+                "comment_score": 205,
                 "replies": [
                     {
                         "comment_id": "l8ajc5c",
                         "comment_body": ":( they gotta make me do the extra work   But thanks so much this is useful",
                         "comment_author": "Mysterious_Speed8865",
                         "comment_dateTime": "2024-06-12 18:42:46",
-                        "comment_score": 86,
+                        "comment_score": 89,
                         "replies": []
                     }
                 ]
@@ -3843,21 +2109,21 @@
                 "comment_body": "TY is a Tuya device. Do you have a random Chinese Bluetooth speaker or something?",
                 "comment_author": "schaudhery",
                 "comment_dateTime": "2024-06-12 19:13:52",
-                "comment_score": 109,
+                "comment_score": 108,
                 "replies": [
                     {
                         "comment_id": "l8ap6eo",
                         "comment_body": "Nope I don’t think so ? Is there someone spying on me or something ?",
                         "comment_author": "Mysterious_Speed8865",
                         "comment_dateTime": "2024-06-12 19:14:48",
-                        "comment_score": 29,
+                        "comment_score": 28,
                         "replies": [
                             {
                                 "comment_id": "l8apf26",
                                 "comment_body": "No, this thread might help: https://discussions.apple.com/thread/253281617",
                                 "comment_author": "schaudhery",
                                 "comment_dateTime": "2024-06-12 19:16:07",
-                                "comment_score": 63,
+                                "comment_score": 61,
                                 "replies": [
                                     {
                                         "comment_id": "l8apu07",
@@ -3871,7 +2137,7 @@
                                                 "comment_body": "Miau 🐈‍⬛",
                                                 "comment_author": "stabledisastermaster",
                                                 "comment_dateTime": "2024-06-12 22:41:01",
-                                                "comment_score": 36,
+                                                "comment_score": 37,
                                                 "replies": []
                                             }
                                         ]
@@ -3887,21 +2153,21 @@
                 "comment_body": "Crackhead and choo-choo now that’s what I call a name",
                 "comment_author": "Accomplished-Cut-264",
                 "comment_dateTime": "2024-06-12 18:37:42",
-                "comment_score": 249,
+                "comment_score": 244,
                 "replies": [
                     {
                         "comment_id": "l8aiw3l",
                         "comment_body": "Sadly crack head one was lost during a flight \nNow I can still see it on the map somewhere around Italy \nI didn’t disable it I let them have it coz 😭",
                         "comment_author": "Mysterious_Speed8865",
                         "comment_dateTime": "2024-06-12 18:40:19",
-                        "comment_score": 100,
+                        "comment_score": 97,
                         "replies": [
                             {
                                 "comment_id": "l8aj835",
                                 "comment_body": "The big peepee poopoo😂😂😂",
                                 "comment_author": "Accomplished-Cut-264",
                                 "comment_dateTime": "2024-06-12 18:42:09",
-                                "comment_score": 39,
+                                "comment_score": 38,
                                 "replies": []
                             }
                         ]
@@ -3913,7 +2179,7 @@
                 "comment_body": "Baking Bread is a great BT device name",
                 "comment_author": "locololus",
                 "comment_dateTime": "2024-06-12 20:35:24",
-                "comment_score": 39,
+                "comment_score": 43,
                 "replies": [
                     {
                         "comment_id": "l8bb755",
@@ -3928,7 +2194,7 @@
                         "comment_body": "Lmao that’s my brothers speaker  it was a funny way of saying breaking bad",
                         "comment_author": "Mysterious_Speed8865",
                         "comment_dateTime": "2024-06-12 22:42:29",
-                        "comment_score": 13,
+                        "comment_score": 14,
                         "replies": []
                     }
                 ]
@@ -3946,7 +2212,7 @@
                 "comment_body": "I’m more concerned about being connected to the crackhead Than the TY",
                 "comment_author": "Hot-Quality8768",
                 "comment_dateTime": "2024-06-13 09:11:06",
-                "comment_score": 11,
+                "comment_score": 10,
                 "replies": []
             },
             {
@@ -3954,7 +2220,7 @@
                 "comment_body": "It's a new bluetooth Beanie Baby",
                 "comment_author": "graysky311",
                 "comment_dateTime": "2024-06-13 02:14:10",
-                "comment_score": 8,
+                "comment_score": 9,
                 "replies": []
             },
             {
@@ -3970,7 +2236,7 @@
                 "comment_body": "It’s gonna be a device that’s been added via an app I beleive. My car key is listed in a similar way with no “i” next to it as it’s managed via that manufacturers app.",
                 "comment_author": "fl00r3y",
                 "comment_dateTime": "2024-06-12 23:49:25",
-                "comment_score": 7,
+                "comment_score": 8,
                 "replies": []
             },
             {
@@ -3986,7 +2252,7 @@
                 "comment_body": "I have a Toshiba bluetooth stereo that appears as TY with some numbers after it.",
                 "comment_author": "Oxigenic",
                 "comment_dateTime": "2024-06-12 22:11:05",
-                "comment_score": 2,
+                "comment_score": 3,
                 "replies": []
             },
             {
@@ -3994,7 +2260,7 @@
                 "comment_body": "Do you have any HomeKit devices?\nI've seen Bluetooth accessories appear as connected sometimes.",
                 "comment_author": "iklier",
                 "comment_dateTime": "2024-06-13 05:51:54",
-                "comment_score": 4,
+                "comment_score": 3,
                 "replies": []
             },
             {
@@ -4002,7 +2268,7 @@
                 "comment_body": "TubeYou",
                 "comment_author": "MrLuBurt",
                 "comment_dateTime": "2024-06-13 10:24:53",
-                "comment_score": 3,
+                "comment_score": 1,
                 "replies": []
             },
             {
@@ -4043,141 +2309,6 @@
                 "comment_author": "Matei_Agape",
                 "comment_dateTime": "2024-06-13 10:12:21",
                 "comment_score": -1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8ajc5c",
-                "comment_body": ":( they gotta make me do the extra work   But thanks so much this is useful",
-                "comment_author": "Mysterious_Speed8865",
-                "comment_dateTime": "2024-06-12 18:42:46",
-                "comment_score": 86,
-                "replies": []
-            },
-            {
-                "comment_id": "l8ap6eo",
-                "comment_body": "Nope I don’t think so ? Is there someone spying on me or something ?",
-                "comment_author": "Mysterious_Speed8865",
-                "comment_dateTime": "2024-06-12 19:14:48",
-                "comment_score": 29,
-                "replies": [
-                    {
-                        "comment_id": "l8apf26",
-                        "comment_body": "No, this thread might help: https://discussions.apple.com/thread/253281617",
-                        "comment_author": "schaudhery",
-                        "comment_dateTime": "2024-06-12 19:16:07",
-                        "comment_score": 63,
-                        "replies": [
-                            {
-                                "comment_id": "l8apu07",
-                                "comment_body": "Oh smart life it cold be that but the app barely works tbh \n\n\nThis one just answered my question thank you so so so much",
-                                "comment_author": "Mysterious_Speed8865",
-                                "comment_dateTime": "2024-06-12 19:18:23",
-                                "comment_score": 104,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8bqtak",
-                                        "comment_body": "Miau 🐈‍⬛",
-                                        "comment_author": "stabledisastermaster",
-                                        "comment_dateTime": "2024-06-12 22:41:01",
-                                        "comment_score": 36,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8aiw3l",
-                "comment_body": "Sadly crack head one was lost during a flight \nNow I can still see it on the map somewhere around Italy \nI didn’t disable it I let them have it coz 😭",
-                "comment_author": "Mysterious_Speed8865",
-                "comment_dateTime": "2024-06-12 18:40:19",
-                "comment_score": 100,
-                "replies": [
-                    {
-                        "comment_id": "l8aj835",
-                        "comment_body": "The big peepee poopoo😂😂😂",
-                        "comment_author": "Accomplished-Cut-264",
-                        "comment_dateTime": "2024-06-12 18:42:09",
-                        "comment_score": 39,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8bb755",
-                "comment_body": "I was just gonna say, who makes a “smart” bread maker and how much was it? Lol",
-                "comment_author": "Extinction-Entity",
-                "comment_dateTime": "2024-06-12 21:14:57",
-                "comment_score": 15,
-                "replies": []
-            },
-            {
-                "comment_id": "l8br2su",
-                "comment_body": "Lmao that’s my brothers speaker  it was a funny way of saying breaking bad",
-                "comment_author": "Mysterious_Speed8865",
-                "comment_dateTime": "2024-06-12 22:42:29",
-                "comment_score": 13,
-                "replies": []
-            },
-            {
-                "comment_id": "l8apf26",
-                "comment_body": "No, this thread might help: https://discussions.apple.com/thread/253281617",
-                "comment_author": "schaudhery",
-                "comment_dateTime": "2024-06-12 19:16:07",
-                "comment_score": 63,
-                "replies": [
-                    {
-                        "comment_id": "l8apu07",
-                        "comment_body": "Oh smart life it cold be that but the app barely works tbh \n\n\nThis one just answered my question thank you so so so much",
-                        "comment_author": "Mysterious_Speed8865",
-                        "comment_dateTime": "2024-06-12 19:18:23",
-                        "comment_score": 104,
-                        "replies": [
-                            {
-                                "comment_id": "l8bqtak",
-                                "comment_body": "Miau 🐈‍⬛",
-                                "comment_author": "stabledisastermaster",
-                                "comment_dateTime": "2024-06-12 22:41:01",
-                                "comment_score": 36,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8aj835",
-                "comment_body": "The big peepee poopoo😂😂😂",
-                "comment_author": "Accomplished-Cut-264",
-                "comment_dateTime": "2024-06-12 18:42:09",
-                "comment_score": 39,
-                "replies": []
-            },
-            {
-                "comment_id": "l8apu07",
-                "comment_body": "Oh smart life it cold be that but the app barely works tbh \n\n\nThis one just answered my question thank you so so so much",
-                "comment_author": "Mysterious_Speed8865",
-                "comment_dateTime": "2024-06-12 19:18:23",
-                "comment_score": 104,
-                "replies": [
-                    {
-                        "comment_id": "l8bqtak",
-                        "comment_body": "Miau 🐈‍⬛",
-                        "comment_author": "stabledisastermaster",
-                        "comment_dateTime": "2024-06-12 22:41:01",
-                        "comment_score": 36,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8bqtak",
-                "comment_body": "Miau 🐈‍⬛",
-                "comment_author": "stabledisastermaster",
-                "comment_dateTime": "2024-06-12 22:41:01",
-                "comment_score": 36,
                 "replies": []
             }
         ]
@@ -4224,31 +2355,6 @@
                 "comment_dateTime": "2024-06-12 23:51:33",
                 "comment_score": 1,
                 "replies": []
-            },
-            {
-                "comment_id": "l8az2nn",
-                "comment_body": "Yes, I am on iOS 17.5.1.",
-                "comment_author": "desidumbass",
-                "comment_dateTime": "2024-06-12 20:08:34",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8azoc2",
-                        "comment_body": "Try a hard reset and see if it happens again. If it does, may be worth backing up and resetting the phone to factory.",
-                        "comment_author": "AZjackgrows",
-                        "comment_dateTime": "2024-06-12 20:11:50",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8azoc2",
-                "comment_body": "Try a hard reset and see if it happens again. If it does, may be worth backing up and resetting the phone to factory.",
-                "comment_author": "AZjackgrows",
-                "comment_dateTime": "2024-06-12 20:11:50",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -4283,7 +2389,7 @@
                 "comment_body": "Because...",
                 "comment_author": "Thewinedup",
                 "comment_dateTime": "2024-06-12 18:42:12",
-                "comment_score": 3,
+                "comment_score": 4,
                 "replies": [
                     {
                         "comment_id": "l8aulhm",
@@ -4326,30 +2432,6 @@
                 "comment_author": "Gammataichi",
                 "comment_dateTime": "2024-06-12 19:51:07",
                 "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8auqah",
-                "comment_body": "I just got the phone and night time is hours away..",
-                "comment_author": "Gammataichi",
-                "comment_dateTime": "2024-06-12 19:45:01",
-                "comment_score": -3,
-                "replies": []
-            },
-            {
-                "comment_id": "l8aulhm",
-                "comment_body": "Because Apple",
-                "comment_author": "Gammataichi",
-                "comment_dateTime": "2024-06-12 19:44:17",
-                "comment_score": -6,
-                "replies": []
-            },
-            {
-                "comment_id": "l8aurl0",
-                "comment_body": "Oh indeed.",
-                "comment_author": "Gammataichi",
-                "comment_dateTime": "2024-06-12 19:45:13",
-                "comment_score": 0,
                 "replies": []
             }
         ]
@@ -4472,130 +2554,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8ajmry",
-                "comment_body": "14 GB of free space out of 64 GB.",
-                "comment_author": "Ki-Moon780",
-                "comment_dateTime": "2024-06-12 18:44:21",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8agq7e",
-                "comment_body": "I do close my apps fairly regularly. What do you mean by “Limit apps”? Thank you.",
-                "comment_author": "Ki-Moon780",
-                "comment_dateTime": "2024-06-12 18:28:21",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8bq3ce",
-                "comment_body": "iPhones doesn’t even have a concept of closing apps.",
-                "comment_author": "bighi",
-                "comment_dateTime": "2024-06-12 22:37:03",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8ctnrq",
-                "comment_body": "I have an app that shows my RAM usage and also if I have no widget and no apps open it snappy again.",
-                "comment_author": "Ki-Moon780",
-                "comment_dateTime": "2024-06-13 02:44:14",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8da2d0",
-                        "comment_body": "IMO I wouldn’t pay too much attention to the RAM usage. iOS keeps as much stuff loaded into RAM as possible to prevent having to reboot apps as much as possible and dynamically removes the oldest items when a foreground app needs more RAM. My SE3 currently has 120MB free and it remains very snappy. \n\nYou may want to attempt a factory reset in case some core part of the OS has become bugged out.",
-                        "comment_author": "nooneinpar7",
-                        "comment_dateTime": "2024-06-13 04:34:26",
-                        "comment_score": 3,
-                        "replies": [
-                            {
-                                "comment_id": "l8ewexo",
-                                "comment_body": "I was planning on doing just that this evening. ☺️",
-                                "comment_author": "Ki-Moon780",
-                                "comment_dateTime": "2024-06-13 14:03:04",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8ctsu3",
-                "comment_body": "Battery replacement at 85%?",
-                "comment_author": "Ki-Moon780",
-                "comment_dateTime": "2024-06-13 02:45:10",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8dv1ld",
-                        "comment_body": "Try a factory reset first",
-                        "comment_author": "axellie",
-                        "comment_dateTime": "2024-06-13 07:25:37",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8ahux3",
-                "comment_body": "My battery is currently at 85%. It is annoying, especially considering I upgraded from an iPhone 6s that never felt as slow as this iPhone 12.",
-                "comment_author": "Ki-Moon780",
-                "comment_dateTime": "2024-06-12 18:34:38",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8d1mvn",
-                "comment_body": "Should have got the Pro Max or a Samsung",
-                "comment_author": "Ki-Moon780",
-                "comment_dateTime": "2024-06-13 03:37:51",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8am7a3",
-                "comment_body": "Then why Apple support they old devices",
-                "comment_author": "Professional-Bad4299",
-                "comment_dateTime": "2024-06-12 18:58:22",
-                "comment_score": 0,
-                "replies": []
-            },
-            {
-                "comment_id": "l8da2d0",
-                "comment_body": "IMO I wouldn’t pay too much attention to the RAM usage. iOS keeps as much stuff loaded into RAM as possible to prevent having to reboot apps as much as possible and dynamically removes the oldest items when a foreground app needs more RAM. My SE3 currently has 120MB free and it remains very snappy. \n\nYou may want to attempt a factory reset in case some core part of the OS has become bugged out.",
-                "comment_author": "nooneinpar7",
-                "comment_dateTime": "2024-06-13 04:34:26",
-                "comment_score": 3,
-                "replies": [
-                    {
-                        "comment_id": "l8ewexo",
-                        "comment_body": "I was planning on doing just that this evening. ☺️",
-                        "comment_author": "Ki-Moon780",
-                        "comment_dateTime": "2024-06-13 14:03:04",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8dv1ld",
-                "comment_body": "Try a factory reset first",
-                "comment_author": "axellie",
-                "comment_dateTime": "2024-06-13 07:25:37",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8ewexo",
-                "comment_body": "I was planning on doing just that this evening. ☺️",
-                "comment_author": "Ki-Moon780",
-                "comment_dateTime": "2024-06-13 14:03:04",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -4624,14 +2582,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8kocfn",
-                "comment_body": "Thank you. I was looking for solutions to the issue. 🙄",
-                "comment_author": "splicey_",
-                "comment_dateTime": "2024-06-14 14:59:09",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -4705,45 +2655,12 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8c7j5g",
-                "comment_body": "Doesnt that do a restart?",
-                "comment_author": "HamzehArab",
-                "comment_dateTime": "2024-06-13 00:19:16",
-                "comment_score": 0,
-                "replies": [
-                    {
-                        "comment_id": "l8c9n9a",
-                        "comment_body": "Only if you hold it long enough for the Apple logo to appear",
-                        "comment_author": "Professional_Ad_6463",
-                        "comment_dateTime": "2024-06-13 00:32:44",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8c7k5s",
-                "comment_body": "I have siri off",
-                "comment_author": "HamzehArab",
-                "comment_dateTime": "2024-06-13 00:19:26",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8c9n9a",
-                "comment_body": "Only if you hold it long enough for the Apple logo to appear",
-                "comment_author": "Professional_Ad_6463",
-                "comment_dateTime": "2024-06-13 00:32:44",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "How to set up phone so safe if it gets stolen when unlocked? ",
-        "post_score": 0,
+        "post_score": 2,
         "post_id": "1de9uqs",
         "post_url": "https://www.reddit.com/r/iphone/comments/1de9uqs/how_to_set_up_phone_so_safe_if_it_gets_stolen/",
         "post_numComments": 17,
@@ -4755,7 +2672,7 @@
                 "comment_body": "That’s not possible to use a photo that’s saved as Face ID. Face ID is a 3D facial mapping system using laser dots. They used the already unlocked phone to access apps",
                 "comment_author": "aquablaze69",
                 "comment_dateTime": "2024-06-12 18:01:00",
-                "comment_score": 10,
+                "comment_score": 11,
                 "replies": [
                     {
                         "comment_id": "l8ac9f5",
@@ -4878,308 +2795,6 @@
                 "comment_dateTime": "2024-06-12 18:26:58",
                 "comment_score": 0,
                 "replies": []
-            },
-            {
-                "comment_id": "l8ac9f5",
-                "comment_body": "But they have accessed data that required Face ID or password to access. So even though her phone was unlocked they shouldn’t have been able to access this, and yet they have managed to. This seems to be the only possibility. They did not have her password or pin.",
-                "comment_author": "Rachel978",
-                "comment_dateTime": "2024-06-12 18:02:49",
-                "comment_score": -5,
-                "replies": [
-                    {
-                        "comment_id": "l8ad9bm",
-                        "comment_body": "I suppose if she had her settings set to not require attention and maybe if she had a mask setting on too mayyyyyyybe they could've used a photo but I don't think so. \n\nBesides there's nothing really that requires Face ID once it's unlocked you can't even use Face ID to get into the Face ID settings you have to enter the pin so I just don't see it I think there might be more to her story\n\nedit: I suppose thieves that are snatching phones out of hands are probably well-versed in how to quickly disable security features because they do it so much. So I'm just thinking off the top of my head\n\nThey would have to keep it unlocked while they take it wherever they have to in order to brute force the pin. Which would mean like as they're driving on their motorcycle which is how I always them doing it, they would have to be continuously operating the phone so it doesn't lock or until they get away then once they get away they can change the settings so that it doesn't lock for five minutes or indefinitely. Then that gives him a little bit of time to set the phone down or go get more phones or whatever it is. Then they would have to use some sort of a device that would brute force the pin… I mean I don't see it\n\nsecond edit: you said all of her photos are in Drive so maybe if she's on android? That would change things a little bit bit but not much. \n\nI don't see why she would've lost access to her Gmail or her files in drive. I mean if they steal the phone they can't go change her google password unless they have it. and even if the thieves did for some reason decide to go into her Drive and delete her photos she should still be able to login and restore them. I mean they shouldn't be gone I think we think the thieves are only interested in the phone",
-                        "comment_author": "bdiddylv",
-                        "comment_dateTime": "2024-06-12 18:08:48",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l8af53o",
-                                "comment_body": "She has lost access to her gmail - they have changed her password somehow, and google won't reset it as she no longer has access to it to reset it. So she's lost her photos saved in the gmail account. I guess she didn't have a recovery account set up. Foolish I know, but also entirely possible.",
-                                "comment_author": "Rachel978",
-                                "comment_dateTime": "2024-06-12 18:19:40",
-                                "comment_score": 0,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8bnt4m",
-                                        "comment_body": "Did she keep a list of her passwords on her phone?",
-                                        "comment_author": "EnergyLantern",
-                                        "comment_dateTime": "2024-06-12 22:24:23",
-                                        "comment_score": 1,
-                                        "replies": []
-                                    },
-                                    {
-                                        "comment_id": "l8ag12a",
-                                        "comment_body": "yeah it just hit me how they did it. They go to the Google login screen and they click forgot password and then it sends a text to that phone and then they do it that way.\n\nso that means you cannot use that device as a back up device for your major accounts. major accounts are iCloud, Google and password manager if you use a different service for that\n\nYou have to have a secondary device such as your husband's phone or Google voice number or something set to go somewhere else that's not on that phone \n\nSo once they have access to the phone it's very easy to click on forgot password for your bank because the bank is going to send that to that phone. \n\nSo now that I'm thinking about it the reason they reset her Google password is because they need to get into her Google account to log all the other devices off so that way she can't login and see where the phone is or whatever\n\nThat's the thing about passkeys, and having things stored and encrypted on our phone is that it's all super secure as long as we are the ones holding our phone. \n\nNow even cops are allowed to hold your phone up to your face if you're being arrested and unlock your phone and go through it. like it was ruled it was not an invasion of privacy. So now you have to go back to pin or password if you have reasons to worry about that scenario.",
-                                        "comment_author": "bdiddylv",
-                                        "comment_dateTime": "2024-06-12 18:24:34",
-                                        "comment_score": -1,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l8fguy8",
-                                                "comment_body": "Lmao. App lock and stolen device protection pretty much fix all these issues.",
-                                                "comment_author": "aquablaze69",
-                                                "comment_dateTime": "2024-06-13 16:22:02",
-                                                "comment_score": 1,
-                                                "replies": [
-                                                    {
-                                                        "comment_id": "l8ok5b2",
-                                                        "comment_body": "really? well fuck",
-                                                        "comment_author": "bdiddylv",
-                                                        "comment_dateTime": "2024-06-15 05:52:21",
-                                                        "comment_score": 1,
-                                                        "replies": [
-                                                            {
-                                                                "comment_id": "l8p2yp8",
-                                                                "comment_body": "Lol",
-                                                                "comment_author": "aquablaze69",
-                                                                "comment_dateTime": "2024-06-15 09:16:35",
-                                                                "comment_score": 1,
-                                                                "replies": []
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8agtcb",
-                "comment_body": "Thank you, that’s what I wanted to know. Any other settings I should check?",
-                "comment_author": "Rachel978",
-                "comment_dateTime": "2024-06-12 18:28:50",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8akstp",
-                        "comment_body": "maybe set the screen timeout to something shorter. 30 seconds is pretty quick but that's kind of what you're looking for\n\n\"google one\" is a service that I use in it gives me the ability to back up my entire phone whether it's android or iPhone and it gives me more space as well and it also gives me some extra photos options. \n\nsomething else you might wanna do is sign up for a six dollar a month Microsoft 365 account and that'll give you 2 TB of data on OneDrive (and all the ms apps)  They have an option that will import pictures from your Google account so once everything's in your Google account then you can pack it up into your Microsoft account and now all your photos should be in three spots. I wouldn't rely on it to be backing everything up all the time but certainly to get all the previous years. moving fwd, just make sure to backup manually now and again\n\nI also use Google maps and I have it set to always allow Google maps to access my location at all times. \n\nGoogle maps creates a timeline of everywhere my phone is. And it's come in handy many times when I can't remember if I went to work someday or whatever \n\nbut I would imagine that the thieves will not think of disabling Google maps on an iphone. They would probably only think about the \"Find My\" app\n\nI'm sure they just turn off location services but that's not the point.",
-                        "comment_author": "bdiddylv",
-                        "comment_dateTime": "2024-06-12 18:50:44",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8ad9bm",
-                "comment_body": "I suppose if she had her settings set to not require attention and maybe if she had a mask setting on too mayyyyyyybe they could've used a photo but I don't think so. \n\nBesides there's nothing really that requires Face ID once it's unlocked you can't even use Face ID to get into the Face ID settings you have to enter the pin so I just don't see it I think there might be more to her story\n\nedit: I suppose thieves that are snatching phones out of hands are probably well-versed in how to quickly disable security features because they do it so much. So I'm just thinking off the top of my head\n\nThey would have to keep it unlocked while they take it wherever they have to in order to brute force the pin. Which would mean like as they're driving on their motorcycle which is how I always them doing it, they would have to be continuously operating the phone so it doesn't lock or until they get away then once they get away they can change the settings so that it doesn't lock for five minutes or indefinitely. Then that gives him a little bit of time to set the phone down or go get more phones or whatever it is. Then they would have to use some sort of a device that would brute force the pin… I mean I don't see it\n\nsecond edit: you said all of her photos are in Drive so maybe if she's on android? That would change things a little bit bit but not much. \n\nI don't see why she would've lost access to her Gmail or her files in drive. I mean if they steal the phone they can't go change her google password unless they have it. and even if the thieves did for some reason decide to go into her Drive and delete her photos she should still be able to login and restore them. I mean they shouldn't be gone I think we think the thieves are only interested in the phone",
-                "comment_author": "bdiddylv",
-                "comment_dateTime": "2024-06-12 18:08:48",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8af53o",
-                        "comment_body": "She has lost access to her gmail - they have changed her password somehow, and google won't reset it as she no longer has access to it to reset it. So she's lost her photos saved in the gmail account. I guess she didn't have a recovery account set up. Foolish I know, but also entirely possible.",
-                        "comment_author": "Rachel978",
-                        "comment_dateTime": "2024-06-12 18:19:40",
-                        "comment_score": 0,
-                        "replies": [
-                            {
-                                "comment_id": "l8bnt4m",
-                                "comment_body": "Did she keep a list of her passwords on her phone?",
-                                "comment_author": "EnergyLantern",
-                                "comment_dateTime": "2024-06-12 22:24:23",
-                                "comment_score": 1,
-                                "replies": []
-                            },
-                            {
-                                "comment_id": "l8ag12a",
-                                "comment_body": "yeah it just hit me how they did it. They go to the Google login screen and they click forgot password and then it sends a text to that phone and then they do it that way.\n\nso that means you cannot use that device as a back up device for your major accounts. major accounts are iCloud, Google and password manager if you use a different service for that\n\nYou have to have a secondary device such as your husband's phone or Google voice number or something set to go somewhere else that's not on that phone \n\nSo once they have access to the phone it's very easy to click on forgot password for your bank because the bank is going to send that to that phone. \n\nSo now that I'm thinking about it the reason they reset her Google password is because they need to get into her Google account to log all the other devices off so that way she can't login and see where the phone is or whatever\n\nThat's the thing about passkeys, and having things stored and encrypted on our phone is that it's all super secure as long as we are the ones holding our phone. \n\nNow even cops are allowed to hold your phone up to your face if you're being arrested and unlock your phone and go through it. like it was ruled it was not an invasion of privacy. So now you have to go back to pin or password if you have reasons to worry about that scenario.",
-                                "comment_author": "bdiddylv",
-                                "comment_dateTime": "2024-06-12 18:24:34",
-                                "comment_score": -1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8fguy8",
-                                        "comment_body": "Lmao. App lock and stolen device protection pretty much fix all these issues.",
-                                        "comment_author": "aquablaze69",
-                                        "comment_dateTime": "2024-06-13 16:22:02",
-                                        "comment_score": 1,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l8ok5b2",
-                                                "comment_body": "really? well fuck",
-                                                "comment_author": "bdiddylv",
-                                                "comment_dateTime": "2024-06-15 05:52:21",
-                                                "comment_score": 1,
-                                                "replies": [
-                                                    {
-                                                        "comment_id": "l8p2yp8",
-                                                        "comment_body": "Lol",
-                                                        "comment_author": "aquablaze69",
-                                                        "comment_dateTime": "2024-06-15 09:16:35",
-                                                        "comment_score": 1,
-                                                        "replies": []
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8akstp",
-                "comment_body": "maybe set the screen timeout to something shorter. 30 seconds is pretty quick but that's kind of what you're looking for\n\n\"google one\" is a service that I use in it gives me the ability to back up my entire phone whether it's android or iPhone and it gives me more space as well and it also gives me some extra photos options. \n\nsomething else you might wanna do is sign up for a six dollar a month Microsoft 365 account and that'll give you 2 TB of data on OneDrive (and all the ms apps)  They have an option that will import pictures from your Google account so once everything's in your Google account then you can pack it up into your Microsoft account and now all your photos should be in three spots. I wouldn't rely on it to be backing everything up all the time but certainly to get all the previous years. moving fwd, just make sure to backup manually now and again\n\nI also use Google maps and I have it set to always allow Google maps to access my location at all times. \n\nGoogle maps creates a timeline of everywhere my phone is. And it's come in handy many times when I can't remember if I went to work someday or whatever \n\nbut I would imagine that the thieves will not think of disabling Google maps on an iphone. They would probably only think about the \"Find My\" app\n\nI'm sure they just turn off location services but that's not the point.",
-                "comment_author": "bdiddylv",
-                "comment_dateTime": "2024-06-12 18:50:44",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8af53o",
-                "comment_body": "She has lost access to her gmail - they have changed her password somehow, and google won't reset it as she no longer has access to it to reset it. So she's lost her photos saved in the gmail account. I guess she didn't have a recovery account set up. Foolish I know, but also entirely possible.",
-                "comment_author": "Rachel978",
-                "comment_dateTime": "2024-06-12 18:19:40",
-                "comment_score": 0,
-                "replies": [
-                    {
-                        "comment_id": "l8bnt4m",
-                        "comment_body": "Did she keep a list of her passwords on her phone?",
-                        "comment_author": "EnergyLantern",
-                        "comment_dateTime": "2024-06-12 22:24:23",
-                        "comment_score": 1,
-                        "replies": []
-                    },
-                    {
-                        "comment_id": "l8ag12a",
-                        "comment_body": "yeah it just hit me how they did it. They go to the Google login screen and they click forgot password and then it sends a text to that phone and then they do it that way.\n\nso that means you cannot use that device as a back up device for your major accounts. major accounts are iCloud, Google and password manager if you use a different service for that\n\nYou have to have a secondary device such as your husband's phone or Google voice number or something set to go somewhere else that's not on that phone \n\nSo once they have access to the phone it's very easy to click on forgot password for your bank because the bank is going to send that to that phone. \n\nSo now that I'm thinking about it the reason they reset her Google password is because they need to get into her Google account to log all the other devices off so that way she can't login and see where the phone is or whatever\n\nThat's the thing about passkeys, and having things stored and encrypted on our phone is that it's all super secure as long as we are the ones holding our phone. \n\nNow even cops are allowed to hold your phone up to your face if you're being arrested and unlock your phone and go through it. like it was ruled it was not an invasion of privacy. So now you have to go back to pin or password if you have reasons to worry about that scenario.",
-                        "comment_author": "bdiddylv",
-                        "comment_dateTime": "2024-06-12 18:24:34",
-                        "comment_score": -1,
-                        "replies": [
-                            {
-                                "comment_id": "l8fguy8",
-                                "comment_body": "Lmao. App lock and stolen device protection pretty much fix all these issues.",
-                                "comment_author": "aquablaze69",
-                                "comment_dateTime": "2024-06-13 16:22:02",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8ok5b2",
-                                        "comment_body": "really? well fuck",
-                                        "comment_author": "bdiddylv",
-                                        "comment_dateTime": "2024-06-15 05:52:21",
-                                        "comment_score": 1,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l8p2yp8",
-                                                "comment_body": "Lol",
-                                                "comment_author": "aquablaze69",
-                                                "comment_dateTime": "2024-06-15 09:16:35",
-                                                "comment_score": 1,
-                                                "replies": []
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8bnt4m",
-                "comment_body": "Did she keep a list of her passwords on her phone?",
-                "comment_author": "EnergyLantern",
-                "comment_dateTime": "2024-06-12 22:24:23",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8ag12a",
-                "comment_body": "yeah it just hit me how they did it. They go to the Google login screen and they click forgot password and then it sends a text to that phone and then they do it that way.\n\nso that means you cannot use that device as a back up device for your major accounts. major accounts are iCloud, Google and password manager if you use a different service for that\n\nYou have to have a secondary device such as your husband's phone or Google voice number or something set to go somewhere else that's not on that phone \n\nSo once they have access to the phone it's very easy to click on forgot password for your bank because the bank is going to send that to that phone. \n\nSo now that I'm thinking about it the reason they reset her Google password is because they need to get into her Google account to log all the other devices off so that way she can't login and see where the phone is or whatever\n\nThat's the thing about passkeys, and having things stored and encrypted on our phone is that it's all super secure as long as we are the ones holding our phone. \n\nNow even cops are allowed to hold your phone up to your face if you're being arrested and unlock your phone and go through it. like it was ruled it was not an invasion of privacy. So now you have to go back to pin or password if you have reasons to worry about that scenario.",
-                "comment_author": "bdiddylv",
-                "comment_dateTime": "2024-06-12 18:24:34",
-                "comment_score": -1,
-                "replies": [
-                    {
-                        "comment_id": "l8fguy8",
-                        "comment_body": "Lmao. App lock and stolen device protection pretty much fix all these issues.",
-                        "comment_author": "aquablaze69",
-                        "comment_dateTime": "2024-06-13 16:22:02",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l8ok5b2",
-                                "comment_body": "really? well fuck",
-                                "comment_author": "bdiddylv",
-                                "comment_dateTime": "2024-06-15 05:52:21",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8p2yp8",
-                                        "comment_body": "Lol",
-                                        "comment_author": "aquablaze69",
-                                        "comment_dateTime": "2024-06-15 09:16:35",
-                                        "comment_score": 1,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8fguy8",
-                "comment_body": "Lmao. App lock and stolen device protection pretty much fix all these issues.",
-                "comment_author": "aquablaze69",
-                "comment_dateTime": "2024-06-13 16:22:02",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8ok5b2",
-                        "comment_body": "really? well fuck",
-                        "comment_author": "bdiddylv",
-                        "comment_dateTime": "2024-06-15 05:52:21",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l8p2yp8",
-                                "comment_body": "Lol",
-                                "comment_author": "aquablaze69",
-                                "comment_dateTime": "2024-06-15 09:16:35",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8ok5b2",
-                "comment_body": "really? well fuck",
-                "comment_author": "bdiddylv",
-                "comment_dateTime": "2024-06-15 05:52:21",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8p2yp8",
-                        "comment_body": "Lol",
-                        "comment_author": "aquablaze69",
-                        "comment_dateTime": "2024-06-15 09:16:35",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8p2yp8",
-                "comment_body": "Lol",
-                "comment_author": "aquablaze69",
-                "comment_dateTime": "2024-06-15 09:16:35",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -5197,7 +2812,7 @@
                 "comment_body": "Stolen AirPods. If they’re truly yours they’d be setup under your account with no issues",
                 "comment_author": "Veriliann",
                 "comment_dateTime": "2024-06-12 17:54:17",
-                "comment_score": 7,
+                "comment_score": 6,
                 "replies": [
                     {
                         "comment_id": "l8afu96",
@@ -5224,30 +2839,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8afu96",
-                "comment_body": "nah, mine do this too, i factory reset them at some point and they work normal except i get these find my notifications",
-                "comment_author": "Electronic_Part",
-                "comment_dateTime": "2024-06-12 18:23:31",
-                "comment_score": 3,
-                "replies": []
-            },
-            {
-                "comment_id": "l8aq4yr",
-                "comment_body": "Nope, same thing happens to me. AirPods Pro worked great for like 6 months, then all of a sudden started getting these notifications. It’s annoying af but I suspect it’ll be fixed in a future update.",
-                "comment_author": "cornfedpig",
-                "comment_dateTime": "2024-06-12 19:20:01",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8b5r5r",
-                "comment_body": "This is what concerns me. They show up like they are mine under my “Find my” app and I can see their location.  How can I determine if they are truly mine or if someone else owns them?",
-                "comment_author": "Finding-nothing",
-                "comment_dateTime": "2024-06-12 20:45:00",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -5303,22 +2894,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8awtop",
-                "comment_body": "It really looks green to me, there might be a color temp difference but I think it's mostly tint.  \n\nI would hope there would be some way Apple could quickly test screens in production and produce a calibration profile that they could load into the phone to correct for these issues. Or at least let the users adjust it.",
-                "comment_author": "redtert",
-                "comment_dateTime": "2024-06-12 19:56:20",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8az5q3",
-                "comment_body": "Thanks for the info. I'm not gonna switch because this phone is still pretty new and because there are no newer mini iphones.",
-                "comment_author": "redtert",
-                "comment_dateTime": "2024-06-12 20:09:01",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -5356,37 +2931,12 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l8bwnww",
-                "comment_body": "Try this. Nothing happen. Weird. Maybe I will try to update via iTunes or if there will be iOS 18, bug will disappear",
-                "comment_author": "OkProgrammer744",
-                "comment_dateTime": "2024-06-12 23:13:52",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8c26be",
-                        "comment_body": "Leave your phone on charge overnight and see if it fixes I had a similar problem and that fixed it if I remember",
-                        "comment_author": "Accomplished-Cut-264",
-                        "comment_dateTime": "2024-06-12 23:46:19",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8c26be",
-                "comment_body": "Leave your phone on charge overnight and see if it fixes I had a similar problem and that fixed it if I remember",
-                "comment_author": "Accomplished-Cut-264",
-                "comment_dateTime": "2024-06-12 23:46:19",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "Iphone 13 pro - what is this on the edge ?",
-        "post_score": 5,
+        "post_score": 2,
         "post_id": "1de8i2c",
         "post_url": "https://www.reddit.com/r/iphone/comments/1de8i2c/iphone_13_pro_what_is_this_on_the_edge/",
         "post_numComments": 5,
@@ -5406,7 +2956,7 @@
                 "comment_body": "mmWave antenna for US variants",
                 "comment_author": "PefeWilliams",
                 "comment_dateTime": "2024-06-12 16:52:37",
-                "comment_score": 9,
+                "comment_score": 10,
                 "replies": []
             },
             {
@@ -5414,7 +2964,7 @@
                 "comment_body": "It's the 5G antenna",
                 "comment_author": "britelitees",
                 "comment_dateTime": "2024-06-12 16:53:06",
-                "comment_score": 5,
+                "comment_score": 4,
                 "replies": []
             },
             {
@@ -5494,31 +3044,6 @@
                 "comment_body": "I guess it would be better for you to ask in the r/LegacyJailbreak subreddit for more help on a legacy device",
                 "comment_author": "Puzzleheaded-Wish-32",
                 "comment_dateTime": "2024-06-17 02:44:13",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l89sx3q",
-                "comment_body": "Is there a way to fix it without the Apple ID of the phone? I might be able to use my mates",
-                "comment_author": "JO_P_SI",
-                "comment_dateTime": "2024-06-12 16:10:03",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l89vj8s",
-                        "comment_body": "If you are able to erase it and reinstall iOS you will still need the Apple ID and password to set it up otherwise it will remain activation locked. There is no way to remove the activation lock without knowing the Apple ID and password.\n\nIf you need to recover the Apple ID and/or password.\n\nhttps://support.apple.com/102656",
-                        "comment_author": "gcerullo",
-                        "comment_dateTime": "2024-06-12 16:25:38",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l89vj8s",
-                "comment_body": "If you are able to erase it and reinstall iOS you will still need the Apple ID and password to set it up otherwise it will remain activation locked. There is no way to remove the activation lock without knowing the Apple ID and password.\n\nIf you need to recover the Apple ID and/or password.\n\nhttps://support.apple.com/102656",
-                "comment_author": "gcerullo",
-                "comment_dateTime": "2024-06-12 16:25:38",
                 "comment_score": 1,
                 "replies": []
             }
@@ -5603,20 +3128,12 @@
                 "comment_dateTime": "2024-06-12 16:25:05",
                 "comment_score": 0,
                 "replies": []
-            },
-            {
-                "comment_id": "l89h8hy",
-                "comment_body": "I’m trying to get my old photos haha!! it lasted me 7 years, I have an iPhone 11 now tho🤞",
-                "comment_author": "retro-skate",
-                "comment_dateTime": "2024-06-12 14:54:47",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "iphone 14pro static noise coming from back",
-        "post_score": 10,
+        "post_score": 11,
         "post_id": "1de5ebu",
         "post_url": "https://i.redd.it/6kmjf2kew46d1.jpeg",
         "post_numComments": 6,
@@ -5661,14 +3178,6 @@
                 "comment_author": "xrrej",
                 "comment_dateTime": "2024-06-12 17:56:40",
                 "comment_score": 0,
-                "replies": []
-            },
-            {
-                "comment_id": "l8bnjrt",
-                "comment_body": "It uses switch mode power supplies (which aren’t charge pumps), so yes, it does have coils.",
-                "comment_author": "SushiBallZ",
-                "comment_dateTime": "2024-06-12 22:22:57",
-                "comment_score": 2,
                 "replies": []
             }
         ]

@@ -59,7 +59,7 @@
     },
     {
         "post_title": "iPhone 4 with SIM lock",
-        "post_score": 13,
+        "post_score": 19,
         "post_id": "1di4his",
         "post_url": "https://www.reddit.com/gallery/1di4his",
         "post_numComments": 6,
@@ -71,15 +71,7 @@
                 "comment_body": "Call the carrier its locked to and see whats up.",
                 "comment_author": "tlasan1",
                 "comment_dateTime": "2024-06-17 20:23:36",
-                "comment_score": 11,
-                "replies": []
-            },
-            {
-                "comment_id": "l91eonk",
-                "comment_body": "Since it’s such an old phone, maybe you could jailbreak it? That is, unless that would require full access to the phone. But might be worth looking into",
-                "comment_author": "-K9V",
-                "comment_dateTime": "2024-06-17 20:38:36",
-                "comment_score": 9,
+                "comment_score": 13,
                 "replies": []
             },
             {
@@ -87,6 +79,14 @@
                 "comment_body": "It can’t be unlocked period unless the original owner contacted TM Austria for it to be unlocked. \n\nYou can maybe buy a T-Mobile Austria SIM card and insert it and see if it activates that way, although it won’t connect to T-Mobile US.",
                 "comment_author": "ThatsRoger09",
                 "comment_dateTime": "2024-06-17 20:32:43",
+                "comment_score": 9,
+                "replies": []
+            },
+            {
+                "comment_id": "l91eonk",
+                "comment_body": "Since it’s such an old phone, maybe you could jailbreak it? That is, unless that would require full access to the phone. But might be worth looking into",
+                "comment_author": "-K9V",
+                "comment_dateTime": "2024-06-17 20:38:36",
                 "comment_score": 8,
                 "replies": []
             },
@@ -95,7 +95,7 @@
                 "comment_body": "Maybe r/legacyjailbreak could assist you.",
                 "comment_author": "error-the-reddit-boi",
                 "comment_dateTime": "2024-06-17 21:23:48",
-                "comment_score": 5,
+                "comment_score": 4,
                 "replies": []
             },
             {
@@ -150,31 +150,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l91ahyw",
-                "comment_body": "Good grief, how embarrassing 😂😂😂 Thanks a lot, it was indeed the dock. I've always had a face ID iphone and these are a bit different than those with fingerprint reader... I didn't even think it's the dock... lol",
-                "comment_author": "WhiffyCenoBite",
-                "comment_dateTime": "2024-06-17 20:15:07",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l91aro6",
-                        "comment_body": "No need to be embarrassed! Now you know :)",
-                        "comment_author": "vomopop",
-                        "comment_dateTime": "2024-06-17 20:16:37",
-                        "comment_score": 2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l91aro6",
-                "comment_body": "No need to be embarrassed! Now you know :)",
-                "comment_author": "vomopop",
-                "comment_dateTime": "2024-06-17 20:16:37",
-                "comment_score": 2,
-                "replies": []
             }
         ]
     },
@@ -183,7 +158,7 @@
         "post_score": 0,
         "post_id": "1di3j7d",
         "post_url": "https://www.reddit.com/r/iphone/comments/1di3j7d/can_adding_a_screen_protector_help_a_crack_not/",
-        "post_numComments": 4,
+        "post_numComments": 5,
         "post_dateTime": "2024-06-17 19:18:48",
         "post_text": "I typed this in google and the results where the 988 hotline and then DIY screen fixes which is not what I was asking for.. So I figured I’d try asking here.. \n\nI have a refurbished iPhone 11 and earlier my phone fell, didn’t even hit the bare ground but now it has 3 cracks in it along the middle of the screen and a yellow light near the cracks and I’m freaking out a bit because I don’t have the money to repair it or get a new one at the moment.. I should’ve already had a screen protector on it but sadly I didn’t.. now I’m wondering can adding a screen protector at least help the phones cracks not get worse? I’m so anxious about this right now. I really don’t want any further damage happening.",
         "post_comments": [
@@ -192,15 +167,24 @@
                 "comment_body": "Yes it can help, it should also slightly hide it if it's not too bad",
                 "comment_author": "lucellent",
                 "comment_dateTime": "2024-06-17 19:56:39",
-                "comment_score": 3,
-                "replies": []
+                "comment_score": 5,
+                "replies": [
+                    {
+                        "comment_id": "l95lj0d",
+                        "comment_body": "Thank you",
+                        "comment_author": "B_rosexo",
+                        "comment_dateTime": "2024-06-18 15:59:18",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
             },
             {
                 "comment_id": "l91fbe9",
                 "comment_body": "The screen protector will not help the yellow line, which *will* get worse. The damage is done, but the screen might not die completely in the immediate future. The screen protector can help you slow down the death spiral until you can get it repaired.",
                 "comment_author": "Sylvurphlame",
                 "comment_dateTime": "2024-06-17 20:42:07",
-                "comment_score": 1,
+                "comment_score": 2,
                 "replies": []
             },
             {
@@ -208,7 +192,7 @@
                 "comment_body": "Yes, but I would add a gel screen protector, as those have a kind of sealing effect.",
                 "comment_author": "Unfair_Finger5531",
                 "comment_dateTime": "2024-06-18 00:52:59",
-                "comment_score": 1,
+                "comment_score": 2,
                 "replies": []
             }
         ]
@@ -237,7 +221,7 @@
                 "comment_body": "This happens on my 12 Pro Max sometimes. I’ve found that just rebooting the phone will usually take care of it. No idea why it happens, my phone has never been in for repair and it was bought directly from Apple.",
                 "comment_author": "JBurlison92",
                 "comment_dateTime": "2024-06-17 18:42:40",
-                "comment_score": 1,
+                "comment_score": 2,
                 "replies": [
                     {
                         "comment_id": "l90u88b",
@@ -311,322 +295,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l90u88b",
-                "comment_body": "This worked, no idea why I didn’t think of this. Thank you:)",
-                "comment_author": "Senior_Falcon_1088",
-                "comment_dateTime": "2024-06-17 18:45:17",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l913rkm",
-                        "comment_body": "U can also set up alternative face ids as well in case u make major changes to your look.",
-                        "comment_author": "tlasan1",
-                        "comment_dateTime": "2024-06-17 19:38:16",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l913yx7",
-                                "comment_body": "My cousins face was on it, but since I just reset it it’s gone now:) probably gonna get the 16 Pro Max when it comes out, my battery health is at 80%🤣",
-                                "comment_author": "Senior_Falcon_1088",
-                                "comment_dateTime": "2024-06-17 19:39:26",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l915lig",
-                                        "comment_body": "Sounds like ur battery has a long way to go before replacing",
-                                        "comment_author": "tlasan1",
-                                        "comment_dateTime": "2024-06-17 19:48:23",
-                                        "comment_score": 1,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l915qgz",
-                                                "comment_body": "Honestly it doesn’t last much, mostly the reason why I would get a new phone.",
-                                                "comment_author": "Senior_Falcon_1088",
-                                                "comment_dateTime": "2024-06-17 19:49:05",
-                                                "comment_score": 1,
-                                                "replies": [
-                                                    {
-                                                        "comment_id": "l91618z",
-                                                        "comment_body": "U can close the apps ur using so they don't run in the background while not using the phone. Optimized battery is supposed to help with this but its all based off ur usage schedule.",
-                                                        "comment_author": "tlasan1",
-                                                        "comment_dateTime": "2024-06-17 19:50:40",
-                                                        "comment_score": 1,
-                                                        "replies": [
-                                                            {
-                                                                "comment_id": "l9168se",
-                                                                "comment_body": "I have all that on, and I always close apps before I stop using. For two years it’s down to 88% not 80%. I just checked.",
-                                                                "comment_author": "Senior_Falcon_1088",
-                                                                "comment_dateTime": "2024-06-17 19:51:48",
-                                                                "comment_score": 1,
-                                                                "replies": [
-                                                                    {
-                                                                        "comment_id": "l916fff",
-                                                                        "comment_body": "Ahhh might have got a battery that has a bit less capacity then.",
-                                                                        "comment_author": "tlasan1",
-                                                                        "comment_dateTime": "2024-06-17 19:52:47",
-                                                                        "comment_score": 1,
-                                                                        "replies": []
-                                                                    }
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l913rkm",
-                "comment_body": "U can also set up alternative face ids as well in case u make major changes to your look.",
-                "comment_author": "tlasan1",
-                "comment_dateTime": "2024-06-17 19:38:16",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l913yx7",
-                        "comment_body": "My cousins face was on it, but since I just reset it it’s gone now:) probably gonna get the 16 Pro Max when it comes out, my battery health is at 80%🤣",
-                        "comment_author": "Senior_Falcon_1088",
-                        "comment_dateTime": "2024-06-17 19:39:26",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l915lig",
-                                "comment_body": "Sounds like ur battery has a long way to go before replacing",
-                                "comment_author": "tlasan1",
-                                "comment_dateTime": "2024-06-17 19:48:23",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l915qgz",
-                                        "comment_body": "Honestly it doesn’t last much, mostly the reason why I would get a new phone.",
-                                        "comment_author": "Senior_Falcon_1088",
-                                        "comment_dateTime": "2024-06-17 19:49:05",
-                                        "comment_score": 1,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l91618z",
-                                                "comment_body": "U can close the apps ur using so they don't run in the background while not using the phone. Optimized battery is supposed to help with this but its all based off ur usage schedule.",
-                                                "comment_author": "tlasan1",
-                                                "comment_dateTime": "2024-06-17 19:50:40",
-                                                "comment_score": 1,
-                                                "replies": [
-                                                    {
-                                                        "comment_id": "l9168se",
-                                                        "comment_body": "I have all that on, and I always close apps before I stop using. For two years it’s down to 88% not 80%. I just checked.",
-                                                        "comment_author": "Senior_Falcon_1088",
-                                                        "comment_dateTime": "2024-06-17 19:51:48",
-                                                        "comment_score": 1,
-                                                        "replies": [
-                                                            {
-                                                                "comment_id": "l916fff",
-                                                                "comment_body": "Ahhh might have got a battery that has a bit less capacity then.",
-                                                                "comment_author": "tlasan1",
-                                                                "comment_dateTime": "2024-06-17 19:52:47",
-                                                                "comment_score": 1,
-                                                                "replies": []
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l913yx7",
-                "comment_body": "My cousins face was on it, but since I just reset it it’s gone now:) probably gonna get the 16 Pro Max when it comes out, my battery health is at 80%🤣",
-                "comment_author": "Senior_Falcon_1088",
-                "comment_dateTime": "2024-06-17 19:39:26",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l915lig",
-                        "comment_body": "Sounds like ur battery has a long way to go before replacing",
-                        "comment_author": "tlasan1",
-                        "comment_dateTime": "2024-06-17 19:48:23",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l915qgz",
-                                "comment_body": "Honestly it doesn’t last much, mostly the reason why I would get a new phone.",
-                                "comment_author": "Senior_Falcon_1088",
-                                "comment_dateTime": "2024-06-17 19:49:05",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l91618z",
-                                        "comment_body": "U can close the apps ur using so they don't run in the background while not using the phone. Optimized battery is supposed to help with this but its all based off ur usage schedule.",
-                                        "comment_author": "tlasan1",
-                                        "comment_dateTime": "2024-06-17 19:50:40",
-                                        "comment_score": 1,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l9168se",
-                                                "comment_body": "I have all that on, and I always close apps before I stop using. For two years it’s down to 88% not 80%. I just checked.",
-                                                "comment_author": "Senior_Falcon_1088",
-                                                "comment_dateTime": "2024-06-17 19:51:48",
-                                                "comment_score": 1,
-                                                "replies": [
-                                                    {
-                                                        "comment_id": "l916fff",
-                                                        "comment_body": "Ahhh might have got a battery that has a bit less capacity then.",
-                                                        "comment_author": "tlasan1",
-                                                        "comment_dateTime": "2024-06-17 19:52:47",
-                                                        "comment_score": 1,
-                                                        "replies": []
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l915lig",
-                "comment_body": "Sounds like ur battery has a long way to go before replacing",
-                "comment_author": "tlasan1",
-                "comment_dateTime": "2024-06-17 19:48:23",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l915qgz",
-                        "comment_body": "Honestly it doesn’t last much, mostly the reason why I would get a new phone.",
-                        "comment_author": "Senior_Falcon_1088",
-                        "comment_dateTime": "2024-06-17 19:49:05",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l91618z",
-                                "comment_body": "U can close the apps ur using so they don't run in the background while not using the phone. Optimized battery is supposed to help with this but its all based off ur usage schedule.",
-                                "comment_author": "tlasan1",
-                                "comment_dateTime": "2024-06-17 19:50:40",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l9168se",
-                                        "comment_body": "I have all that on, and I always close apps before I stop using. For two years it’s down to 88% not 80%. I just checked.",
-                                        "comment_author": "Senior_Falcon_1088",
-                                        "comment_dateTime": "2024-06-17 19:51:48",
-                                        "comment_score": 1,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l916fff",
-                                                "comment_body": "Ahhh might have got a battery that has a bit less capacity then.",
-                                                "comment_author": "tlasan1",
-                                                "comment_dateTime": "2024-06-17 19:52:47",
-                                                "comment_score": 1,
-                                                "replies": []
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l915qgz",
-                "comment_body": "Honestly it doesn’t last much, mostly the reason why I would get a new phone.",
-                "comment_author": "Senior_Falcon_1088",
-                "comment_dateTime": "2024-06-17 19:49:05",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l91618z",
-                        "comment_body": "U can close the apps ur using so they don't run in the background while not using the phone. Optimized battery is supposed to help with this but its all based off ur usage schedule.",
-                        "comment_author": "tlasan1",
-                        "comment_dateTime": "2024-06-17 19:50:40",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l9168se",
-                                "comment_body": "I have all that on, and I always close apps before I stop using. For two years it’s down to 88% not 80%. I just checked.",
-                                "comment_author": "Senior_Falcon_1088",
-                                "comment_dateTime": "2024-06-17 19:51:48",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l916fff",
-                                        "comment_body": "Ahhh might have got a battery that has a bit less capacity then.",
-                                        "comment_author": "tlasan1",
-                                        "comment_dateTime": "2024-06-17 19:52:47",
-                                        "comment_score": 1,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l91618z",
-                "comment_body": "U can close the apps ur using so they don't run in the background while not using the phone. Optimized battery is supposed to help with this but its all based off ur usage schedule.",
-                "comment_author": "tlasan1",
-                "comment_dateTime": "2024-06-17 19:50:40",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l9168se",
-                        "comment_body": "I have all that on, and I always close apps before I stop using. For two years it’s down to 88% not 80%. I just checked.",
-                        "comment_author": "Senior_Falcon_1088",
-                        "comment_dateTime": "2024-06-17 19:51:48",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l916fff",
-                                "comment_body": "Ahhh might have got a battery that has a bit less capacity then.",
-                                "comment_author": "tlasan1",
-                                "comment_dateTime": "2024-06-17 19:52:47",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l9168se",
-                "comment_body": "I have all that on, and I always close apps before I stop using. For two years it’s down to 88% not 80%. I just checked.",
-                "comment_author": "Senior_Falcon_1088",
-                "comment_dateTime": "2024-06-17 19:51:48",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l916fff",
-                        "comment_body": "Ahhh might have got a battery that has a bit less capacity then.",
-                        "comment_author": "tlasan1",
-                        "comment_dateTime": "2024-06-17 19:52:47",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l916fff",
-                "comment_body": "Ahhh might have got a battery that has a bit less capacity then.",
-                "comment_author": "tlasan1",
-                "comment_dateTime": "2024-06-17 19:52:47",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -689,47 +357,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l90qo4f",
-                "comment_body": "Maybe try iTunes on Windows/or a Mac to identify.",
-                "comment_author": "DaveHutt",
-                "comment_dateTime": "2024-06-17 18:25:09",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l90r536",
-                "comment_body": "Everything runs, it just seems suspicious that all the parts are supposedly brand new. As I said in my post, I learned about devices tricking the iPhone into thinking the parts are the original ones.",
-                "comment_author": "-Drummer",
-                "comment_dateTime": "2024-06-17 18:27:51",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l90s5t5",
-                        "comment_body": "Maybe the package was damaged and it was returned to seller or something. Can you upgrade it to the latest iOS?",
-                        "comment_author": "DaveHutt",
-                        "comment_dateTime": "2024-06-17 18:33:37",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l90t09f",
-                "comment_body": "Yep I rushed it a bit, might just do that.",
-                "comment_author": "-Drummer",
-                "comment_dateTime": "2024-06-17 18:38:29",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l90s5t5",
-                "comment_body": "Maybe the package was damaged and it was returned to seller or something. Can you upgrade it to the latest iOS?",
-                "comment_author": "DaveHutt",
-                "comment_dateTime": "2024-06-17 18:33:37",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -776,14 +403,6 @@
                 "comment_dateTime": "2024-06-17 18:21:55",
                 "comment_score": 1,
                 "replies": []
-            },
-            {
-                "comment_id": "l9183vs",
-                "comment_body": "Oh really okay I’ll give that a go thank you!",
-                "comment_author": "opticon12000",
-                "comment_dateTime": "2024-06-17 20:01:51",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -801,7 +420,7 @@
                 "comment_body": "It looks like it's an audio recording, and it's suggesting ways of sharing it. To Jeremy or Julie via messages, or to someone else by airdrop or mail. You should be able to swipe left on either of those rows and see more suggestions of people on the top row and methods on the bottom row. Apple is suggesting that based on how frequently and via what method you interact with people.",
                 "comment_author": "djcobol",
                 "comment_dateTime": "2024-06-17 17:10:57",
-                "comment_score": 3,
+                "comment_score": 4,
                 "replies": [
                     {
                         "comment_id": "l90even",
@@ -818,7 +437,7 @@
                 "comment_body": "https://preview.redd.it/ss7w9m5a867d1.jpeg?width=4000&format=pjpg&auto=webp&s=2481efbb531df28ffad4d08985f3de96a4ce9385",
                 "comment_author": "KittyFoxLuv",
                 "comment_dateTime": "2024-06-17 19:58:44",
-                "comment_score": 2,
+                "comment_score": 3,
                 "replies": []
             },
             {
@@ -835,14 +454,6 @@
                 "comment_author": "UneagerBeaver69",
                 "comment_dateTime": "2024-06-17 19:22:44",
                 "comment_score": -1,
-                "replies": []
-            },
-            {
-                "comment_id": "l90even",
-                "comment_body": "Oh WOW! Thank you, thank you, thank you so much!!!! Yay!!",
-                "comment_author": "KittyFoxLuv",
-                "comment_dateTime": "2024-06-17 17:17:17",
-                "comment_score": 0,
                 "replies": []
             }
         ]
@@ -890,14 +501,6 @@
                 "comment_dateTime": "2024-06-18 00:50:12",
                 "comment_score": 1,
                 "replies": []
-            },
-            {
-                "comment_id": "l90wi3i",
-                "comment_body": "I thought maybe that was the case but I’ve tried closing all apps out, restarting the phone, and it still does it no matter if I’m on my home page or have it locked sitting on my desk",
-                "comment_author": "FoxtrotMassie",
-                "comment_dateTime": "2024-06-17 18:57:48",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -922,28 +525,73 @@
     },
     {
         "post_title": "Should i repair it?",
-        "post_score": 1,
+        "post_score": 0,
         "post_id": "1dhxqxe",
         "post_url": "https://i.redd.it/8dtujkgbt47d1.jpeg",
-        "post_numComments": 3,
+        "post_numComments": 10,
         "post_dateTime": "2024-06-17 15:13:11",
         "post_text": "The repair technician told me its probabbly better and safer to leave the original lens than repair it since it isnt a huge crack… im so annoyed by it and am also wondering if it makes my phone non waterproof anymore.\nTha fall was miniscule and wasnt supposed to crack anything but yeah…",
         "post_comments": [
             {
-                "comment_id": "l8zvbrk",
-                "comment_body": "It isnt about that..",
-                "comment_author": "StarsHearUs",
-                "comment_dateTime": "2024-06-17 15:13:48",
+                "comment_id": "l95k0qu",
+                "comment_body": "if it shows up in photos replace it, if the crack goes straight through the other side replace it, if none of those leave it.",
+                "comment_author": "iaymnu",
+                "comment_dateTime": "2024-06-18 15:49:53",
                 "comment_score": 2,
-                "replies": []
+                "replies": [
+                    {
+                        "comment_id": "l95kd0k",
+                        "comment_body": "I will send you a pic in dm",
+                        "comment_author": "StarsHearUs",
+                        "comment_dateTime": "2024-06-18 15:52:03",
+                        "comment_score": 1,
+                        "replies": [
+                            {
+                                "comment_id": "l95kkl7",
+                                "comment_body": "Oh i cant, but yeah one tiny crack seems to be going to the other end and two smaller are around the breaking point",
+                                "comment_author": "StarsHearUs",
+                                "comment_dateTime": "2024-06-18 15:53:22",
+                                "comment_score": 1,
+                                "replies": [
+                                    {
+                                        "comment_id": "l95kr5j",
+                                        "comment_body": "Then probably it’s best to replace.",
+                                        "comment_author": "iaymnu",
+                                        "comment_dateTime": "2024-06-18 15:54:30",
+                                        "comment_score": 2,
+                                        "replies": [
+                                            {
+                                                "comment_id": "l95l0mo",
+                                                "comment_body": "I see i will ask another technician what they think since two have told me i should keep the og lens.. so now im scared of long term effects either option can have😕",
+                                                "comment_author": "StarsHearUs",
+                                                "comment_dateTime": "2024-06-18 15:56:08",
+                                                "comment_score": 1,
+                                                "replies": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
-                "comment_id": "l8zvdc6",
-                "comment_body": "Also the original apple case is the worst option to have camera protection wise…",
-                "comment_author": "StarsHearUs",
-                "comment_dateTime": "2024-06-17 15:14:07",
-                "comment_score": 2,
-                "replies": []
+                "comment_id": "l94hhoq",
+                "comment_body": "Are you upset about a microscopic speck on your lens? grow up.",
+                "comment_author": "Vichocente30",
+                "comment_dateTime": "2024-06-18 09:49:26",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l95kwcc",
+                        "comment_body": "It has small lines and a breaking point, i am just afraid if it is now vulnerable to water damage since my camera is rly important to me and i dont have enough money to be careless about that lol",
+                        "comment_author": "StarsHearUs",
+                        "comment_dateTime": "2024-06-18 15:55:24",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
             }
         ]
     },
@@ -968,7 +616,7 @@
     },
     {
         "post_title": "Why do cropped images become nearly black and white?",
-        "post_score": 4,
+        "post_score": 6,
         "post_id": "1dhwdx6",
         "post_url": "https://www.reddit.com/gallery/1dhwdx6",
         "post_numComments": 4,
@@ -1006,31 +654,6 @@
                 "comment_body": "Hi, photographer here. This could be for a number of reasons, specifically a conflicting color profile. If you’ve ever heard of like sRGB or Adobe RGB. these are color profiles that each render colors differently. In the case of your image here, it looks like it was originally in color profile A, and then when you cropped it, the photos app converted it into color profile B.  If the color is that important to you, which I would completely understand why, you can try to boost the saturation to see if that brings out the green, it should.",
                 "comment_author": "sethbrown321",
                 "comment_dateTime": "2024-06-17 19:46:49",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8zr06r",
-                "comment_body": "Yep still faded when zooming in, just used picsart to crop the original image and it was fine. I’ll just do that from now on it’s not too much of a hassle. Thank you.",
-                "comment_author": "Any_Frosting_958",
-                "comment_dateTime": "2024-06-17 14:41:38",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8ztpd8",
-                        "comment_body": "Good. Sometimes very thin lines on high-res images deviate in color, width and may even disappear at different zoom levels because of the interpolation of pixels.\n\nWhen you crop an image, iOS, obviously, saves it after using its settings, and here the color profile issue may arise.",
-                        "comment_author": "Yssiris",
-                        "comment_dateTime": "2024-06-17 15:01:59",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8ztpd8",
-                "comment_body": "Good. Sometimes very thin lines on high-res images deviate in color, width and may even disappear at different zoom levels because of the interpolation of pixels.\n\nWhen you crop an image, iOS, obviously, saves it after using its settings, and here the color profile issue may arise.",
-                "comment_author": "Yssiris",
-                "comment_dateTime": "2024-06-17 15:01:59",
                 "comment_score": 1,
                 "replies": []
             }
@@ -1078,22 +701,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l903034",
-                "comment_body": "thought of that too, ill post it there thanks",
-                "comment_author": "whitelistato",
-                "comment_dateTime": "2024-06-17 16:05:27",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l9034zk",
-                "comment_body": "its the only list i had, also on whatsapp none of the numbers were saved",
-                "comment_author": "whitelistato",
-                "comment_dateTime": "2024-06-17 16:06:19",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1122,14 +729,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8zlezx",
-                "comment_body": "Yeah good point, Il try that",
-                "comment_author": "MeasurementAlive3484",
-                "comment_dateTime": "2024-06-17 13:55:31",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1197,14 +796,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l90tf19",
-                "comment_body": "Thanks.",
-                "comment_author": "happier_now",
-                "comment_dateTime": "2024-06-17 18:40:49",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1296,7 +887,7 @@
         "post_score": 0,
         "post_id": "1dhtrck",
         "post_url": "https://www.reddit.com/r/iphone/comments/1dhtrck/sim_locked_crazyness/",
-        "post_numComments": 3,
+        "post_numComments": 4,
         "post_dateTime": "2024-06-17 11:11:17",
         "post_text": "Hi!  \nUnbeliveable story.\n\nMy wife bought an iPhone 10s Max on Amazon (Dubai) in 2019. We are living in the Eu, and since the beggining we used it with a T-Mobile card. Sometimes I'd put my card (Telenor) into it and it was worked fine. So the phone was proved to be unlocked. \n\nA month ago we change her mobile into a newer model. We would like to gave this old iphone to our young niece, so we made a factory reset, and with this we've actually killed the phone...\n\n  \nNow it's inpossible to install the iOS cause the phone doesn't accept the new SIM card, but not really any SIM that we insert. Even the old one what we used a long time ago.\n\nThe Apple service told us the phone is locked, and for crack it first we must prove it was an unlocked iPhone since we've purcahsed it.\n\n  \nCan anyone help me to install somehow the iOS again? ",
         "post_comments": [
@@ -1320,36 +911,20 @@
                                 "comment_author": "TurtleOnLog",
                                 "comment_dateTime": "2024-06-18 09:10:33",
                                 "comment_score": 1,
-                                "replies": []
+                                "replies": [
+                                    {
+                                        "comment_id": "l94rru2",
+                                        "comment_body": "It's not activation locked.",
+                                        "comment_author": "FlackonosBohr",
+                                        "comment_dateTime": "2024-06-18 11:56:06",
+                                        "comment_score": 1,
+                                        "replies": []
+                                    }
+                                ]
                             }
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l945dx6",
-                "comment_body": "No, it's not :(",
-                "comment_author": "FlackonosBohr",
-                "comment_dateTime": "2024-06-18 07:31:09",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l94ecar",
-                        "comment_body": "What’s not? Are you saying it’s not activation locked, or are you saying activation lock IS related to SIM cards?",
-                        "comment_author": "TurtleOnLog",
-                        "comment_dateTime": "2024-06-18 09:10:33",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l94ecar",
-                "comment_body": "What’s not? Are you saying it’s not activation locked, or are you saying activation lock IS related to SIM cards?",
-                "comment_author": "TurtleOnLog",
-                "comment_dateTime": "2024-06-18 09:10:33",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1451,28 +1026,12 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8zklwz",
-                "comment_body": "If you read the post, it says he has an Android haha (move to iOS App). Google Photos isn’t working",
-                "comment_author": "clydesci",
-                "comment_dateTime": "2024-06-17 13:48:27",
-                "comment_score": 0,
-                "replies": []
-            },
-            {
-                "comment_id": "l8yymaa",
-                "comment_body": "Don’t have those here:/",
-                "comment_author": "clydesci",
-                "comment_dateTime": "2024-06-17 09:35:20",
-                "comment_score": 3,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "Charging with 10Gbps Cable?",
-        "post_score": 2,
+        "post_score": 1,
         "post_id": "1dhre5h",
         "post_url": "https://www.reddit.com/r/iphone/comments/1dhre5h/charging_with_10gbps_cable/",
         "post_numComments": 7,
@@ -1484,7 +1043,7 @@
                 "comment_body": "Data transfer speed has nothing to do with charging speed. Those data specs only matter when you want to transfer large amounts of data to/from your phone via the cable (for example if you back up your phone or even just your photos to a computer).\n\nYou don't need to worry about the number of pins at all. A USB 3 cable will have more pins than USB 2 to support that higher data transfer rate.\n\nIf you want fast charging, you'll need a C to C cable (EDIT: any C to C cable will do. Doesn't matter if it's USB 2, 3, or even 4) and a charger that supports the USB Power Delivery protocol. Basically any legitimate USB C charger will support that these days. Anker and UGREEN are both good brands. Apple's first-party chargers are of course fine too.\n\nIf you only charge overnight and are happy with the 5W speed, any A to C cable should be fine. Again, Anker, UGREEN and Apple are all good options.",
                 "comment_author": "saxiflarp",
                 "comment_dateTime": "2024-06-17 11:27:06",
-                "comment_score": 5,
+                "comment_score": 4,
                 "replies": [
                     {
                         "comment_id": "l8z88ju",
@@ -1501,7 +1060,7 @@
                 "comment_body": "If you're only using a 5W USB-A charging brick then any USB cable will be fine - they can all handle 5 watts. The data pins aren't going to be a problem.\n\nIt gets a little more complicated with USB-C to USB-C cables. There are some cables that are really only good for charging and only have USB 2 data speeds, so they're not great for syncing or connecting external drives. And if you want to charge a laptop you should get a cable specifically designed for high power usage, since most general purpose USB cables can't carry all the power a laptop will want.",
                 "comment_author": "Gryphon-63",
                 "comment_dateTime": "2024-06-17 08:42:39",
-                "comment_score": 3,
+                "comment_score": 5,
                 "replies": [
                     {
                         "comment_id": "l8yvthc",
@@ -1538,47 +1097,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8z88ju",
-                "comment_body": "Thank you very much for your well described reply!",
-                "comment_author": "Leather_Turnip3175",
-                "comment_dateTime": "2024-06-17 11:37:24",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8yvthc",
-                "comment_body": "Thank you for your quick reply! \n\nRecently I bought a UGREEN USB - A to USB C cable for my friend, then I noticed it’s only have the charging pins and noted as 480Mbps since it’s a charging cable and could go up to 18W. The Anker cable I’m currently using (10Gbps) described as can go up to 60W. But I’m only using it to charge my phone. My only concern is with the extra pins would cause any issues or phone is identifying the cable plugged to the pc (probably not). Should I bought a UGREEN charging cable over this Anker cable ? This is my first time using USB C and it’s with the iPhone 15. That’s why I have lot of confusions.",
-                "comment_author": "Leather_Turnip3175",
-                "comment_dateTime": "2024-06-17 09:01:38",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8z4u0c",
-                        "comment_body": "It's fine, the extra pins aren't going to confuse anything. \n\nUsing a cable designed to carry more power than the device needs won't cause a problem either.",
-                        "comment_author": "Gryphon-63",
-                        "comment_dateTime": "2024-06-17 10:54:28",
-                        "comment_score": 3,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8z3ra8",
-                "comment_body": "Charging speed is okay for me because sometimes I charge overnight.",
-                "comment_author": "Leather_Turnip3175",
-                "comment_dateTime": "2024-06-17 10:40:49",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8z4u0c",
-                "comment_body": "It's fine, the extra pins aren't going to confuse anything. \n\nUsing a cable designed to carry more power than the device needs won't cause a problem either.",
-                "comment_author": "Gryphon-63",
-                "comment_dateTime": "2024-06-17 10:54:28",
-                "comment_score": 3,
-                "replies": []
             }
         ]
     },
@@ -1607,14 +1125,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8z47wa",
-                "comment_body": "I tried that, it just restores the icon. When I click on it to download, there’s an error message. Thanks, though.",
-                "comment_author": "nevafeva",
-                "comment_dateTime": "2024-06-17 10:46:40",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1661,7 +1171,7 @@
                 "comment_body": "I cannot possibly believe this is real. You went from the original iPhone to an iPhone 15? Nothing in between? Zero inclination to upgrade, even on accident, in the last 17 years?",
                 "comment_author": "bugleparty",
                 "comment_dateTime": "2024-06-17 08:39:18",
-                "comment_score": 24,
+                "comment_score": 22,
                 "replies": [
                     {
                         "comment_id": "l8zhc97",
@@ -1755,7 +1265,7 @@
                 "comment_body": "its okay, by fall you will have AI integrated when you update to IOS 18.",
                 "comment_author": "petros07",
                 "comment_dateTime": "2024-06-17 08:25:52",
-                "comment_score": -3,
+                "comment_score": -4,
                 "replies": [
                     {
                         "comment_id": "l8ytlup",
@@ -1775,142 +1285,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l8zhc97",
-                "comment_body": "Same. No way this is real. Would an original iPhone even work on modern LTE networks?",
-                "comment_author": "UneagerBeaver69",
-                "comment_dateTime": "2024-06-17 13:18:18",
-                "comment_score": 3,
-                "replies": [
-                    {
-                        "comment_id": "l913ahm",
-                        "comment_body": "I dont know how to prove whether i did or not, but is that what reddit is for? The phone doesn’t work on lte i don’t think but whatever was before is still up and running",
-                        "comment_author": "spacehold",
-                        "comment_dateTime": "2024-06-17 19:35:37",
-                        "comment_score": -2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8ys7a2",
-                "comment_body": "The tutorial thing got me through that, but the whole thing is way too much for the eyes.",
-                "comment_author": "spacehold",
-                "comment_dateTime": "2024-06-17 08:19:36",
-                "comment_score": -6,
-                "replies": [
-                    {
-                        "comment_id": "l8yt4jo",
-                        "comment_body": "What do you mean way too much? Does it hurt your eyes to look at the screen??",
-                        "comment_author": "Drtysouth205",
-                        "comment_dateTime": "2024-06-17 08:30:14",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l8ytix4",
-                                "comment_body": "There's so many little buttons compared to the simplistic design of my older phone.",
-                                "comment_author": "spacehold",
-                                "comment_dateTime": "2024-06-17 08:34:55",
-                                "comment_score": -12,
-                                "replies": [
-                                    {
-                                        "comment_id": "l913l66",
-                                        "comment_body": "what’s with the dislikes",
-                                        "comment_author": "spacehold",
-                                        "comment_dateTime": "2024-06-17 19:37:16",
-                                        "comment_score": 1,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8ytlup",
-                "comment_body": "Already have that enabled, I'm a developer with my macbook m3 pro, just never bothered to upgrade my phone when I have my watch",
-                "comment_author": "spacehold",
-                "comment_dateTime": "2024-06-17 08:35:51",
-                "comment_score": -5,
-                "replies": [
-                    {
-                        "comment_id": "l913f7q",
-                        "comment_body": "what’s with the dislikes?",
-                        "comment_author": "spacehold",
-                        "comment_dateTime": "2024-06-17 19:36:20",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l913ahm",
-                "comment_body": "I dont know how to prove whether i did or not, but is that what reddit is for? The phone doesn’t work on lte i don’t think but whatever was before is still up and running",
-                "comment_author": "spacehold",
-                "comment_dateTime": "2024-06-17 19:35:37",
-                "comment_score": -2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8yt4jo",
-                "comment_body": "What do you mean way too much? Does it hurt your eyes to look at the screen??",
-                "comment_author": "Drtysouth205",
-                "comment_dateTime": "2024-06-17 08:30:14",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8ytix4",
-                        "comment_body": "There's so many little buttons compared to the simplistic design of my older phone.",
-                        "comment_author": "spacehold",
-                        "comment_dateTime": "2024-06-17 08:34:55",
-                        "comment_score": -12,
-                        "replies": [
-                            {
-                                "comment_id": "l913l66",
-                                "comment_body": "what’s with the dislikes",
-                                "comment_author": "spacehold",
-                                "comment_dateTime": "2024-06-17 19:37:16",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l913f7q",
-                "comment_body": "what’s with the dislikes?",
-                "comment_author": "spacehold",
-                "comment_dateTime": "2024-06-17 19:36:20",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8ytix4",
-                "comment_body": "There's so many little buttons compared to the simplistic design of my older phone.",
-                "comment_author": "spacehold",
-                "comment_dateTime": "2024-06-17 08:34:55",
-                "comment_score": -12,
-                "replies": [
-                    {
-                        "comment_id": "l913l66",
-                        "comment_body": "what’s with the dislikes",
-                        "comment_author": "spacehold",
-                        "comment_dateTime": "2024-06-17 19:37:16",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l913l66",
-                "comment_body": "what’s with the dislikes",
-                "comment_author": "spacehold",
-                "comment_dateTime": "2024-06-17 19:37:16",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1976,92 +1350,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l92vzs9",
-                "comment_body": "I don’t know what you mean.  All of my devices are updated.",
-                "comment_author": "jeg3141",
-                "comment_dateTime": "2024-06-18 01:56:03",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l936tvf",
-                        "comment_body": "Like you update one device but not the other, or your updates are very behind.",
-                        "comment_author": "TheThingCreator",
-                        "comment_dateTime": "2024-06-18 03:08:49",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l939wi2",
-                                "comment_body": "Nah they’re all current.",
-                                "comment_author": "jeg3141",
-                                "comment_dateTime": "2024-06-18 03:29:25",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l93gviz",
-                                        "comment_body": "Outside of very obvious stuff like internet connection, rebooting, all stuff I'm sure you double checked, I can't think of anything. Until you find a solution, a cloud sync webapp/extension like [WebCull](http://WebCull.com) might be your only option. I see a lot of posts like this one, sync seems to be a very problematic feature, I know it was for me in multiple instances as well, and there's often no one to help out.",
-                                        "comment_author": "TheThingCreator",
-                                        "comment_dateTime": "2024-06-18 04:15:28",
-                                        "comment_score": 2,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l936tvf",
-                "comment_body": "Like you update one device but not the other, or your updates are very behind.",
-                "comment_author": "TheThingCreator",
-                "comment_dateTime": "2024-06-18 03:08:49",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l939wi2",
-                        "comment_body": "Nah they’re all current.",
-                        "comment_author": "jeg3141",
-                        "comment_dateTime": "2024-06-18 03:29:25",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l93gviz",
-                                "comment_body": "Outside of very obvious stuff like internet connection, rebooting, all stuff I'm sure you double checked, I can't think of anything. Until you find a solution, a cloud sync webapp/extension like [WebCull](http://WebCull.com) might be your only option. I see a lot of posts like this one, sync seems to be a very problematic feature, I know it was for me in multiple instances as well, and there's often no one to help out.",
-                                "comment_author": "TheThingCreator",
-                                "comment_dateTime": "2024-06-18 04:15:28",
-                                "comment_score": 2,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l939wi2",
-                "comment_body": "Nah they’re all current.",
-                "comment_author": "jeg3141",
-                "comment_dateTime": "2024-06-18 03:29:25",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l93gviz",
-                        "comment_body": "Outside of very obvious stuff like internet connection, rebooting, all stuff I'm sure you double checked, I can't think of anything. Until you find a solution, a cloud sync webapp/extension like [WebCull](http://WebCull.com) might be your only option. I see a lot of posts like this one, sync seems to be a very problematic feature, I know it was for me in multiple instances as well, and there's often no one to help out.",
-                        "comment_author": "TheThingCreator",
-                        "comment_dateTime": "2024-06-18 04:15:28",
-                        "comment_score": 2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l93gviz",
-                "comment_body": "Outside of very obvious stuff like internet connection, rebooting, all stuff I'm sure you double checked, I can't think of anything. Until you find a solution, a cloud sync webapp/extension like [WebCull](http://WebCull.com) might be your only option. I see a lot of posts like this one, sync seems to be a very problematic feature, I know it was for me in multiple instances as well, and there's often no one to help out.",
-                "comment_author": "TheThingCreator",
-                "comment_dateTime": "2024-06-18 04:15:28",
-                "comment_score": 2,
-                "replies": []
             }
         ]
     },
@@ -2099,7 +1387,7 @@
         "post_score": 20,
         "post_id": "1dhqhoa",
         "post_url": "https://i.redd.it/mh53xbzng27d1.jpeg",
-        "post_numComments": 27,
+        "post_numComments": 28,
         "post_dateTime": "2024-06-17 07:18:36",
         "post_text": "",
         "post_comments": [
@@ -2108,14 +1396,14 @@
                 "comment_body": "they put the calculator app on the ipad buddy, maybe it comes back with ios 19",
                 "comment_author": "WaltzWise3489",
                 "comment_dateTime": "2024-06-17 11:49:16",
-                "comment_score": 52,
+                "comment_score": 56,
                 "replies": [
                     {
                         "comment_id": "l90dwx8",
                         "comment_body": "Tim said it’s my turn with the calculator app.",
                         "comment_author": "-Badger3-",
                         "comment_dateTime": "2024-06-17 17:11:40",
-                        "comment_score": 6,
+                        "comment_score": 4,
                         "replies": []
                     },
                     {
@@ -2123,7 +1411,7 @@
                         "comment_body": "I can still open the Calculator app with Siri, so the iPhone still has it, but it isn’t able to find it (or any other app) from time to time. Also wouldn’t that be completely bonkers if you could only get calculator on iPads now lmao",
                         "comment_author": "analog_fish",
                         "comment_dateTime": "2024-06-17 14:46:17",
-                        "comment_score": -13,
+                        "comment_score": -14,
                         "replies": [
                             {
                                 "comment_id": "l91b551",
@@ -2142,14 +1430,14 @@
                 "comment_body": "Have you tried a force restart by quickly pressing volume up then volume down and then holding power and it will restart.\n\nhttps://support.apple.com/en-au/guide/iphone/iph8903c3ee6/ios",
                 "comment_author": "wombat9876",
                 "comment_dateTime": "2024-06-17 07:25:58",
-                "comment_score": 13,
+                "comment_score": 14,
                 "replies": [
                     {
                         "comment_id": "l8yofe2",
                         "comment_body": "yea",
                         "comment_author": "analog_fish",
                         "comment_dateTime": "2024-06-17 07:38:09",
-                        "comment_score": 4,
+                        "comment_score": 3,
                         "replies": [
                             {
                                 "comment_id": "l8yw44m",
@@ -2163,21 +1451,21 @@
                                         "comment_body": "Yep",
                                         "comment_author": "analog_fish",
                                         "comment_dateTime": "2024-06-17 10:10:20",
-                                        "comment_score": 2,
+                                        "comment_score": 3,
                                         "replies": [
                                             {
                                                 "comment_id": "l8z726e",
                                                 "comment_body": "Why are you being downvoted😭😭",
                                                 "comment_author": "futboldorado",
                                                 "comment_dateTime": "2024-06-17 11:22:39",
-                                                "comment_score": 4,
+                                                "comment_score": 5,
                                                 "replies": [
                                                     {
                                                         "comment_id": "l8zroh3",
                                                         "comment_body": "It’s Reddit lmao",
                                                         "comment_author": "analog_fish",
                                                         "comment_dateTime": "2024-06-17 14:46:47",
-                                                        "comment_score": 5,
+                                                        "comment_score": 6,
                                                         "replies": [
                                                             {
                                                                 "comment_id": "l911v5o",
@@ -2208,7 +1496,7 @@
                                 "comment_body": "If you still have this issue, you very likely either did not perform the force restart correctly or you run an outdated or Beta iOS on your phone",
                                 "comment_author": "Nbdy70",
                                 "comment_dateTime": "2024-06-17 10:45:16",
-                                "comment_score": -4,
+                                "comment_score": -3,
                                 "replies": []
                             }
                         ]
@@ -2290,6 +1578,23 @@
                 "replies": []
             },
             {
+                "comment_id": "l90ctn0",
+                "comment_body": "Now you need the 15 pro to do that",
+                "comment_author": "_Jimmy2times",
+                "comment_dateTime": "2024-06-17 17:05:12",
+                "comment_score": 1,
+                "replies": [
+                    {
+                        "comment_id": "l95vwyh",
+                        "comment_body": "lmao",
+                        "comment_author": "analog_fish",
+                        "comment_dateTime": "2024-06-18 17:01:02",
+                        "comment_score": 1,
+                        "replies": []
+                    }
+                ]
+            },
+            {
                 "comment_id": "l8z8bdk",
                 "comment_body": "Since your phone (or at least your keyboard) is in Polish, would it be possible that it’ll only find it if you type in Polish? Try searching for kalkulator instead.",
                 "comment_author": "super5aj123",
@@ -2305,319 +1610,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l90ctn0",
-                "comment_body": "Now you need the 15 pro to do that",
-                "comment_author": "_Jimmy2times",
-                "comment_dateTime": "2024-06-17 17:05:12",
-                "comment_score": 0,
-                "replies": []
-            },
-            {
-                "comment_id": "l90dwx8",
-                "comment_body": "Tim said it’s my turn with the calculator app.",
-                "comment_author": "-Badger3-",
-                "comment_dateTime": "2024-06-17 17:11:40",
-                "comment_score": 6,
-                "replies": []
-            },
-            {
-                "comment_id": "l8zrm3u",
-                "comment_body": "I can still open the Calculator app with Siri, so the iPhone still has it, but it isn’t able to find it (or any other app) from time to time. Also wouldn’t that be completely bonkers if you could only get calculator on iPads now lmao",
-                "comment_author": "analog_fish",
-                "comment_dateTime": "2024-06-17 14:46:17",
-                "comment_score": -13,
-                "replies": [
-                    {
-                        "comment_id": "l91b551",
-                        "comment_body": "Bruh",
-                        "comment_author": "SirKnightPerson",
-                        "comment_dateTime": "2024-06-17 20:18:42",
-                        "comment_score": 3,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8yofe2",
-                "comment_body": "yea",
-                "comment_author": "analog_fish",
-                "comment_dateTime": "2024-06-17 07:38:09",
-                "comment_score": 4,
-                "replies": [
-                    {
-                        "comment_id": "l8yw44m",
-                        "comment_body": "I also had this problem. In fact, not a single app was found anymore. For me a \"normal\" restart helped (which took way longer than usual, so I guess there was something wrong but was fixed by iOS). Maybe I am stupid for asking, but I guess there's a difference when restarting normally or forcing iOS to, so the stupid question is: Did you also do a normal restart?",
-                        "comment_author": "Roggan_Be",
-                        "comment_dateTime": "2024-06-17 09:05:04",
-                        "comment_score": 4,
-                        "replies": [
-                            {
-                                "comment_id": "l8z1dh0",
-                                "comment_body": "Yep",
-                                "comment_author": "analog_fish",
-                                "comment_dateTime": "2024-06-17 10:10:20",
-                                "comment_score": 2,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8z726e",
-                                        "comment_body": "Why are you being downvoted😭😭",
-                                        "comment_author": "futboldorado",
-                                        "comment_dateTime": "2024-06-17 11:22:39",
-                                        "comment_score": 4,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l8zroh3",
-                                                "comment_body": "It’s Reddit lmao",
-                                                "comment_author": "analog_fish",
-                                                "comment_dateTime": "2024-06-17 14:46:47",
-                                                "comment_score": 5,
-                                                "replies": [
-                                                    {
-                                                        "comment_id": "l911v5o",
-                                                        "comment_body": "I didn’t understand that either so I counteracted :)",
-                                                        "comment_author": "Roggan_Be",
-                                                        "comment_dateTime": "2024-06-17 19:27:39",
-                                                        "comment_score": 2,
-                                                        "replies": []
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "comment_id": "l90c96m",
-                        "comment_body": "Having the same issue I thought it was my phone. \n\nI’ll search for apps and it doesn’t come up have to reset my phone once a day or so",
-                        "comment_author": "ExcitementLarge6439",
-                        "comment_dateTime": "2024-06-17 17:01:49",
-                        "comment_score": 2,
-                        "replies": []
-                    },
-                    {
-                        "comment_id": "l8z43xn",
-                        "comment_body": "If you still have this issue, you very likely either did not perform the force restart correctly or you run an outdated or Beta iOS on your phone",
-                        "comment_author": "Nbdy70",
-                        "comment_dateTime": "2024-06-17 10:45:16",
-                        "comment_score": -4,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8z1hsy",
-                "comment_body": "Cheers mate but it sometimes finds stuff and other times it doesn’t. I don’t get it lmao this kind of shit never happened to me on my $300 china phone 😹",
-                "comment_author": "analog_fish",
-                "comment_dateTime": "2024-06-17 10:11:52",
-                "comment_score": -4,
-                "replies": [
-                    {
-                        "comment_id": "l8z309j",
-                        "comment_body": "That could still be database corruption. Does it always not find the calculator for example? \n\n  \nThis is unusual behaviour for an iphone and not one I have witnessed and I use spotlight multiple times a day. I would suggest an iOS reinstall personally.",
-                        "comment_author": "Laserpointer5000",
-                        "comment_dateTime": "2024-06-17 10:31:12",
-                        "comment_score": 2,
-                        "replies": []
-                    },
-                    {
-                        "comment_id": "l90wydl",
-                        "comment_body": "Reset all settings and failing that update using a computer. If it still doesn’t work, you’ll need to restore.",
-                        "comment_author": "foraging_ferret",
-                        "comment_dateTime": "2024-06-17 19:00:17",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8yy5of",
-                "comment_body": "Hi, /u/Dizzy_Mine_4753! Thank you for participating in r/iPhone. Unfortunately, your submission was removed for breaking the following rule(s):\n________________________________________________________________________________________________________________\n\nWe do not tolerate insults, discrimination, or hate speech based on race, gender, age, nationality, sexuality, or religion.\n\n\n\n________________________________________________________________________________________________________________\nReposting posts removed by a moderator without express permission is not allowed. Not here, and not on most of reddit. Please read reddiquette (linked below).\n\nFor questions, comments and concerns, [message the moderators.](https://www.reddit.com/message/compose?to=/r/iphone)\n\n[Reddiquette](https://www.reddit.com/wiki/reddiquette) | [New to Reddit?](https://www.reddit.com/wiki/reddit101) | [Reddit's Content Policy](https://www.reddit.com/help/contentpolicy/)",
-                "comment_author": "iphone-ModTeam",
-                "comment_dateTime": "2024-06-17 09:29:38",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8zrvo2",
-                "comment_body": "Just the keyboard as I’m learning polish. The system language is English still and it doesn’t work either way (I’ve tried this)",
-                "comment_author": "analog_fish",
-                "comment_dateTime": "2024-06-17 14:48:19",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l91b551",
-                "comment_body": "Bruh",
-                "comment_author": "SirKnightPerson",
-                "comment_dateTime": "2024-06-17 20:18:42",
-                "comment_score": 3,
-                "replies": []
-            },
-            {
-                "comment_id": "l8yw44m",
-                "comment_body": "I also had this problem. In fact, not a single app was found anymore. For me a \"normal\" restart helped (which took way longer than usual, so I guess there was something wrong but was fixed by iOS). Maybe I am stupid for asking, but I guess there's a difference when restarting normally or forcing iOS to, so the stupid question is: Did you also do a normal restart?",
-                "comment_author": "Roggan_Be",
-                "comment_dateTime": "2024-06-17 09:05:04",
-                "comment_score": 4,
-                "replies": [
-                    {
-                        "comment_id": "l8z1dh0",
-                        "comment_body": "Yep",
-                        "comment_author": "analog_fish",
-                        "comment_dateTime": "2024-06-17 10:10:20",
-                        "comment_score": 2,
-                        "replies": [
-                            {
-                                "comment_id": "l8z726e",
-                                "comment_body": "Why are you being downvoted😭😭",
-                                "comment_author": "futboldorado",
-                                "comment_dateTime": "2024-06-17 11:22:39",
-                                "comment_score": 4,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8zroh3",
-                                        "comment_body": "It’s Reddit lmao",
-                                        "comment_author": "analog_fish",
-                                        "comment_dateTime": "2024-06-17 14:46:47",
-                                        "comment_score": 5,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l911v5o",
-                                                "comment_body": "I didn’t understand that either so I counteracted :)",
-                                                "comment_author": "Roggan_Be",
-                                                "comment_dateTime": "2024-06-17 19:27:39",
-                                                "comment_score": 2,
-                                                "replies": []
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l90c96m",
-                "comment_body": "Having the same issue I thought it was my phone. \n\nI’ll search for apps and it doesn’t come up have to reset my phone once a day or so",
-                "comment_author": "ExcitementLarge6439",
-                "comment_dateTime": "2024-06-17 17:01:49",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8z43xn",
-                "comment_body": "If you still have this issue, you very likely either did not perform the force restart correctly or you run an outdated or Beta iOS on your phone",
-                "comment_author": "Nbdy70",
-                "comment_dateTime": "2024-06-17 10:45:16",
-                "comment_score": -4,
-                "replies": []
-            },
-            {
-                "comment_id": "l8z309j",
-                "comment_body": "That could still be database corruption. Does it always not find the calculator for example? \n\n  \nThis is unusual behaviour for an iphone and not one I have witnessed and I use spotlight multiple times a day. I would suggest an iOS reinstall personally.",
-                "comment_author": "Laserpointer5000",
-                "comment_dateTime": "2024-06-17 10:31:12",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l90wydl",
-                "comment_body": "Reset all settings and failing that update using a computer. If it still doesn’t work, you’ll need to restore.",
-                "comment_author": "foraging_ferret",
-                "comment_dateTime": "2024-06-17 19:00:17",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8z1dh0",
-                "comment_body": "Yep",
-                "comment_author": "analog_fish",
-                "comment_dateTime": "2024-06-17 10:10:20",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8z726e",
-                        "comment_body": "Why are you being downvoted😭😭",
-                        "comment_author": "futboldorado",
-                        "comment_dateTime": "2024-06-17 11:22:39",
-                        "comment_score": 4,
-                        "replies": [
-                            {
-                                "comment_id": "l8zroh3",
-                                "comment_body": "It’s Reddit lmao",
-                                "comment_author": "analog_fish",
-                                "comment_dateTime": "2024-06-17 14:46:47",
-                                "comment_score": 5,
-                                "replies": [
-                                    {
-                                        "comment_id": "l911v5o",
-                                        "comment_body": "I didn’t understand that either so I counteracted :)",
-                                        "comment_author": "Roggan_Be",
-                                        "comment_dateTime": "2024-06-17 19:27:39",
-                                        "comment_score": 2,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8z726e",
-                "comment_body": "Why are you being downvoted😭😭",
-                "comment_author": "futboldorado",
-                "comment_dateTime": "2024-06-17 11:22:39",
-                "comment_score": 4,
-                "replies": [
-                    {
-                        "comment_id": "l8zroh3",
-                        "comment_body": "It’s Reddit lmao",
-                        "comment_author": "analog_fish",
-                        "comment_dateTime": "2024-06-17 14:46:47",
-                        "comment_score": 5,
-                        "replies": [
-                            {
-                                "comment_id": "l911v5o",
-                                "comment_body": "I didn’t understand that either so I counteracted :)",
-                                "comment_author": "Roggan_Be",
-                                "comment_dateTime": "2024-06-17 19:27:39",
-                                "comment_score": 2,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8zroh3",
-                "comment_body": "It’s Reddit lmao",
-                "comment_author": "analog_fish",
-                "comment_dateTime": "2024-06-17 14:46:47",
-                "comment_score": 5,
-                "replies": [
-                    {
-                        "comment_id": "l911v5o",
-                        "comment_body": "I didn’t understand that either so I counteracted :)",
-                        "comment_author": "Roggan_Be",
-                        "comment_dateTime": "2024-06-17 19:27:39",
-                        "comment_score": 2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l911v5o",
-                "comment_body": "I didn’t understand that either so I counteracted :)",
-                "comment_author": "Roggan_Be",
-                "comment_dateTime": "2024-06-17 19:27:39",
-                "comment_score": 2,
-                "replies": []
             }
         ]
     },
@@ -2633,7 +1625,7 @@
     },
     {
         "post_title": "iPhone screen saturated?",
-        "post_score": 6,
+        "post_score": 7,
         "post_id": "1dhq5o6",
         "post_url": "https://www.reddit.com/gallery/1dhq5o6",
         "post_numComments": 13,
@@ -2645,7 +1637,7 @@
                 "comment_body": "Did you check the settings?",
                 "comment_author": "Arlenna7",
                 "comment_dateTime": "2024-06-17 08:07:59",
-                "comment_score": 4,
+                "comment_score": 6,
                 "replies": []
             },
             {
@@ -2713,54 +1705,6 @@
                 "comment_dateTime": "2024-06-17 11:20:56",
                 "comment_score": 1,
                 "replies": []
-            },
-            {
-                "comment_id": "l90wg53",
-                "comment_body": "check the display once and is it original apple display?",
-                "comment_author": "Neal000777",
-                "comment_dateTime": "2024-06-17 18:57:30",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8zaqmg",
-                "comment_body": "Iphone 11",
-                "comment_author": "pixeley88",
-                "comment_dateTime": "2024-06-17 12:07:39",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8zasxi",
-                "comment_body": "Real iPhone , third party screen, and I believe those icons are normal",
-                "comment_author": "pixeley88",
-                "comment_dateTime": "2024-06-17 12:08:25",
-                "comment_score": 3,
-                "replies": []
-            },
-            {
-                "comment_id": "l8zgphf",
-                "comment_body": "The chunky base iPhone 11 does exist you know",
-                "comment_author": "Wrestling-Nun",
-                "comment_dateTime": "2024-06-17 13:12:12",
-                "comment_score": 3,
-                "replies": []
-            },
-            {
-                "comment_id": "l8zqyx1",
-                "comment_body": "It’s an iPhone 11",
-                "comment_author": "Snowsniffa",
-                "comment_dateTime": "2024-06-17 14:41:21",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8zx1wr",
-                "comment_body": "It’s the LCD-LED FaceID iPhone (iPhone XR and iPhone 11). It can’t have a thinner bezel due to the LCD-LED display assembly.",
-                "comment_author": "77ilham77",
-                "comment_dateTime": "2024-06-17 15:26:02",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -2780,32 +1724,6 @@
                 "comment_dateTime": "2024-06-17 09:02:45",
                 "comment_score": 2,
                 "replies": []
-            },
-            {
-                "comment_id": "l8yk35j",
-                "comment_body": "https://www.reddit.com/r/iphone/s/gfQ3hA8UVa",
-                "comment_author": "Active-Cloud8243",
-                "comment_dateTime": "2024-06-17 06:53:15",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8yr4bc",
-                        "comment_body": "Way to create a [paradox](https://www.reddit.com/r/iphone/s/HyzxJC5o9q) of [links](https://www.reddit.com/r/iphone/s/6V3vNCHav9) dude!",
-                        "comment_author": "CLONE-11011100",
-                        "comment_dateTime": "2024-06-17 08:07:27",
-                        "comment_score": 2,
-                        "replies": [
-                            {
-                                "comment_id": "l90cbrh",
-                                "comment_body": "Happy Cake Day!",
-                                "comment_author": "66A87",
-                                "comment_dateTime": "2024-06-17 17:02:15",
-                                "comment_score": 2,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
             },
             {
                 "comment_id": "l8yk1y2",
@@ -2832,29 +1750,30 @@
                 "replies": []
             },
             {
-                "comment_id": "l8yr4bc",
-                "comment_body": "Way to create a [paradox](https://www.reddit.com/r/iphone/s/HyzxJC5o9q) of [links](https://www.reddit.com/r/iphone/s/6V3vNCHav9) dude!",
-                "comment_author": "CLONE-11011100",
-                "comment_dateTime": "2024-06-17 08:07:27",
-                "comment_score": 2,
+                "comment_id": "l8yk35j",
+                "comment_body": "https://www.reddit.com/r/iphone/s/gfQ3hA8UVa",
+                "comment_author": "Active-Cloud8243",
+                "comment_dateTime": "2024-06-17 06:53:15",
+                "comment_score": 1,
                 "replies": [
                     {
-                        "comment_id": "l90cbrh",
-                        "comment_body": "Happy Cake Day!",
-                        "comment_author": "66A87",
-                        "comment_dateTime": "2024-06-17 17:02:15",
+                        "comment_id": "l8yr4bc",
+                        "comment_body": "Way to create a [paradox](https://www.reddit.com/r/iphone/s/HyzxJC5o9q) of [links](https://www.reddit.com/r/iphone/s/6V3vNCHav9) dude!",
+                        "comment_author": "CLONE-11011100",
+                        "comment_dateTime": "2024-06-17 08:07:27",
                         "comment_score": 2,
-                        "replies": []
+                        "replies": [
+                            {
+                                "comment_id": "l90cbrh",
+                                "comment_body": "Happy Cake Day!",
+                                "comment_author": "66A87",
+                                "comment_dateTime": "2024-06-17 17:02:15",
+                                "comment_score": 2,
+                                "replies": []
+                            }
+                        ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l90cbrh",
-                "comment_body": "Happy Cake Day!",
-                "comment_author": "66A87",
-                "comment_dateTime": "2024-06-17 17:02:15",
-                "comment_score": 2,
-                "replies": []
             }
         ]
     },
@@ -2872,7 +1791,7 @@
                 "comment_body": "Look like liquid  damage  especially the discolored patches bottom right of the screen.",
                 "comment_author": "sl-x-pi",
                 "comment_dateTime": "2024-06-17 08:05:36",
-                "comment_score": 19,
+                "comment_score": 20,
                 "replies": []
             },
             {
@@ -2897,21 +1816,21 @@
                 "comment_body": "https://www.reddit.com/r/iphone/s/SP0GSctZft",
                 "comment_author": "Active-Cloud8243",
                 "comment_dateTime": "2024-06-17 06:53:03",
-                "comment_score": 2,
+                "comment_score": 1,
                 "replies": [
                     {
                         "comment_id": "l8ykmpt",
                         "comment_body": "Way to create a **[‘paradox’](https://www.reddit.com/r/iphone/s/FwLzuJxX0Z)** of **[links](https://www.reddit.com/r/iphone/s/dg8pJhzLmv)**, dude",
                         "comment_author": "LtFeelsBad",
                         "comment_dateTime": "2024-06-17 06:58:41",
-                        "comment_score": 13,
+                        "comment_score": 12,
                         "replies": [
                             {
                                 "comment_id": "l8yp8ez",
                                 "comment_body": "They can work it out between themselves 🤣",
                                 "comment_author": "Ornery-Practice9772",
                                 "comment_dateTime": "2024-06-17 07:46:47",
-                                "comment_score": 5,
+                                "comment_score": 4,
                                 "replies": []
                             }
                         ]
@@ -2956,7 +1875,7 @@
                 "comment_body": "It is Apple Ai, new technology",
                 "comment_author": "Character-Lime-6927",
                 "comment_dateTime": "2024-06-17 08:00:42",
-                "comment_score": -12,
+                "comment_score": -13,
                 "replies": []
             },
             {
@@ -2964,14 +1883,14 @@
                 "comment_body": "Yes it’s an iPhone X",
                 "comment_author": "Fit_Commercial322",
                 "comment_dateTime": "2024-06-17 07:18:41",
-                "comment_score": -17,
+                "comment_score": -18,
                 "replies": [
                     {
                         "comment_id": "l8z4a97",
                         "comment_body": "The thing that makes this comments funny is the fact that’s it’s not even an iPhone X",
                         "comment_author": "Piootje",
                         "comment_dateTime": "2024-06-17 10:47:29",
-                        "comment_score": 5,
+                        "comment_score": 4,
                         "replies": []
                     },
                     {
@@ -2983,79 +1902,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8zg8id",
-                "comment_body": "https://preview.redd.it/w1mdopqw647d1.png?width=750&format=png&auto=webp&s=16634470cdc7c8f28c67589c0aacfb5d50402241",
-                "comment_author": "PossibilityBorn590",
-                "comment_dateTime": "2024-06-17 13:07:29",
-                "comment_score": 3,
-                "replies": []
-            },
-            {
-                "comment_id": "l8ykmpt",
-                "comment_body": "Way to create a **[‘paradox’](https://www.reddit.com/r/iphone/s/FwLzuJxX0Z)** of **[links](https://www.reddit.com/r/iphone/s/dg8pJhzLmv)**, dude",
-                "comment_author": "LtFeelsBad",
-                "comment_dateTime": "2024-06-17 06:58:41",
-                "comment_score": 13,
-                "replies": [
-                    {
-                        "comment_id": "l8yp8ez",
-                        "comment_body": "They can work it out between themselves 🤣",
-                        "comment_author": "Ornery-Practice9772",
-                        "comment_dateTime": "2024-06-17 07:46:47",
-                        "comment_score": 5,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8z8okr",
-                "comment_body": "The general consensus seems to be liquid damage, so not something that’ll just magically happen.",
-                "comment_author": "super5aj123",
-                "comment_dateTime": "2024-06-17 11:42:52",
-                "comment_score": 3,
-                "replies": []
-            },
-            {
-                "comment_id": "l8zaeks",
-                "comment_body": "didn't know other smartphones were magically waterproof (not water resistant) now.",
-                "comment_author": "OctoSplattyy",
-                "comment_dateTime": "2024-06-17 12:03:39",
-                "comment_score": 3,
-                "replies": []
-            },
-            {
-                "comment_id": "l8zkc2s",
-                "comment_body": "Typical troll post. There're plenty of reasons to shit on Apple. Build quality ain't one of them.",
-                "comment_author": "UneagerBeaver69",
-                "comment_dateTime": "2024-06-17 13:46:03",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8z4a97",
-                "comment_body": "The thing that makes this comments funny is the fact that’s it’s not even an iPhone X",
-                "comment_author": "Piootje",
-                "comment_dateTime": "2024-06-17 10:47:29",
-                "comment_score": 5,
-                "replies": []
-            },
-            {
-                "comment_id": "l90hcjl",
-                "comment_body": "My iphone X was the best iphone I ever owned",
-                "comment_author": "locololus",
-                "comment_dateTime": "2024-06-17 17:31:41",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8yp8ez",
-                "comment_body": "They can work it out between themselves 🤣",
-                "comment_author": "Ornery-Practice9772",
-                "comment_dateTime": "2024-06-17 07:46:47",
-                "comment_score": 5,
-                "replies": []
             }
         ]
     },
@@ -3093,37 +1939,12 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l8ylvym",
-                "comment_body": "Not with my current service provider but potentially can. Would that likely fix the issue?",
-                "comment_author": "3teef",
-                "comment_dateTime": "2024-06-17 07:11:30",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8yly7w",
-                        "comment_body": "Helped a lot with my 13PM. Was getting a sim failure alert before that",
-                        "comment_author": "mfloxy",
-                        "comment_dateTime": "2024-06-17 07:12:10",
-                        "comment_score": 2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8yly7w",
-                "comment_body": "Helped a lot with my 13PM. Was getting a sim failure alert before that",
-                "comment_author": "mfloxy",
-                "comment_dateTime": "2024-06-17 07:12:10",
-                "comment_score": 2,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "Iphone 15 Pro Alarm Not Going Off",
-        "post_score": 5,
+        "post_score": 3,
         "post_id": "1dhpile",
         "post_url": "https://i.redd.it/isil2xwn527d1.jpeg",
         "post_numComments": 5,
@@ -3169,31 +1990,6 @@
                 "comment_body": "A friend had the same issues, he kept the phone on airplane mode at night and the morning the alarm didn’t go.",
                 "comment_author": "SAIXMAN",
                 "comment_dateTime": "2024-06-17 13:05:43",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8yhls1",
-                "comment_body": "do you know any reliable apps that arent a paid monthly subscription?",
-                "comment_author": "mikikalchan2",
-                "comment_dateTime": "2024-06-17 06:29:02",
-                "comment_score": 3,
-                "replies": [
-                    {
-                        "comment_id": "l8yo2qi",
-                        "comment_body": "Well maybe alarmy it’s a well known one and also makes you do something to make it go off if you want, to make you get outta bed",
-                        "comment_author": "Careless_Conflict581",
-                        "comment_dateTime": "2024-06-17 07:34:26",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8yo2qi",
-                "comment_body": "Well maybe alarmy it’s a well known one and also makes you do something to make it go off if you want, to make you get outta bed",
-                "comment_author": "Careless_Conflict581",
-                "comment_dateTime": "2024-06-17 07:34:26",
                 "comment_score": 1,
                 "replies": []
             }

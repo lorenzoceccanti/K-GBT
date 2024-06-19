@@ -58,47 +58,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l863idh",
-                "comment_body": "also it keeps wanting to automatically update when its connected to power at night so im not sure how im gonna avoid updating",
-                "comment_author": "SeriesEffective1125",
-                "comment_dateTime": "2024-06-11 22:19:37",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l864zx2",
-                        "comment_body": "If you want to update do it, I guarantee you it's perfectly safe.\nIt doesn't matter how much of a gap there is between updates as iOS completely rewrites the operating system when you update while saving all your personal information.\nThat's why unlike android where you need to install all the updates you missed, on iOS if you skip several it just offers you the latest one.\nI waited a whole year before updating my ipad and I had no issues. \nI recommended you wait only because iOS 17 has been really buggy for me but that could be subjective.\nAlso if you want to stop it from updating while on power, go into settings -> general -> storage, find the update and delete it from the phone",
-                        "comment_author": "Initial-Middle446",
-                        "comment_dateTime": "2024-06-11 22:27:49",
-                        "comment_score": 2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l863fe2",
-                "comment_body": "yeah i just thought that jumping from 15 to 17 would cause my phone to break or something, if i wait for 18 would it not be more likely for something to go wrong since there’s even more of a gap in the versions?",
-                "comment_author": "SeriesEffective1125",
-                "comment_dateTime": "2024-06-11 22:19:10",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l861toc",
-                "comment_body": "yeah it was the gap in versions that worried me like going from ios15 to 17 in one update, you’re sure that wouldnt cause an issue?",
-                "comment_author": "SeriesEffective1125",
-                "comment_dateTime": "2024-06-11 22:10:24",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l864zx2",
-                "comment_body": "If you want to update do it, I guarantee you it's perfectly safe.\nIt doesn't matter how much of a gap there is between updates as iOS completely rewrites the operating system when you update while saving all your personal information.\nThat's why unlike android where you need to install all the updates you missed, on iOS if you skip several it just offers you the latest one.\nI waited a whole year before updating my ipad and I had no issues. \nI recommended you wait only because iOS 17 has been really buggy for me but that could be subjective.\nAlso if you want to stop it from updating while on power, go into settings -> general -> storage, find the update and delete it from the phone",
-                "comment_author": "Initial-Middle446",
-                "comment_dateTime": "2024-06-11 22:27:49",
-                "comment_score": 2,
-                "replies": []
             }
         ]
     },
@@ -144,37 +103,12 @@
                 "comment_dateTime": "2024-06-12 07:27:05",
                 "comment_score": 1,
                 "replies": []
-            },
-            {
-                "comment_id": "l86i244",
-                "comment_body": "I did the iPhone to iPhone transfer. Unfortunately it did exactly what I tried to avoid: re-downloaded all my apps and I had to log back into all of them. Maybe it's just not possible.",
-                "comment_author": "rvH3Ah8zFtRX",
-                "comment_dateTime": "2024-06-11 23:42:06",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l874kqk",
-                        "comment_body": "A password protected backup via iTunes will keep everything identical including saved PWs and apps logged in.",
-                        "comment_author": "reddittAcct9876154",
-                        "comment_dateTime": "2024-06-12 02:08:45",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l874kqk",
-                "comment_body": "A password protected backup via iTunes will keep everything identical including saved PWs and apps logged in.",
-                "comment_author": "reddittAcct9876154",
-                "comment_dateTime": "2024-06-12 02:08:45",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "How to recover deep hidden data from an app that’s been deleted from app-store? App no longer available in previously installed list also",
-        "post_score": 7,
+        "post_score": 6,
         "post_id": "1ddm4nw",
         "post_url": "https://i.redd.it/yuq3nbf3qz5d1.jpeg",
         "post_numComments": 5,
@@ -204,22 +138,6 @@
                 "comment_author": "tlasan1",
                 "comment_dateTime": "2024-06-12 01:01:25",
                 "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8qawl2",
-                "comment_body": "Will try and get back.. Thank you",
-                "comment_author": "AwwwItsMe",
-                "comment_dateTime": "2024-06-15 16:50:48",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l85r3v2",
-                "comment_body": "Pls allow this post @moderators",
-                "comment_author": "AwwwItsMe",
-                "comment_dateTime": "2024-06-11 21:10:54",
-                "comment_score": 3,
                 "replies": []
             }
         ]
@@ -268,14 +186,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l86jb0p",
-                "comment_body": "My phone storage is fine. I make it a habit to regularly check it and offload or delete apps I don’t currently need. As for my iCloud storage, I don’t really know, but I don’t see why that should cause my notes to crash. Wouldn’t it be the same for photos and messages and such if that were the case? Those take up much more memory than my notes.",
-                "comment_author": "Key-Literature-2134",
-                "comment_dateTime": "2024-06-11 23:49:32",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -304,14 +214,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l87o8xl",
-                "comment_body": "Worked like a charm. Thanks!",
-                "comment_author": "el_ktire",
-                "comment_dateTime": "2024-06-12 04:30:00",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -405,14 +307,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l85gek6",
-                "comment_body": "Of course I did before I bought a laptop from them. The laptop purchase was made before the iPhone and there were no problems then.",
-                "comment_author": "sayheytoyamom",
-                "comment_dateTime": "2024-06-11 20:12:01",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -441,14 +335,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l85hik9",
-                "comment_body": "Sorry if it’s a silly question, but how do you do that?",
-                "comment_author": "inquisation",
-                "comment_dateTime": "2024-06-11 20:18:09",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -554,7 +440,7 @@
                 "comment_body": "How about put the phone “upside down” and insert then sim 🤷🏽‍♂️",
                 "comment_author": "Jake_withaj",
                 "comment_dateTime": "2024-06-11 17:01:19",
-                "comment_score": 8,
+                "comment_score": 9,
                 "replies": []
             },
             {
@@ -657,54 +543,6 @@
                 "comment_dateTime": "2024-06-11 17:02:41",
                 "comment_score": -3,
                 "replies": []
-            },
-            {
-                "comment_id": "l84tmn1",
-                "comment_body": "The tray with the little notch appears to be inserting the wrong way he says. But we just got his phone unlocked so that's a start",
-                "comment_author": "b_yourself",
-                "comment_dateTime": "2024-06-11 18:06:50",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l84iw0s",
-                "comment_body": "I hear ya but he now lives in the jungle in Ecuador. Calls are difficult to make and definitely no reps around to help.  I'm trying to help him form US with the very little details that he is giving me. Thanks, though. I'm probably messing up what he is trying to tell me and I can't physically see what he's talking about so I appreciate you trying to help.",
-                "comment_author": "b_yourself",
-                "comment_dateTime": "2024-06-11 17:06:57",
-                "comment_score": 0,
-                "replies": []
-            },
-            {
-                "comment_id": "l8630n3",
-                "comment_body": "Maybe. He has been handling sim card transfers for his job for 20+ years while he goes back and forth to s. America and US so it looked off and his phone wasn't working. On top of it, the eSIM situation was new to him so it was a combination of confusing new things that we were troubleshooting to see what would actually get his phone to work.",
-                "comment_author": "b_yourself",
-                "comment_dateTime": "2024-06-11 22:16:54",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l863572",
-                "comment_body": "Thank you. That was what I told him! Lol we got it all working. Sometimes things in life are not what they appear 😎",
-                "comment_author": "b_yourself",
-                "comment_dateTime": "2024-06-11 22:17:36",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l862lhl",
-                "comment_body": "Thanks. from what I gather it just looked \"off\" to him compared to his old phone. He's been dealing with sim cards for 20+ years of his life. Little did we know, there were other larger issues at hand that were preventing him from using his phone down there. Thank you.",
-                "comment_author": "b_yourself",
-                "comment_dateTime": "2024-06-11 22:14:36",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8mz2kz",
-                "comment_body": "Lol probably!! 👉🏼😎👉🏼",
-                "comment_author": "b_yourself",
-                "comment_dateTime": "2024-06-14 22:58:12",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -729,7 +567,7 @@
     },
     {
         "post_title": "Removing IOS18 Developer beta",
-        "post_score": 0,
+        "post_score": 1,
         "post_id": "1ddexmd",
         "post_url": "https://www.reddit.com/r/iphone/comments/1ddexmd/removing_ios18_developer_beta/",
         "post_numComments": 2,
@@ -742,14 +580,6 @@
                 "comment_author": "ofdtv",
                 "comment_dateTime": "2024-06-11 16:29:59",
                 "comment_score": 10,
-                "replies": []
-            },
-            {
-                "comment_id": "l85kp3p",
-                "comment_body": "Me too, I posted this right after installing, my phone got warm for 30 minutes but after that it went back to normaI. It’s much more smooth, Im definitely keeping it.",
-                "comment_author": "cadzu",
-                "comment_dateTime": "2024-06-11 20:35:39",
-                "comment_score": 2,
                 "replies": []
             }
         ]
@@ -804,31 +634,6 @@
                 "comment_body": "Idk about the new update but you can always search for iphone 13 mini for example to see all the pictures you took with it. ",
                 "comment_author": "taha_simsek",
                 "comment_dateTime": "2024-06-11 16:57:46",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l844pk7",
-                "comment_body": "Then what? There’s no option that filters out non-captured images",
-                "comment_author": "Giohb777",
-                "comment_dateTime": "2024-06-11 15:41:57",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l845c0z",
-                        "comment_body": "I don't know all I have is the option to hide screenshots ",
-                        "comment_author": "Initial-Middle446",
-                        "comment_dateTime": "2024-06-11 15:45:59",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l845c0z",
-                "comment_body": "I don't know all I have is the option to hide screenshots ",
-                "comment_author": "Initial-Middle446",
-                "comment_dateTime": "2024-06-11 15:45:59",
                 "comment_score": 1,
                 "replies": []
             }
@@ -916,31 +721,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l8e8qnm",
-                "comment_body": "Will I still be able to use them both as normally? Like changing the wallpaper in the phone and to show on the watch or to still b able to update the watch to a newer watchOS 10 version?",
-                "comment_author": "ERO_Reddit_",
-                "comment_dateTime": "2024-06-13 09:57:26",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8ioy4l",
-                        "comment_body": "From what I've seen so far, the SE Gen 1 will NOT get WatchOS 11 when it comes out with iOS 18. You'll still be able to do all the things you're doing with it now, though. There are changes coming for home screen appearance, etc., but I don't play with the betas, so don't have any idea what it actually is going to look like.",
-                        "comment_author": "RetiredBSN",
-                        "comment_dateTime": "2024-06-14 03:51:16",
-                        "comment_score": 2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8ioy4l",
-                "comment_body": "From what I've seen so far, the SE Gen 1 will NOT get WatchOS 11 when it comes out with iOS 18. You'll still be able to do all the things you're doing with it now, though. There are changes coming for home screen appearance, etc., but I don't play with the betas, so don't have any idea what it actually is going to look like.",
-                "comment_author": "RetiredBSN",
-                "comment_dateTime": "2024-06-14 03:51:16",
-                "comment_score": 2,
-                "replies": []
             }
         ]
     },
@@ -1052,92 +832,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l83dtsp",
-                "comment_body": "i said WHILE updating to ios 18",
-                "comment_author": "Brodie1other",
-                "comment_dateTime": "2024-06-11 11:56:29",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l83dutn",
-                        "comment_body": "I noticed and edited 😊",
-                        "comment_author": "HerrBadger",
-                        "comment_dateTime": "2024-06-11 11:56:48",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l83dw26",
-                                "comment_body": "what do u mean reset network settings?",
-                                "comment_author": "Brodie1other",
-                                "comment_dateTime": "2024-06-11 11:57:12",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l83fcpf",
-                                        "comment_body": "Before you do, are any other devices on your network dropping out? Have you restarted your router? Are you in range of it? Have you restarted your iPhone first? \n\nAlso, I’d go to Settings > Mobile Data, scroll all the way down and turn WiFi assist off. \n\nIf all else fails, to reset your network settings, you go to Settings > General > Transfer or Reser iPhone > Reset > Reset network settings \n\nIt’ll clear your known WiFi networks, but it should flush out any issues if that’s it.",
-                                        "comment_author": "HerrBadger",
-                                        "comment_dateTime": "2024-06-11 12:13:41",
-                                        "comment_score": 2,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l83dutn",
-                "comment_body": "I noticed and edited 😊",
-                "comment_author": "HerrBadger",
-                "comment_dateTime": "2024-06-11 11:56:48",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l83dw26",
-                        "comment_body": "what do u mean reset network settings?",
-                        "comment_author": "Brodie1other",
-                        "comment_dateTime": "2024-06-11 11:57:12",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l83fcpf",
-                                "comment_body": "Before you do, are any other devices on your network dropping out? Have you restarted your router? Are you in range of it? Have you restarted your iPhone first? \n\nAlso, I’d go to Settings > Mobile Data, scroll all the way down and turn WiFi assist off. \n\nIf all else fails, to reset your network settings, you go to Settings > General > Transfer or Reser iPhone > Reset > Reset network settings \n\nIt’ll clear your known WiFi networks, but it should flush out any issues if that’s it.",
-                                "comment_author": "HerrBadger",
-                                "comment_dateTime": "2024-06-11 12:13:41",
-                                "comment_score": 2,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l83dw26",
-                "comment_body": "what do u mean reset network settings?",
-                "comment_author": "Brodie1other",
-                "comment_dateTime": "2024-06-11 11:57:12",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l83fcpf",
-                        "comment_body": "Before you do, are any other devices on your network dropping out? Have you restarted your router? Are you in range of it? Have you restarted your iPhone first? \n\nAlso, I’d go to Settings > Mobile Data, scroll all the way down and turn WiFi assist off. \n\nIf all else fails, to reset your network settings, you go to Settings > General > Transfer or Reser iPhone > Reset > Reset network settings \n\nIt’ll clear your known WiFi networks, but it should flush out any issues if that’s it.",
-                        "comment_author": "HerrBadger",
-                        "comment_dateTime": "2024-06-11 12:13:41",
-                        "comment_score": 2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l83fcpf",
-                "comment_body": "Before you do, are any other devices on your network dropping out? Have you restarted your router? Are you in range of it? Have you restarted your iPhone first? \n\nAlso, I’d go to Settings > Mobile Data, scroll all the way down and turn WiFi assist off. \n\nIf all else fails, to reset your network settings, you go to Settings > General > Transfer or Reser iPhone > Reset > Reset network settings \n\nIt’ll clear your known WiFi networks, but it should flush out any issues if that’s it.",
-                "comment_author": "HerrBadger",
-                "comment_dateTime": "2024-06-11 12:13:41",
-                "comment_score": 2,
-                "replies": []
             }
         ]
     },
@@ -1155,7 +849,7 @@
                 "comment_body": "Clean your lenses and don't shoot into lights.",
                 "comment_author": "rboab",
                 "comment_dateTime": "2024-06-11 09:52:19",
-                "comment_score": 8,
+                "comment_score": 9,
                 "replies": []
             },
             {
@@ -1191,31 +885,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l83hi50",
-                "comment_body": "My dad has the same phone and when we compared both together mine had way more light blur than his 🤷",
-                "comment_author": "Dzrs",
-                "comment_dateTime": "2024-06-11 12:36:50",
-                "comment_score": 0,
-                "replies": [
-                    {
-                        "comment_id": "l83hwm6",
-                        "comment_body": "Oh, if the photos are taken  the same way and still there is a difference, you might want to check it out. Just to be sure , compare it with 3 sets of photos from both iphones and different subjects every set, so that you can learn where is the problem. That would save some money.",
-                        "comment_author": "bharathinreddit",
-                        "comment_dateTime": "2024-06-11 12:41:00",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l83hwm6",
-                "comment_body": "Oh, if the photos are taken  the same way and still there is a difference, you might want to check it out. Just to be sure , compare it with 3 sets of photos from both iphones and different subjects every set, so that you can learn where is the problem. That would save some money.",
-                "comment_author": "bharathinreddit",
-                "comment_dateTime": "2024-06-11 12:41:00",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1271,22 +940,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l84l93f",
-                "comment_body": "Yea I meant a sim card",
-                "comment_author": "One-Lie515",
-                "comment_dateTime": "2024-06-11 17:20:27",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l87ywst",
-                "comment_body": "The thing is I already did and they will not escalate it further, I did nothing wrong to warrant a deactivation",
-                "comment_author": "One-Lie515",
-                "comment_dateTime": "2024-06-12 05:52:05",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1325,22 +978,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l843srq",
-                "comment_body": "I deleted the Apple Music app because of this. It’s beyond stupid you can have a setting to disable auto play.",
-                "comment_author": "cheoahbald",
-                "comment_dateTime": "2024-06-11 15:36:00",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l83wzl8",
-                "comment_body": "I feel so dumb, thought it was a system app that couldn't be deleted. Thank you!!!!",
-                "comment_author": "Fort_u_nato",
-                "comment_dateTime": "2024-06-11 14:49:13",
-                "comment_score": 3,
-                "replies": []
             }
         ]
     },
@@ -1368,14 +1005,14 @@
                 "comment_body": "How do you even have Developer Beta option if you have all these questions?",
                 "comment_author": "homebridgeenthusiast",
                 "comment_dateTime": "2024-06-11 13:30:48",
-                "comment_score": 7,
+                "comment_score": 9,
                 "replies": [
                     {
                         "comment_id": "l83np2k",
                         "comment_body": "Probably followed a YouTube video without any idea of what's going on ",
                         "comment_author": "Lower_Fan",
                         "comment_dateTime": "2024-06-11 13:35:12",
-                        "comment_score": 9,
+                        "comment_score": 8,
                         "replies": [
                             {
                                 "comment_id": "l8a4vkh",
@@ -1394,7 +1031,7 @@
                 "comment_body": "IOS 18 Public beta is coming next month if I remember right from wwdc. Only developer beta is out rn",
                 "comment_author": "Individual_Young_716",
                 "comment_dateTime": "2024-06-11 08:46:19",
-                "comment_score": 5,
+                "comment_score": 3,
                 "replies": [
                     {
                         "comment_id": "l82ydyt",
@@ -1408,7 +1045,7 @@
                                 "comment_body": "If you want a stable bug free experience do not download any beta. It's not worth it.",
                                 "comment_author": "Manoj200801",
                                 "comment_dateTime": "2024-06-11 08:50:33",
-                                "comment_score": 8,
+                                "comment_score": 9,
                                 "replies": [
                                     {
                                         "comment_id": "l830um2",
@@ -1526,390 +1163,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l83np2k",
-                "comment_body": "Probably followed a YouTube video without any idea of what's going on ",
-                "comment_author": "Lower_Fan",
-                "comment_dateTime": "2024-06-11 13:35:12",
-                "comment_score": 9,
-                "replies": [
-                    {
-                        "comment_id": "l8a4vkh",
-                        "comment_body": "Naaa googled about beta and got into a apple website then just followed the instructions and now just before i want to update i was wandering  why isn’t the public beta not showing and then I discovered that its recommended to backup everything before updating to beta version and that made me come here (wamp wamp)",
-                        "comment_author": "Alvi_sheikh",
-                        "comment_dateTime": "2024-06-12 17:19:29",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l82ydyt",
-                "comment_body": "Should i download it or i shouldn’t download it?",
-                "comment_author": "Alvi_sheikh",
-                "comment_dateTime": "2024-06-11 08:49:20",
-                "comment_score": -2,
-                "replies": [
-                    {
-                        "comment_id": "l82yhwf",
-                        "comment_body": "If you want a stable bug free experience do not download any beta. It's not worth it.",
-                        "comment_author": "Manoj200801",
-                        "comment_dateTime": "2024-06-11 08:50:33",
-                        "comment_score": 8,
-                        "replies": [
-                            {
-                                "comment_id": "l830um2",
-                                "comment_body": "Getting Bug’s is no problemo’ for me. I was wandering that in a youtube video they told to backuo my phone why is that is there any rick?",
-                                "comment_author": "Alvi_sheikh",
-                                "comment_dateTime": "2024-06-11 09:17:43",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8343qw",
-                                        "comment_body": "It’s not real stable. I’m having a few issues. It’s pretty laggy, I’ve crashed about 4 times in the last 10 hours. It seems to be working itself out but if you don’t know what you’re doing, I’d suggest waiting.",
-                                        "comment_author": "CYPH3R_22",
-                                        "comment_dateTime": "2024-06-11 09:57:22",
-                                        "comment_score": 3,
-                                        "replies": []
-                                    },
-                                    {
-                                        "comment_id": "l83nmis",
-                                        "comment_body": "You can't go back to the stable channel from the developer beta unless you restore your phone, so make sure you have a backup to do the restore ",
-                                        "comment_author": "Lower_Fan",
-                                        "comment_dateTime": "2024-06-11 13:34:35",
-                                        "comment_score": 3,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l8b1494",
-                                                "comment_body": "So public beta is a better option than developer beta? Or i am screwed if i choose ether of them",
-                                                "comment_author": "Alvi_sheikh",
-                                                "comment_dateTime": "2024-06-12 20:19:43",
-                                                "comment_score": 1,
-                                                "replies": [
-                                                    {
-                                                        "comment_id": "l8bwasx",
-                                                        "comment_body": "Public beta is better option yes. You can switch to the stable channel once it comes out ",
-                                                        "comment_author": "Lower_Fan",
-                                                        "comment_dateTime": "2024-06-12 23:11:47",
-                                                        "comment_score": 2,
-                                                        "replies": [
-                                                            {
-                                                                "comment_id": "l8fulj3",
-                                                                "comment_body": "So waiting for the public beta is worth the wait…",
-                                                                "comment_author": "Alvi_sheikh",
-                                                                "comment_dateTime": "2024-06-13 17:40:09",
-                                                                "comment_score": 1,
-                                                                "replies": []
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "comment_id": "l83dl9h",
-                                        "comment_body": "Backing up was just to make sure to revert back once you encounter those buggy unstable experience",
-                                        "comment_author": "Manoj200801",
-                                        "comment_dateTime": "2024-06-11 11:53:45",
-                                        "comment_score": 2,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8a4buj",
-                "comment_body": "Can i edit it now?",
-                "comment_author": "Alvi_sheikh",
-                "comment_dateTime": "2024-06-12 17:16:19",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8a5s6g",
-                        "comment_body": "You can edit your post sure.",
-                        "comment_author": "Strvctvred",
-                        "comment_dateTime": "2024-06-12 17:24:53",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8a5cpk",
-                "comment_body": "Btw i how did you get that iphone  15 pro title under your name?",
-                "comment_author": "Alvi_sheikh",
-                "comment_dateTime": "2024-06-12 17:22:21",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8a6c96",
-                        "comment_body": "User Flair in the subreddit: https://support.reddithelp.com/hc/en-us/articles/15484503095060-User-Flair",
-                        "comment_author": "Strvctvred",
-                        "comment_dateTime": "2024-06-12 17:28:06",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8a4vkh",
-                "comment_body": "Naaa googled about beta and got into a apple website then just followed the instructions and now just before i want to update i was wandering  why isn’t the public beta not showing and then I discovered that its recommended to backup everything before updating to beta version and that made me come here (wamp wamp)",
-                "comment_author": "Alvi_sheikh",
-                "comment_dateTime": "2024-06-12 17:19:29",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l82yhwf",
-                "comment_body": "If you want a stable bug free experience do not download any beta. It's not worth it.",
-                "comment_author": "Manoj200801",
-                "comment_dateTime": "2024-06-11 08:50:33",
-                "comment_score": 8,
-                "replies": [
-                    {
-                        "comment_id": "l830um2",
-                        "comment_body": "Getting Bug’s is no problemo’ for me. I was wandering that in a youtube video they told to backuo my phone why is that is there any rick?",
-                        "comment_author": "Alvi_sheikh",
-                        "comment_dateTime": "2024-06-11 09:17:43",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l8343qw",
-                                "comment_body": "It’s not real stable. I’m having a few issues. It’s pretty laggy, I’ve crashed about 4 times in the last 10 hours. It seems to be working itself out but if you don’t know what you’re doing, I’d suggest waiting.",
-                                "comment_author": "CYPH3R_22",
-                                "comment_dateTime": "2024-06-11 09:57:22",
-                                "comment_score": 3,
-                                "replies": []
-                            },
-                            {
-                                "comment_id": "l83nmis",
-                                "comment_body": "You can't go back to the stable channel from the developer beta unless you restore your phone, so make sure you have a backup to do the restore ",
-                                "comment_author": "Lower_Fan",
-                                "comment_dateTime": "2024-06-11 13:34:35",
-                                "comment_score": 3,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8b1494",
-                                        "comment_body": "So public beta is a better option than developer beta? Or i am screwed if i choose ether of them",
-                                        "comment_author": "Alvi_sheikh",
-                                        "comment_dateTime": "2024-06-12 20:19:43",
-                                        "comment_score": 1,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l8bwasx",
-                                                "comment_body": "Public beta is better option yes. You can switch to the stable channel once it comes out ",
-                                                "comment_author": "Lower_Fan",
-                                                "comment_dateTime": "2024-06-12 23:11:47",
-                                                "comment_score": 2,
-                                                "replies": [
-                                                    {
-                                                        "comment_id": "l8fulj3",
-                                                        "comment_body": "So waiting for the public beta is worth the wait…",
-                                                        "comment_author": "Alvi_sheikh",
-                                                        "comment_dateTime": "2024-06-13 17:40:09",
-                                                        "comment_score": 1,
-                                                        "replies": []
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "comment_id": "l83dl9h",
-                                "comment_body": "Backing up was just to make sure to revert back once you encounter those buggy unstable experience",
-                                "comment_author": "Manoj200801",
-                                "comment_dateTime": "2024-06-11 11:53:45",
-                                "comment_score": 2,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8a5s6g",
-                "comment_body": "You can edit your post sure.",
-                "comment_author": "Strvctvred",
-                "comment_dateTime": "2024-06-12 17:24:53",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8a6c96",
-                "comment_body": "User Flair in the subreddit: https://support.reddithelp.com/hc/en-us/articles/15484503095060-User-Flair",
-                "comment_author": "Strvctvred",
-                "comment_dateTime": "2024-06-12 17:28:06",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l830um2",
-                "comment_body": "Getting Bug’s is no problemo’ for me. I was wandering that in a youtube video they told to backuo my phone why is that is there any rick?",
-                "comment_author": "Alvi_sheikh",
-                "comment_dateTime": "2024-06-11 09:17:43",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8343qw",
-                        "comment_body": "It’s not real stable. I’m having a few issues. It’s pretty laggy, I’ve crashed about 4 times in the last 10 hours. It seems to be working itself out but if you don’t know what you’re doing, I’d suggest waiting.",
-                        "comment_author": "CYPH3R_22",
-                        "comment_dateTime": "2024-06-11 09:57:22",
-                        "comment_score": 3,
-                        "replies": []
-                    },
-                    {
-                        "comment_id": "l83nmis",
-                        "comment_body": "You can't go back to the stable channel from the developer beta unless you restore your phone, so make sure you have a backup to do the restore ",
-                        "comment_author": "Lower_Fan",
-                        "comment_dateTime": "2024-06-11 13:34:35",
-                        "comment_score": 3,
-                        "replies": [
-                            {
-                                "comment_id": "l8b1494",
-                                "comment_body": "So public beta is a better option than developer beta? Or i am screwed if i choose ether of them",
-                                "comment_author": "Alvi_sheikh",
-                                "comment_dateTime": "2024-06-12 20:19:43",
-                                "comment_score": 1,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8bwasx",
-                                        "comment_body": "Public beta is better option yes. You can switch to the stable channel once it comes out ",
-                                        "comment_author": "Lower_Fan",
-                                        "comment_dateTime": "2024-06-12 23:11:47",
-                                        "comment_score": 2,
-                                        "replies": [
-                                            {
-                                                "comment_id": "l8fulj3",
-                                                "comment_body": "So waiting for the public beta is worth the wait…",
-                                                "comment_author": "Alvi_sheikh",
-                                                "comment_dateTime": "2024-06-13 17:40:09",
-                                                "comment_score": 1,
-                                                "replies": []
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "comment_id": "l83dl9h",
-                        "comment_body": "Backing up was just to make sure to revert back once you encounter those buggy unstable experience",
-                        "comment_author": "Manoj200801",
-                        "comment_dateTime": "2024-06-11 11:53:45",
-                        "comment_score": 2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8343qw",
-                "comment_body": "It’s not real stable. I’m having a few issues. It’s pretty laggy, I’ve crashed about 4 times in the last 10 hours. It seems to be working itself out but if you don’t know what you’re doing, I’d suggest waiting.",
-                "comment_author": "CYPH3R_22",
-                "comment_dateTime": "2024-06-11 09:57:22",
-                "comment_score": 3,
-                "replies": []
-            },
-            {
-                "comment_id": "l83nmis",
-                "comment_body": "You can't go back to the stable channel from the developer beta unless you restore your phone, so make sure you have a backup to do the restore ",
-                "comment_author": "Lower_Fan",
-                "comment_dateTime": "2024-06-11 13:34:35",
-                "comment_score": 3,
-                "replies": [
-                    {
-                        "comment_id": "l8b1494",
-                        "comment_body": "So public beta is a better option than developer beta? Or i am screwed if i choose ether of them",
-                        "comment_author": "Alvi_sheikh",
-                        "comment_dateTime": "2024-06-12 20:19:43",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l8bwasx",
-                                "comment_body": "Public beta is better option yes. You can switch to the stable channel once it comes out ",
-                                "comment_author": "Lower_Fan",
-                                "comment_dateTime": "2024-06-12 23:11:47",
-                                "comment_score": 2,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8fulj3",
-                                        "comment_body": "So waiting for the public beta is worth the wait…",
-                                        "comment_author": "Alvi_sheikh",
-                                        "comment_dateTime": "2024-06-13 17:40:09",
-                                        "comment_score": 1,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l83dl9h",
-                "comment_body": "Backing up was just to make sure to revert back once you encounter those buggy unstable experience",
-                "comment_author": "Manoj200801",
-                "comment_dateTime": "2024-06-11 11:53:45",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8b1494",
-                "comment_body": "So public beta is a better option than developer beta? Or i am screwed if i choose ether of them",
-                "comment_author": "Alvi_sheikh",
-                "comment_dateTime": "2024-06-12 20:19:43",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8bwasx",
-                        "comment_body": "Public beta is better option yes. You can switch to the stable channel once it comes out ",
-                        "comment_author": "Lower_Fan",
-                        "comment_dateTime": "2024-06-12 23:11:47",
-                        "comment_score": 2,
-                        "replies": [
-                            {
-                                "comment_id": "l8fulj3",
-                                "comment_body": "So waiting for the public beta is worth the wait…",
-                                "comment_author": "Alvi_sheikh",
-                                "comment_dateTime": "2024-06-13 17:40:09",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8bwasx",
-                "comment_body": "Public beta is better option yes. You can switch to the stable channel once it comes out ",
-                "comment_author": "Lower_Fan",
-                "comment_dateTime": "2024-06-12 23:11:47",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8fulj3",
-                        "comment_body": "So waiting for the public beta is worth the wait…",
-                        "comment_author": "Alvi_sheikh",
-                        "comment_dateTime": "2024-06-13 17:40:09",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8fulj3",
-                "comment_body": "So waiting for the public beta is worth the wait…",
-                "comment_author": "Alvi_sheikh",
-                "comment_dateTime": "2024-06-13 17:40:09",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1927,7 +1180,7 @@
                 "comment_body": "> the lost phone has Find My turned off\n\nWell there's your problem. Realistically, you're probably out of luck, whoever finds the phone will reset it and enjoy their new phone.\n\nMaybe you'll get lucky and they'll try to reach you, but without a working SIM your odds of anyone jumping through the additional hoops go way down.",
                 "comment_author": "thedaveCA",
                 "comment_dateTime": "2024-06-11 08:33:07",
-                "comment_score": 5,
+                "comment_score": 4,
                 "replies": [
                     {
                         "comment_id": "l87ap5a",
@@ -1963,57 +1216,6 @@
                 "comment_author": "HauntingReddit88",
                 "comment_dateTime": "2024-06-11 08:08:36",
                 "comment_score": 0,
-                "replies": []
-            },
-            {
-                "comment_id": "l87ap5a",
-                "comment_body": "What if Find My was enabled, what can I do?",
-                "comment_author": "Brownboysea",
-                "comment_dateTime": "2024-06-12 02:52:32",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l87h0ue",
-                        "comment_body": "Track the phone, get a location if it is spotted by other devices (potentially, anyway). And most importantly, someone who finds it can't wipe it and use it, which won't stop a professional thief but it may encourage a somewhat honest person to contact you.",
-                        "comment_author": "thedaveCA",
-                        "comment_dateTime": "2024-06-12 03:37:49",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l87h4xt",
-                                "comment_body": "Thanks",
-                                "comment_author": "Brownboysea",
-                                "comment_dateTime": "2024-06-12 03:38:38",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l87h0ue",
-                "comment_body": "Track the phone, get a location if it is spotted by other devices (potentially, anyway). And most importantly, someone who finds it can't wipe it and use it, which won't stop a professional thief but it may encourage a somewhat honest person to contact you.",
-                "comment_author": "thedaveCA",
-                "comment_dateTime": "2024-06-12 03:37:49",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l87h4xt",
-                        "comment_body": "Thanks",
-                        "comment_author": "Brownboysea",
-                        "comment_dateTime": "2024-06-12 03:38:38",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l87h4xt",
-                "comment_body": "Thanks",
-                "comment_author": "Brownboysea",
-                "comment_dateTime": "2024-06-12 03:38:38",
-                "comment_score": 1,
                 "replies": []
             }
         ]
@@ -2111,7 +1313,7 @@
                 "comment_body": "I haven’t dropped it in water or anything. This is completely random as far as I’m aware",
                 "comment_author": "ImAreptile2355",
                 "comment_dateTime": "2024-06-11 06:48:58",
-                "comment_score": 4,
+                "comment_score": 5,
                 "replies": [
                     {
                         "comment_id": "l82t3ej",
@@ -2146,39 +1348,6 @@
                 "comment_dateTime": "2024-06-11 11:57:26",
                 "comment_score": -1,
                 "replies": []
-            },
-            {
-                "comment_id": "l82p1nu",
-                "comment_body": "😂ya that number looks bad but I stg it’s all spam stuff I just never clean it out 😅",
-                "comment_author": "ImAreptile2355",
-                "comment_dateTime": "2024-06-11 07:10:44",
-                "comment_score": 3,
-                "replies": [
-                    {
-                        "comment_id": "l82tnyu",
-                        "comment_body": "Sure…..sure…. 🤣 😉 \n\nAs far as the phone goes, you could try some compressed air (gently) or even a can of ‘air duster’ - the stuff used to clean out computer keyboards etc. maybe even a hairdryer on low heat 🤷‍♂️ \n\nhttps://www.tradeflame.com/air-duster\n\nIt *may* work, but no guarantees sorry",
-                        "comment_author": "Winter-Love-3812",
-                        "comment_dateTime": "2024-06-11 07:57:33",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l82t3ej",
-                "comment_body": "then it could be a bad charging cable or bad charging port. any visual damage on either?",
-                "comment_author": "dayankuo234",
-                "comment_dateTime": "2024-06-11 07:51:35",
-                "comment_score": 5,
-                "replies": []
-            },
-            {
-                "comment_id": "l82tnyu",
-                "comment_body": "Sure…..sure…. 🤣 😉 \n\nAs far as the phone goes, you could try some compressed air (gently) or even a can of ‘air duster’ - the stuff used to clean out computer keyboards etc. maybe even a hairdryer on low heat 🤷‍♂️ \n\nhttps://www.tradeflame.com/air-duster\n\nIt *may* work, but no guarantees sorry",
-                "comment_author": "Winter-Love-3812",
-                "comment_dateTime": "2024-06-11 07:57:33",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -2207,14 +1376,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8dhvfd",
-                "comment_body": "Turns out I had a sync to my photos on my Mac, so crisis has been resolved!!!",
-                "comment_author": "Yogurt_clam_chowder",
-                "comment_dateTime": "2024-06-13 05:29:59",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -2262,14 +1423,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l82mtaj",
-                "comment_body": "Thanks, didn’t work. Safari still struggling, and noticed the photos app is also freezing.",
-                "comment_author": "HeatFan_LA",
-                "comment_dateTime": "2024-06-11 06:49:34",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -2314,20 +1467,12 @@
                 "comment_dateTime": "2024-06-13 10:58:42",
                 "comment_score": 1,
                 "replies": []
-            },
-            {
-                "comment_id": "l8229dy",
-                "comment_body": "I don’t think iTunes lets you transfer from files app.",
-                "comment_author": "Jft91",
-                "comment_dateTime": "2024-06-11 04:08:09",
-                "comment_score": 2,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "Quicktime logo flashes after skipping intro on apple tv shows?",
-        "post_score": 9,
+        "post_score": 8,
         "post_id": "1dd2o3m",
         "post_url": "https://i.redd.it/bddyh8fllu5d1.jpeg",
         "post_numComments": 2,
@@ -2366,7 +1511,7 @@
                 "comment_body": "Oh, honey",
                 "comment_author": "burner46",
                 "comment_dateTime": "2024-06-11 03:37:11",
-                "comment_score": 3,
+                "comment_score": 4,
                 "replies": []
             },
             {

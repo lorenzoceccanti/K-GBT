@@ -11,7 +11,7 @@
     },
     {
         "post_title": "How can I find who is leaving threatening voicemail from “unknown” number.",
-        "post_score": 6,
+        "post_score": 9,
         "post_id": "1dhp1lc",
         "post_url": "https://www.reddit.com/r/iphone/comments/1dhp1lc/how_can_i_find_who_is_leaving_threatening/",
         "post_numComments": 7,
@@ -31,7 +31,7 @@
                 "comment_body": "Have you tried tracing the number with apps like TrapCall or Truecaller?",
                 "comment_author": "DolorumDerideo9005",
                 "comment_dateTime": "2024-06-17 07:03:16",
-                "comment_score": 5,
+                "comment_score": 4,
                 "replies": []
             },
             {
@@ -78,7 +78,7 @@
     },
     {
         "post_title": "Help with notification…",
-        "post_score": 1,
+        "post_score": 0,
         "post_id": "1dho58c",
         "post_url": "https://i.redd.it/5knhl0jbr17d1.jpeg",
         "post_numComments": 11,
@@ -90,7 +90,7 @@
                 "comment_body": "i have nothing to add of value but that annotation made me giggle!!!!",
                 "comment_author": "XIntellectualSlayerX",
                 "comment_dateTime": "2024-06-17 05:12:00",
-                "comment_score": 4,
+                "comment_score": 5,
                 "replies": [
                     {
                         "comment_id": "l8yf2iv",
@@ -167,55 +167,6 @@
                 "comment_body": "I’m not completely sure if this will work since I have a phone with the Dynamic Island, but whenever I get a persistent location notification like yours, if possible, you can go into settings and set the location of the app to “Always” instead of “While Using”, and it’ll go away. Not all apps let you choose “Always”, though. I believe they have to request special permissions for it to show. I also don’t know if it could be a potential battery drain, I suppose it depends on the app, but I’ve had no problems so far doing it.",
                 "comment_author": "StellarAelwyd",
                 "comment_dateTime": "2024-06-18 05:07:25",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8yf2iv",
-                "comment_body": "It’s one of those situations where today I either laugh at myself or I throw the phone across the room.",
-                "comment_author": "tangentgirlnat",
-                "comment_dateTime": "2024-06-17 06:05:16",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8yfkjl",
-                        "comment_body": "LMAOOO",
-                        "comment_author": "XIntellectualSlayerX",
-                        "comment_dateTime": "2024-06-17 06:09:53",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8yfkwm",
-                "comment_body": "Unfortunately I can’t turn that off. Not sure if the app doesn’t allow it, which would make sense because it’s a safety app that has to be able to let emergency services know exact location if it’s needed.",
-                "comment_author": "tangentgirlnat",
-                "comment_dateTime": "2024-06-17 06:09:58",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8yulbz",
-                "comment_body": "Ha! No choice in the matter! I’m out in the country where Telstra has the best coverage and it’s a work phone!",
-                "comment_author": "tangentgirlnat",
-                "comment_dateTime": "2024-06-17 08:47:13",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l93396l",
-                "comment_body": "Thanks! I toggled and it did not make a difference, but then I toggled on again and it’s gone away! I’ll see how long that lasts for!",
-                "comment_author": "tangentgirlnat",
-                "comment_dateTime": "2024-06-18 02:45:12",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8yfkjl",
-                "comment_body": "LMAOOO",
-                "comment_author": "XIntellectualSlayerX",
-                "comment_dateTime": "2024-06-17 06:09:53",
                 "comment_score": 1,
                 "replies": []
             }
@@ -395,20 +346,12 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8xlss1",
-                "comment_body": "i cant trade it in. but i will try and get both replaced",
-                "comment_author": "thehotdog_1238",
-                "comment_dateTime": "2024-06-17 02:13:13",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "Is this legit?",
-        "post_score": 3,
+        "post_score": 1,
         "post_id": "1dhje02",
         "post_url": "https://i.redd.it/ddvhgnp3i07d1.jpeg",
         "post_numComments": 8,
@@ -420,7 +363,7 @@
                 "comment_body": "Yes.",
                 "comment_author": "HAND_HOOK_CAR_DOOR",
                 "comment_dateTime": "2024-06-17 00:45:39",
-                "comment_score": 38,
+                "comment_score": 39,
                 "replies": [
                     {
                         "comment_id": "l8z8vn5",
@@ -437,7 +380,7 @@
                 "comment_body": "Yup. Open up passwords in settings and it’ll show you which ones.",
                 "comment_author": "Educational_Worth906",
                 "comment_dateTime": "2024-06-17 00:58:12",
-                "comment_score": 19,
+                "comment_score": 18,
                 "replies": []
             },
             {
@@ -445,7 +388,7 @@
                 "comment_body": "It's just checking databases of leaked credentials and probably found a match for your email address. 1Password has a similar feature. They partner with [Have I Ben Pwned](https://haveibeenpwned.com) for theirs. Unfortunately, your credentials being part of a data leak is common and expected these days. The actual leak probably happened months or even years ago. Go check the passwords section and change whichever ones it indicates have been compromised. Remember that just because your credential were matched doesn't mean your password was leaked in a usable form or that anyone actually accessed your accounts.",
                 "comment_author": "0000GKP",
                 "comment_dateTime": "2024-06-17 02:16:19",
-                "comment_score": 18,
+                "comment_score": 19,
                 "replies": []
             },
             {
@@ -481,39 +424,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l8z8vn5",
-                "comment_body": "Thanks.",
-                "comment_author": "Szabihh",
-                "comment_dateTime": "2024-06-17 11:45:15",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8xizfd",
-                "comment_body": "Canadian spelling",
-                "comment_author": "BarhamGizmo",
-                "comment_dateTime": "2024-06-17 01:52:31",
-                "comment_score": 6,
-                "replies": [
-                    {
-                        "comment_id": "l8xnozc",
-                        "comment_body": "gross",
-                        "comment_author": "Plus-Statistician538",
-                        "comment_dateTime": "2024-06-17 02:27:15",
-                        "comment_score": -7,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8xnozc",
-                "comment_body": "gross",
-                "comment_author": "Plus-Statistician538",
-                "comment_dateTime": "2024-06-17 02:27:15",
-                "comment_score": -7,
-                "replies": []
             }
         ]
     },
@@ -531,6 +441,14 @@
                 "comment_body": "You fucked up. If you don’t trust him then don’t give him that kind of power",
                 "comment_author": "Wrestling-Nun",
                 "comment_dateTime": "2024-06-17 02:06:34",
+                "comment_score": 3,
+                "replies": []
+            },
+            {
+                "comment_id": "l8xlg3t",
+                "comment_body": "So change your ph password now and dont give it to him again",
+                "comment_author": "Ornery-Practice9772",
+                "comment_dateTime": "2024-06-17 02:10:37",
                 "comment_score": 2,
                 "replies": []
             },
@@ -539,14 +457,6 @@
                 "comment_body": "Not yet, but iOS 18 has an option to set any app to require Face ID but I’ve not tried it. That said, almost everything that requires Face ID can also be accessed via the passcode, so there’s a good chance that will not actually help.",
                 "comment_author": "Toninho7",
                 "comment_dateTime": "2024-06-17 01:04:55",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8xlg3t",
-                "comment_body": "So change your ph password now and dont give it to him again",
-                "comment_author": "Ornery-Practice9772",
-                "comment_dateTime": "2024-06-17 02:10:37",
                 "comment_score": 1,
                 "replies": []
             },
@@ -639,31 +549,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l8yle92",
-                "comment_body": "I have windows 10 with the iTunes already installed",
-                "comment_author": "stevie855",
-                "comment_dateTime": "2024-06-17 07:06:27",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8yo7r5",
-                        "comment_body": "You don't need iTunes to copy the pictures from a phone to your PC. When I plug in my iPhone, the Pictures app opens in Win10 and I can import the pictures.",
-                        "comment_author": "molybend",
-                        "comment_dateTime": "2024-06-17 07:35:54",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8yo7r5",
-                "comment_body": "You don't need iTunes to copy the pictures from a phone to your PC. When I plug in my iPhone, the Pictures app opens in Win10 and I can import the pictures.",
-                "comment_author": "molybend",
-                "comment_dateTime": "2024-06-17 07:35:54",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -721,31 +606,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l8yiy0n",
-                "comment_body": "Send total of 4 messages 2 have delivered in down part last 2 don’t have",
-                "comment_author": "Kind_Interaction_880",
-                "comment_dateTime": "2024-06-17 06:41:59",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8yrbfa",
-                        "comment_body": "It’s blue bubble",
-                        "comment_author": "Kind_Interaction_880",
-                        "comment_dateTime": "2024-06-17 08:09:37",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8yrbfa",
-                "comment_body": "It’s blue bubble",
-                "comment_author": "Kind_Interaction_880",
-                "comment_dateTime": "2024-06-17 08:09:37",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -799,14 +659,6 @@
                 "comment_body": "https://preview.redd.it/m9d7sizl307d1.jpeg?width=1290&format=pjpg&auto=webp&s=6fb1364ab8bdf586c66d9b2ebbfb5a2bddf5e884\n\nthis is all the photos i have, this is not supposed to take 18 gbs as none of the videos are long at all",
                 "comment_author": "PrathamDobhal",
                 "comment_dateTime": "2024-06-16 23:21:52",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8wx51p",
-                "comment_body": "yes recently deleted is empty",
-                "comment_author": "PrathamDobhal",
-                "comment_dateTime": "2024-06-16 23:19:49",
                 "comment_score": 1,
                 "replies": []
             }
@@ -958,28 +810,12 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8yousz",
-                "comment_body": "yea i tried that, she gets no notification and i don’t know how else to fix it",
-                "comment_author": "Noraxx__",
-                "comment_dateTime": "2024-06-17 07:42:44",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8yoy4n",
-                "comment_body": "ah sorry but i can’t really switch, i’ve been using it for 7 years haha",
-                "comment_author": "Noraxx__",
-                "comment_dateTime": "2024-06-17 07:43:44",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "iPhone 14 Pro cracked back important or no?",
-        "post_score": 14,
+        "post_score": 15,
         "post_id": "1dhde4z",
         "post_url": "https://i.redd.it/qczg1lzg4z6d1.jpeg",
         "post_numComments": 11,
@@ -991,14 +827,14 @@
                 "comment_body": "I wouldn’t risk it. I see your issue with apple support but you might want to consider third party repair services or check in with apple support themselves before the repair. Sorry about your phone",
                 "comment_author": "Jacques__ok",
                 "comment_dateTime": "2024-06-16 21:26:48",
-                "comment_score": 9,
+                "comment_score": 7,
                 "replies": [
                     {
                         "comment_id": "l8wfmoa",
                         "comment_body": "Yeah, I just ordered an iPhone 15 Pro for pickup tomorrow morning. Sucks, but with Greece having a heat wave I can’t risk it, and at least this way I’ll have access to my data even after transferring it. I don’t have to delete my old phone, right? I can use it as a back up, transfer my data and then leave it as is? I’ll have to transfer my airline apps and booking codes.",
                         "comment_author": "olympiaso",
                         "comment_dateTime": "2024-06-16 21:30:50",
-                        "comment_score": 5,
+                        "comment_score": 4,
                         "replies": [
                             {
                                 "comment_id": "l8xiyrt",
@@ -1078,55 +914,6 @@
                 "comment_dateTime": "2024-06-17 07:09:07",
                 "comment_score": 0,
                 "replies": []
-            },
-            {
-                "comment_id": "l8wfmoa",
-                "comment_body": "Yeah, I just ordered an iPhone 15 Pro for pickup tomorrow morning. Sucks, but with Greece having a heat wave I can’t risk it, and at least this way I’ll have access to my data even after transferring it. I don’t have to delete my old phone, right? I can use it as a back up, transfer my data and then leave it as is? I’ll have to transfer my airline apps and booking codes.",
-                "comment_author": "olympiaso",
-                "comment_dateTime": "2024-06-16 21:30:50",
-                "comment_score": 5,
-                "replies": [
-                    {
-                        "comment_id": "l8xiyrt",
-                        "comment_body": "Im super sorry about this again but enjoy your new 15!! you could keep your 14 pro as is to transfer data like u mentioned but as long as you already have your stuff backed up, it doesn’t really matter even if it doesn’t even function because I had my old SE gen 2 completely shattered but it was backed up. So when I got a new 15 and went to set it up, the backup was already there to transfer despite my old SE not even being there lol",
-                        "comment_author": "Jacques__ok",
-                        "comment_dateTime": "2024-06-17 01:52:23",
-                        "comment_score": -1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8wrrvx",
-                "comment_body": "They said they would have to replace the hardware too, since it’s glued to the back cover or something. I don’t have apple care, so I ordered a new one for pickup tomorrow :( thank you though!",
-                "comment_author": "olympiaso",
-                "comment_dateTime": "2024-06-16 22:46:05",
-                "comment_score": 2,
-                "replies": []
-            },
-            {
-                "comment_id": "l8zcz7e",
-                "comment_body": "Yeah, thank you! I bought a 15 pro just now.",
-                "comment_author": "olympiaso",
-                "comment_dateTime": "2024-06-17 12:33:16",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8zhmt0",
-                "comment_body": "It was a magsafe case off amazon. Bought one from apple this time, I’m not taking any chances",
-                "comment_author": "olympiaso",
-                "comment_dateTime": "2024-06-17 13:21:08",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8xiyrt",
-                "comment_body": "Im super sorry about this again but enjoy your new 15!! you could keep your 14 pro as is to transfer data like u mentioned but as long as you already have your stuff backed up, it doesn’t really matter even if it doesn’t even function because I had my old SE gen 2 completely shattered but it was backed up. So when I got a new 15 and went to set it up, the backup was already there to transfer despite my old SE not even being there lol",
-                "comment_author": "Jacques__ok",
-                "comment_dateTime": "2024-06-17 01:52:23",
-                "comment_score": -1,
-                "replies": []
             }
         ]
     },
@@ -1155,14 +942,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8w3a4r",
-                "comment_body": "It only has a limited warranty so I still have to pay like £300. How would they know that the damage didn’t occur after I got the insurance out if I waited a couple of months?",
-                "comment_author": "StressedManager",
-                "comment_dateTime": "2024-06-16 20:13:31",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1191,14 +970,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l9266kn",
-                "comment_body": "I restarted it many times but especially in low light conditions, when I touch the shutter button at 1x zoom, it does not take the photo and does not save it to the gallery",
-                "comment_author": "Biglordpanter",
-                "comment_dateTime": "2024-06-17 23:12:45",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1224,7 +995,7 @@
                 "comment_body": "Might be time for an upgrade",
                 "comment_author": "Allxre_",
                 "comment_dateTime": "2024-06-16 20:00:37",
-                "comment_score": 5,
+                "comment_score": 6,
                 "replies": [
                     {
                         "comment_id": "l8w2fsf",
@@ -1268,28 +1039,12 @@
                 "comment_dateTime": "2024-06-17 04:36:16",
                 "comment_score": 1,
                 "replies": []
-            },
-            {
-                "comment_id": "l8w2fsf",
-                "comment_body": "True.",
-                "comment_author": "Educational-Day-937",
-                "comment_dateTime": "2024-06-16 20:08:16",
-                "comment_score": 3,
-                "replies": []
-            },
-            {
-                "comment_id": "l8wsuqg",
-                "comment_body": "i was 1 year old lol ✋",
-                "comment_author": "sakurakymen",
-                "comment_dateTime": "2024-06-16 22:52:48",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "iCloud won’t back up but I have enough space??",
-        "post_score": 3,
+        "post_score": 4,
         "post_id": "1dhavqa",
         "post_url": "https://www.reddit.com/r/iphone/comments/1dhavqa/icloud_wont_back_up_but_i_have_enough_space/",
         "post_numComments": 5,
@@ -1338,57 +1093,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l8x0ogz",
-                "comment_body": "iCloud sync, got it. Still doesn’t fix the problem lol",
-                "comment_author": "Grizzly_treats",
-                "comment_dateTime": "2024-06-16 23:43:10",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8x0srw",
-                        "comment_body": "Because you are using 5gb of free storage, which was generous in 2008 but is not sufficient for anything in 2014",
-                        "comment_author": "dearcomputer",
-                        "comment_dateTime": "2024-06-16 23:43:59",
-                        "comment_score": 1,
-                        "replies": [
-                            {
-                                "comment_id": "l8x5mgt",
-                                "comment_body": "Eh, you’re probably right",
-                                "comment_author": "Grizzly_treats",
-                                "comment_dateTime": "2024-06-17 00:17:18",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8x0srw",
-                "comment_body": "Because you are using 5gb of free storage, which was generous in 2008 but is not sufficient for anything in 2014",
-                "comment_author": "dearcomputer",
-                "comment_dateTime": "2024-06-16 23:43:59",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l8x5mgt",
-                        "comment_body": "Eh, you’re probably right",
-                        "comment_author": "Grizzly_treats",
-                        "comment_dateTime": "2024-06-17 00:17:18",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8x5mgt",
-                "comment_body": "Eh, you’re probably right",
-                "comment_author": "Grizzly_treats",
-                "comment_dateTime": "2024-06-17 00:17:18",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1406,7 +1110,7 @@
                 "comment_body": "Settings > Accessibility > Display&Text > Button shapes OR greyscale\n\n  \nWhy is this being asked daily tho…",
                 "comment_author": "vfl97wob",
                 "comment_dateTime": "2024-06-16 19:32:56",
-                "comment_score": 5,
+                "comment_score": 6,
                 "replies": []
             },
             {
@@ -1436,37 +1140,12 @@
                                 "comment_body": "You’re right, mine doesn’t have highlights. 17.5.1 (21F90) on a 14 Pro",
                                 "comment_author": "HLef",
                                 "comment_dateTime": "2024-06-16 19:26:44",
-                                "comment_score": -2,
+                                "comment_score": -3,
                                 "replies": []
                             }
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l8vv3ei",
-                "comment_body": "Usually isn’t like this, even Apple Support pages have it without the highlight.\n\nhttps://images.app.goo.gl/q138a5WWDXkYLisN6",
-                "comment_author": "anonimakeson",
-                "comment_dateTime": "2024-06-16 19:22:40",
-                "comment_score": 0,
-                "replies": [
-                    {
-                        "comment_id": "l8vvrdr",
-                        "comment_body": "You’re right, mine doesn’t have highlights. 17.5.1 (21F90) on a 14 Pro",
-                        "comment_author": "HLef",
-                        "comment_dateTime": "2024-06-16 19:26:44",
-                        "comment_score": -2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8vvrdr",
-                "comment_body": "You’re right, mine doesn’t have highlights. 17.5.1 (21F90) on a 14 Pro",
-                "comment_author": "HLef",
-                "comment_dateTime": "2024-06-16 19:26:44",
-                "comment_score": -2,
-                "replies": []
             }
         ]
     },
@@ -1552,22 +1231,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8x90zg",
-                "comment_body": "Yes but it's annoying because a lot of things i need face ID for",
-                "comment_author": "Far_Vast_837",
-                "comment_dateTime": "2024-06-17 00:41:11",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8x8z48",
-                "comment_body": "Not at all. It's been working absolutely fine up until now.",
-                "comment_author": "Far_Vast_837",
-                "comment_dateTime": "2024-06-17 00:40:49",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1583,7 +1246,7 @@
     },
     {
         "post_title": "“Find my” person not in people tab anymore but I still see their devices in the items tab",
-        "post_score": 5,
+        "post_score": 4,
         "post_id": "1dhb129",
         "post_url": "https://www.reddit.com/r/iphone/comments/1dhb129/find_my_person_not_in_people_tab_anymore_but_i/",
         "post_numComments": 2,
@@ -1606,14 +1269,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8wd0zs",
-                "comment_body": "Thanks!",
-                "comment_author": "MaraJader",
-                "comment_dateTime": "2024-06-16 21:14:29",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
@@ -1631,14 +1286,14 @@
                 "comment_body": "Go to an Apple Store. The cell service stores are no better than asking your neighbor for help with your phone",
                 "comment_author": "NYChockey14",
                 "comment_dateTime": "2024-06-16 18:12:37",
-                "comment_score": 6,
+                "comment_score": 4,
                 "replies": []
             }
         ]
     },
     {
         "post_title": "How is this screen time possible?",
-        "post_score": 27,
+        "post_score": 29,
         "post_id": "1dhaleu",
         "post_url": "https://i.redd.it/hnuitbhahy6d1.jpeg",
         "post_numComments": 8,
@@ -1650,7 +1305,7 @@
                 "comment_body": "Could be a multitap bug, if you use more than 2 applications, it counts them both",
                 "comment_author": "Electrical_Phrase159",
                 "comment_dateTime": "2024-06-16 18:04:48",
-                "comment_score": 12,
+                "comment_score": 14,
                 "replies": [
                     {
                         "comment_id": "l8vjxxx",
@@ -1664,14 +1319,14 @@
                                 "comment_body": "Yeah IIRC now it count the whole use of all your devices",
                                 "comment_author": "scardracs",
                                 "comment_dateTime": "2024-06-16 18:56:21",
-                                "comment_score": 0,
+                                "comment_score": 1,
                                 "replies": [
                                     {
                                         "comment_id": "l8vr021",
                                         "comment_body": "https://preview.redd.it/iee24yabsy6d1.jpeg?width=1179&format=pjpg&auto=webp&s=f0d01f698a9686b36979496a30d02096e152fb31\n\nAs you can see it is selected “All the devices”",
                                         "comment_author": "scardracs",
                                         "comment_dateTime": "2024-06-16 18:56:58",
-                                        "comment_score": 1,
+                                        "comment_score": 2,
                                         "replies": []
                                     }
                                 ]
@@ -1685,7 +1340,7 @@
                 "comment_body": "thats my summer daily ngl",
                 "comment_author": "mcplayer303",
                 "comment_dateTime": "2024-06-17 01:57:16",
-                "comment_score": 3,
+                "comment_score": 5,
                 "replies": []
             },
             {
@@ -1711,63 +1366,12 @@
                 "comment_dateTime": "2024-06-17 21:27:19",
                 "comment_score": 1,
                 "replies": []
-            },
-            {
-                "comment_id": "l8vjxxx",
-                "comment_body": "I also use my ipad on the side. I never synced icloud but it has my apple ID signed in. Probably that, will check.\n\nNevertheless 28 hours feels like a lot.",
-                "comment_author": "Siddharth-Jain99",
-                "comment_dateTime": "2024-06-16 18:12:11",
-                "comment_score": 4,
-                "replies": [
-                    {
-                        "comment_id": "l8vqwbk",
-                        "comment_body": "Yeah IIRC now it count the whole use of all your devices",
-                        "comment_author": "scardracs",
-                        "comment_dateTime": "2024-06-16 18:56:21",
-                        "comment_score": 0,
-                        "replies": [
-                            {
-                                "comment_id": "l8vr021",
-                                "comment_body": "https://preview.redd.it/iee24yabsy6d1.jpeg?width=1179&format=pjpg&auto=webp&s=f0d01f698a9686b36979496a30d02096e152fb31\n\nAs you can see it is selected “All the devices”",
-                                "comment_author": "scardracs",
-                                "comment_dateTime": "2024-06-16 18:56:58",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8vqwbk",
-                "comment_body": "Yeah IIRC now it count the whole use of all your devices",
-                "comment_author": "scardracs",
-                "comment_dateTime": "2024-06-16 18:56:21",
-                "comment_score": 0,
-                "replies": [
-                    {
-                        "comment_id": "l8vr021",
-                        "comment_body": "https://preview.redd.it/iee24yabsy6d1.jpeg?width=1179&format=pjpg&auto=webp&s=f0d01f698a9686b36979496a30d02096e152fb31\n\nAs you can see it is selected “All the devices”",
-                        "comment_author": "scardracs",
-                        "comment_dateTime": "2024-06-16 18:56:58",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8vr021",
-                "comment_body": "https://preview.redd.it/iee24yabsy6d1.jpeg?width=1179&format=pjpg&auto=webp&s=f0d01f698a9686b36979496a30d02096e152fb31\n\nAs you can see it is selected “All the devices”",
-                "comment_author": "scardracs",
-                "comment_dateTime": "2024-06-16 18:56:58",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "Cannot finish setup?",
-        "post_score": 11,
+        "post_score": 13,
         "post_id": "1dha9vg",
         "post_url": "https://i.redd.it/btx0zm6oey6d1.jpeg",
         "post_numComments": 11,
@@ -1793,7 +1397,7 @@
                                 "comment_body": "Oh if you read the lower part of the screen it says “sign in and upgrade security” that’s why it takes you there\nBut also this is the beta right? r/iosbeta would be better I think",
                                 "comment_author": "22_Black_22",
                                 "comment_dateTime": "2024-06-16 18:33:07",
-                                "comment_score": 4,
+                                "comment_score": 3,
                                 "replies": [
                                     {
                                         "comment_id": "l8vnhc1",
@@ -1860,131 +1464,12 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8vmqn6",
-                "comment_body": "Yeah I have tried leaves me right at where I can see all of my info and devices but nowhere else",
-                "comment_author": "_-_FacetsOfLife-_-",
-                "comment_dateTime": "2024-06-16 18:30:01",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8vn86b",
-                        "comment_body": "Oh if you read the lower part of the screen it says “sign in and upgrade security” that’s why it takes you there\nBut also this is the beta right? r/iosbeta would be better I think",
-                        "comment_author": "22_Black_22",
-                        "comment_dateTime": "2024-06-16 18:33:07",
-                        "comment_score": 4,
-                        "replies": [
-                            {
-                                "comment_id": "l8vnhc1",
-                                "comment_body": "Yeah the thing is I don’t know exactly what it means “upgrade security” i mean my phone can be as protected as it can lol even 2FA is on so not really sure what it means",
-                                "comment_author": "_-_FacetsOfLife-_-",
-                                "comment_dateTime": "2024-06-16 18:34:44",
-                                "comment_score": 2,
-                                "replies": [
-                                    {
-                                        "comment_id": "l8wqkfn",
-                                        "comment_body": "Maybe it refers to stolen device protection?",
-                                        "comment_author": "tthalheim",
-                                        "comment_dateTime": "2024-06-16 22:38:40",
-                                        "comment_score": 1,
-                                        "replies": []
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8zfudb",
-                "comment_body": "Appreciate the help, did not work for me unfortunately. Tried a couple times and still says finish setup",
-                "comment_author": "_-_FacetsOfLife-_-",
-                "comment_dateTime": "2024-06-17 13:03:31",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l91q8mj",
-                        "comment_body": "If it’s still not working try disabling and re-enabling your device passcode",
-                        "comment_author": "Objective_Height_756",
-                        "comment_dateTime": "2024-06-17 21:43:40",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l90jyez",
-                "comment_body": "In case you are out somewhere without wifi and cellular network, it will connect to satellite to help you contact emergency services via call or messages",
-                "comment_author": "PhantomFear_",
-                "comment_dateTime": "2024-06-17 17:46:49",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8vn86b",
-                "comment_body": "Oh if you read the lower part of the screen it says “sign in and upgrade security” that’s why it takes you there\nBut also this is the beta right? r/iosbeta would be better I think",
-                "comment_author": "22_Black_22",
-                "comment_dateTime": "2024-06-16 18:33:07",
-                "comment_score": 4,
-                "replies": [
-                    {
-                        "comment_id": "l8vnhc1",
-                        "comment_body": "Yeah the thing is I don’t know exactly what it means “upgrade security” i mean my phone can be as protected as it can lol even 2FA is on so not really sure what it means",
-                        "comment_author": "_-_FacetsOfLife-_-",
-                        "comment_dateTime": "2024-06-16 18:34:44",
-                        "comment_score": 2,
-                        "replies": [
-                            {
-                                "comment_id": "l8wqkfn",
-                                "comment_body": "Maybe it refers to stolen device protection?",
-                                "comment_author": "tthalheim",
-                                "comment_dateTime": "2024-06-16 22:38:40",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l91q8mj",
-                "comment_body": "If it’s still not working try disabling and re-enabling your device passcode",
-                "comment_author": "Objective_Height_756",
-                "comment_dateTime": "2024-06-17 21:43:40",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8vnhc1",
-                "comment_body": "Yeah the thing is I don’t know exactly what it means “upgrade security” i mean my phone can be as protected as it can lol even 2FA is on so not really sure what it means",
-                "comment_author": "_-_FacetsOfLife-_-",
-                "comment_dateTime": "2024-06-16 18:34:44",
-                "comment_score": 2,
-                "replies": [
-                    {
-                        "comment_id": "l8wqkfn",
-                        "comment_body": "Maybe it refers to stolen device protection?",
-                        "comment_author": "tthalheim",
-                        "comment_dateTime": "2024-06-16 22:38:40",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8wqkfn",
-                "comment_body": "Maybe it refers to stolen device protection?",
-                "comment_author": "tthalheim",
-                "comment_dateTime": "2024-06-16 22:38:40",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "My guided access is blocked.",
-        "post_score": 4,
+        "post_score": 3,
         "post_id": "1dha5ez",
         "post_url": "https://www.reddit.com/r/iphone/comments/1dha5ez/my_guided_access_is_blocked/",
         "post_numComments": 2,
@@ -2007,14 +1492,6 @@
                         "replies": []
                     }
                 ]
-            },
-            {
-                "comment_id": "l8vm7r4",
-                "comment_body": "Yea that’s what I did . Thank you!",
-                "comment_author": "MA-JA-HO",
-                "comment_dateTime": "2024-06-16 18:26:39",
-                "comment_score": 2,
-                "replies": []
             }
         ]
     },
@@ -2079,37 +1556,12 @@
                         ]
                     }
                 ]
-            },
-            {
-                "comment_id": "l90sw90",
-                "comment_body": "How can i do that",
-                "comment_author": "National_King_9534",
-                "comment_dateTime": "2024-06-17 18:37:51",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l91ga1x",
-                        "comment_body": "I'm not entirely sure but I think apple devices work with external monitors via USB-C/Lightning.\nOr maybe you could connect a different apple device and transfer data that way.",
-                        "comment_author": "iPhone_lover2015",
-                        "comment_dateTime": "2024-06-17 20:47:31",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l91ga1x",
-                "comment_body": "I'm not entirely sure but I think apple devices work with external monitors via USB-C/Lightning.\nOr maybe you could connect a different apple device and transfer data that way.",
-                "comment_author": "iPhone_lover2015",
-                "comment_dateTime": "2024-06-17 20:47:31",
-                "comment_score": 1,
-                "replies": []
             }
         ]
     },
     {
         "post_title": "Ghost texts??",
-        "post_score": 235,
+        "post_score": 241,
         "post_id": "1dh7lv7",
         "post_url": "https://www.reddit.com/gallery/1dh7lv7",
         "post_numComments": 36,
@@ -2121,7 +1573,7 @@
                 "comment_body": "It's an SMS. Can't delete them. Mum must have thought deleting it would have removed it from daughter's inbox.",
                 "comment_author": "Acalthu",
                 "comment_dateTime": "2024-06-16 17:58:43",
-                "comment_score": 271,
+                "comment_score": 270,
                 "replies": []
             },
             {
@@ -2129,7 +1581,7 @@
                 "comment_body": "Could have been a text that was sent long ago that was never sent for various reasons but if phone was reset and it sees messages not sent it could try and resend that message.",
                 "comment_author": "walterrrrrerr",
                 "comment_dateTime": "2024-06-16 23:27:38",
-                "comment_score": 87,
+                "comment_score": 93,
                 "replies": [
                     {
                         "comment_id": "l8xx5fx",
@@ -2158,7 +1610,7 @@
                                         "comment_body": "It did. I hold a masters degree in information- and communications technology but I can’t figure out how and why this could happen!",
                                         "comment_author": "LTS81",
                                         "comment_dateTime": "2024-06-17 13:34:24",
-                                        "comment_score": 3,
+                                        "comment_score": 2,
                                         "replies": []
                                     }
                                 ]
@@ -2180,7 +1632,7 @@
                 "comment_body": "The mom sent the text and then deleted it. When you delete texts, it only deletes from one side, not both. \n\nThe mom is either lying, or did it in her a sleep-like state and doesn’t even realize what she did.",
                 "comment_author": "hiimlockedout",
                 "comment_dateTime": "2024-06-16 15:59:05",
-                "comment_score": 244,
+                "comment_score": 245,
                 "replies": []
             },
             {
@@ -2188,14 +1640,14 @@
                 "comment_body": "The „ 🤷🏼‍♀️No idea what you’re talking about“ seems weirdly defensive. I’d write something like „huh?“ „what?“ but not that.",
                 "comment_author": "spadePerfect",
                 "comment_dateTime": "2024-06-16 18:28:04",
-                "comment_score": 137,
+                "comment_score": 134,
                 "replies": [
                     {
                         "comment_id": "l8whknb",
                         "comment_body": "her mom probably cheating",
                         "comment_author": "memevaigod69420",
                         "comment_dateTime": "2024-06-16 21:43:04",
-                        "comment_score": 47,
+                        "comment_score": 45,
                         "replies": [
                             {
                                 "comment_id": "l8wp4q9",
@@ -2217,7 +1669,7 @@
                                         "comment_body": "her mom is cheating on her dad",
                                         "comment_author": "randomdragen7",
                                         "comment_dateTime": "2024-06-17 01:28:47",
-                                        "comment_score": 6,
+                                        "comment_score": 5,
                                         "replies": []
                                     },
                                     {
@@ -2245,7 +1697,7 @@
                         "comment_body": "That’s how my mom texts lol",
                         "comment_author": "turtle_yawnz",
                         "comment_dateTime": "2024-06-17 05:45:33",
-                        "comment_score": 3,
+                        "comment_score": 4,
                         "replies": []
                     }
                 ]
@@ -2271,7 +1723,7 @@
                 "comment_body": "3:23am? Looks like mom was up for…reasons…",
                 "comment_author": "schaudhery",
                 "comment_dateTime": "2024-06-16 23:35:24",
-                "comment_score": 10,
+                "comment_score": 12,
                 "replies": []
             },
             {
@@ -2305,7 +1757,7 @@
                 "comment_body": "The messages sent on the white screenshot don’ match. Someone is playing and messed up the text that’s supposed to be from the receiver.",
                 "comment_author": "snakeryder",
                 "comment_dateTime": "2024-06-16 20:08:52",
-                "comment_score": 15,
+                "comment_score": 13,
                 "replies": []
             },
             {
@@ -2388,262 +1840,6 @@
                 "comment_author": "seven-circles",
                 "comment_dateTime": "2024-06-17 07:38:11",
                 "comment_score": 0,
-                "replies": []
-            },
-            {
-                "comment_id": "l8xx5fx",
-                "comment_body": "This happened to me like a decade ago. Sent an SMS while the recipient had no signal, they got it a week later and of course by then it was completely out of context!",
-                "comment_author": "Entegy",
-                "comment_dateTime": "2024-06-17 03:39:08",
-                "comment_score": 27,
-                "replies": []
-            },
-            {
-                "comment_id": "l8ylodp",
-                "comment_body": "I’ve tried something similar. I was on vacation in Turkey and send a message to a friend that for some reason was never delivered. 3 years later I came back to Turkey and when I got signal on my phone the old text was send…",
-                "comment_author": "LTS81",
-                "comment_dateTime": "2024-06-17 07:09:21",
-                "comment_score": 12,
-                "replies": [
-                    {
-                        "comment_id": "l8zc8q9",
-                        "comment_body": "That didn’t happen",
-                        "comment_author": "Jaime-is-Jamwar",
-                        "comment_dateTime": "2024-06-17 12:25:01",
-                        "comment_score": -5,
-                        "replies": [
-                            {
-                                "comment_id": "l8zj1mc",
-                                "comment_body": "It did. I hold a masters degree in information- and communications technology but I can’t figure out how and why this could happen!",
-                                "comment_author": "LTS81",
-                                "comment_dateTime": "2024-06-17 13:34:24",
-                                "comment_score": 3,
-                                "replies": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "comment_id": "l91x2qn",
-                "comment_body": "Happened to me! I had this ex who with my old phone I had failed texts like: i miss you, i’m done eating, i’m playing baby, where are you? Hey wassup \n\nAnd there were a few of them. Bought a new phone and after successfully migrating everything, the texts migrated and the failed ones started sending on it’s own (also without me noticing)\n\nA day after, the ex started asking why I kept messaging weird stuff..\n\n-they migrated cuz I don’t cleanup my texts (heck I don’t even read most of them)",
-                "comment_author": "Old-Swim-1106",
-                "comment_dateTime": "2024-06-17 22:21:45",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8whknb",
-                "comment_body": "her mom probably cheating",
-                "comment_author": "memevaigod69420",
-                "comment_dateTime": "2024-06-16 21:43:04",
-                "comment_score": 47,
-                "replies": [
-                    {
-                        "comment_id": "l8wp4q9",
-                        "comment_body": "His girlfriends mom is cheating on her?",
-                        "comment_author": "pixeley88",
-                        "comment_dateTime": "2024-06-16 22:29:51",
-                        "comment_score": 12,
-                        "replies": [
-                            {
-                                "comment_id": "l8x0xx5",
-                                "comment_body": "Daughter and lover could have the same name/nickname, the mom might be deleting the conversation to keep it hidden and sent to the wrong person by mistake. I think they might be onto something.",
-                                "comment_author": "troll_right_above_me",
-                                "comment_dateTime": "2024-06-16 23:44:57",
-                                "comment_score": 12,
-                                "replies": []
-                            },
-                            {
-                                "comment_id": "l8xfpua",
-                                "comment_body": "her mom is cheating on her dad",
-                                "comment_author": "randomdragen7",
-                                "comment_dateTime": "2024-06-17 01:28:47",
-                                "comment_score": 6,
-                                "replies": []
-                            },
-                            {
-                                "comment_id": "l8yyz34",
-                                "comment_body": "She replied to the wrong thread. Happens to all of us.",
-                                "comment_author": "AndroTux",
-                                "comment_dateTime": "2024-06-17 09:39:48",
-                                "comment_score": 1,
-                                "replies": []
-                            }
-                        ]
-                    },
-                    {
-                        "comment_id": "l8z3kc4",
-                        "comment_body": "Weirdo",
-                        "comment_author": "gtedvgt",
-                        "comment_dateTime": "2024-06-17 10:38:21",
-                        "comment_score": -2,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8ycw6d",
-                "comment_body": "That’s how my mom texts lol",
-                "comment_author": "turtle_yawnz",
-                "comment_dateTime": "2024-06-17 05:45:33",
-                "comment_score": 3,
-                "replies": []
-            },
-            {
-                "comment_id": "l8xft1k",
-                "comment_body": "seems like you got hacked",
-                "comment_author": "randomdragen7",
-                "comment_dateTime": "2024-06-17 01:29:27",
-                "comment_score": 1,
-                "replies": [
-                    {
-                        "comment_id": "l902som",
-                        "comment_body": "There was no login activity from another country and those messages should appear on my end as well if they were sent from my account in any way, definitely wasn't hacked.",
-                        "comment_author": "Emptied_Full",
-                        "comment_dateTime": "2024-06-17 16:04:09",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8z4xiu",
-                "comment_body": "Of course this person have an iPhone tho.",
-                "comment_author": "Copgirl87",
-                "comment_dateTime": "2024-06-17 10:55:42",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8yoiws",
-                "comment_body": "It’s the other person’s phone",
-                "comment_author": "seven-circles",
-                "comment_dateTime": "2024-06-17 07:39:11",
-                "comment_score": 0,
-                "replies": []
-            },
-            {
-                "comment_id": "l8vwn5k",
-                "comment_body": "r/lostredditors",
-                "comment_author": "OctoSplattyy",
-                "comment_dateTime": "2024-06-16 19:32:10",
-                "comment_score": 15,
-                "replies": [
-                    {
-                        "comment_id": "l8vx769",
-                        "comment_body": "I clicked the link that shit is funny",
-                        "comment_author": "Bhut_Jolokia400",
-                        "comment_dateTime": "2024-06-16 19:35:36",
-                        "comment_score": 0,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8zc8q9",
-                "comment_body": "That didn’t happen",
-                "comment_author": "Jaime-is-Jamwar",
-                "comment_dateTime": "2024-06-17 12:25:01",
-                "comment_score": -5,
-                "replies": [
-                    {
-                        "comment_id": "l8zj1mc",
-                        "comment_body": "It did. I hold a masters degree in information- and communications technology but I can’t figure out how and why this could happen!",
-                        "comment_author": "LTS81",
-                        "comment_dateTime": "2024-06-17 13:34:24",
-                        "comment_score": 3,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8wp4q9",
-                "comment_body": "His girlfriends mom is cheating on her?",
-                "comment_author": "pixeley88",
-                "comment_dateTime": "2024-06-16 22:29:51",
-                "comment_score": 12,
-                "replies": [
-                    {
-                        "comment_id": "l8x0xx5",
-                        "comment_body": "Daughter and lover could have the same name/nickname, the mom might be deleting the conversation to keep it hidden and sent to the wrong person by mistake. I think they might be onto something.",
-                        "comment_author": "troll_right_above_me",
-                        "comment_dateTime": "2024-06-16 23:44:57",
-                        "comment_score": 12,
-                        "replies": []
-                    },
-                    {
-                        "comment_id": "l8xfpua",
-                        "comment_body": "her mom is cheating on her dad",
-                        "comment_author": "randomdragen7",
-                        "comment_dateTime": "2024-06-17 01:28:47",
-                        "comment_score": 6,
-                        "replies": []
-                    },
-                    {
-                        "comment_id": "l8yyz34",
-                        "comment_body": "She replied to the wrong thread. Happens to all of us.",
-                        "comment_author": "AndroTux",
-                        "comment_dateTime": "2024-06-17 09:39:48",
-                        "comment_score": 1,
-                        "replies": []
-                    }
-                ]
-            },
-            {
-                "comment_id": "l8z3kc4",
-                "comment_body": "Weirdo",
-                "comment_author": "gtedvgt",
-                "comment_dateTime": "2024-06-17 10:38:21",
-                "comment_score": -2,
-                "replies": []
-            },
-            {
-                "comment_id": "l902som",
-                "comment_body": "There was no login activity from another country and those messages should appear on my end as well if they were sent from my account in any way, definitely wasn't hacked.",
-                "comment_author": "Emptied_Full",
-                "comment_dateTime": "2024-06-17 16:04:09",
-                "comment_score": 1,
-                "replies": []
-            },
-            {
-                "comment_id": "l8vx769",
-                "comment_body": "I clicked the link that shit is funny",
-                "comment_author": "Bhut_Jolokia400",
-                "comment_dateTime": "2024-06-16 19:35:36",
-                "comment_score": 0,
-                "replies": []
-            },
-            {
-                "comment_id": "l8zj1mc",
-                "comment_body": "It did. I hold a masters degree in information- and communications technology but I can’t figure out how and why this could happen!",
-                "comment_author": "LTS81",
-                "comment_dateTime": "2024-06-17 13:34:24",
-                "comment_score": 3,
-                "replies": []
-            },
-            {
-                "comment_id": "l8x0xx5",
-                "comment_body": "Daughter and lover could have the same name/nickname, the mom might be deleting the conversation to keep it hidden and sent to the wrong person by mistake. I think they might be onto something.",
-                "comment_author": "troll_right_above_me",
-                "comment_dateTime": "2024-06-16 23:44:57",
-                "comment_score": 12,
-                "replies": []
-            },
-            {
-                "comment_id": "l8xfpua",
-                "comment_body": "her mom is cheating on her dad",
-                "comment_author": "randomdragen7",
-                "comment_dateTime": "2024-06-17 01:28:47",
-                "comment_score": 6,
-                "replies": []
-            },
-            {
-                "comment_id": "l8yyz34",
-                "comment_body": "She replied to the wrong thread. Happens to all of us.",
-                "comment_author": "AndroTux",
-                "comment_dateTime": "2024-06-17 09:39:48",
-                "comment_score": 1,
                 "replies": []
             }
         ]
