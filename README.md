@@ -1,7 +1,7 @@
 # K-GBT
 ## A Knowledge Graph Based Troubleshooter
 
-<img style='height: 50%; width: 50%; object-fit: contain' src="complete_graph.png" align="center">
+<img style='height: 30%; width: 30%; object-fit: contain' src="complete_graph.png" align="center">
 
 Repository containing the code for the Business and Project Managment Project
 
