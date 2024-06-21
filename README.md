@@ -1,4 +1,5 @@
 # K-GBT
+##### Repository containing the code for the Business and Project Managment course, University of Pisa
 
 <img style='height: 30%; width: 30%; object-fit: contain' src="complete_graph.png" align="center">
 
@@ -22,6 +23,5 @@ The last step of this work consisted in visually analyze the most relevant subgr
 by the huge Knowledge Graph and studying the behaviour of the r/iPhone community looking
 at the most relevant graph metrics for this use-case.
 
-#### Repository containing the code for the Business and Project Managment Project
 
 ### Author: Lorenzo Ceccanti
