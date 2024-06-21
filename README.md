@@ -20,8 +20,7 @@ recent open-source Large Language Model released by Meta in April 2024, played a
 role because it was able to extract knowledge from raw JSON documents (the output of the
 crawler collecting posts on Reddit).
 The last step of this work consisted in visually analyze the most relevant subgraphs extracted
-by the huge Knowledge Graph and studying the behaviour of the r/iPhone community looking
-at the most relevant graph metrics for this use-case.
+by the huge Knowledge Graph and studying the behaviour of the r/iPhone community.
 
 
 ### Author: Lorenzo Ceccanti
