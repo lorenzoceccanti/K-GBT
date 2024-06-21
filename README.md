@@ -1,5 +1,5 @@
 # K-GBT
-##### Repository containing the code for the Business and Project Managment course, University of Pisa
+#### Repository containing the code for the Business and Project Managment course, University of Pisa
 
 <img style='height: 30%; width: 30%; object-fit: contain' src="complete_graph.png" align="center">
 
