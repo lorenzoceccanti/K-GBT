@@ -1,0 +1,14 @@
+{
+    "url": "https://www.reddit.com/r/iphone/comments/1de6a9p/weird_opaque_cursor_stuck_on_my_screen_disabling/",
+    "score": 2,
+    "numComents": 2,
+    "problem": "Phone screen stuck on",
+    "causes": [
+        "PS5 controller touchpad",
+        "Bluetooth device"
+    ],
+    "solutions": [
+        "Disconnect Bluetooth device",
+        "Turn on Airplane mode."
+    ]
+}

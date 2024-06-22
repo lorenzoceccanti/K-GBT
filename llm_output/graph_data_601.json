@@ -1,0 +1,13 @@
+{
+    "url": "https://www.reddit.com/r/iphone/comments/1de6075/find_my_only_show_my_phone_in_location_sharing/",
+    "score": 2,
+    "numComents": 2,
+    "problem": "iPhone location sharing",
+    "causes": [
+        "app settings",
+        "phone locked/locked out"
+    ],
+    "solutions": [
+        "manual contact addition."
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "url": "https://www.reddit.com/r/iphone/comments/1de5lcu/iphone_6s_with_broken_home_button_disabled/",
+    "score": 1,
+    "numComents": 5,
+    "problem": "iPhone stuck in disabled state",
+    "causes": [
+        "Incorrect password",
+        "Broken home button"
+    ],
+    "solutions": [
+        "Assistive Touch",
+        "Restore iPhone."
+    ]
+}

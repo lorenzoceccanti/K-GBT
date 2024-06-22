@@ -1,0 +1,15 @@
+{
+    "url": "https://www.reddit.com/r/iphone/comments/1de58lt/iphone_14_base_model_glitching/",
+    "score": 0,
+    "numComents": 0,
+    "problem": "Camera failure, Face ID malfunction, slow screen refresh, disconnection of AirPods",
+    "causes": [
+        "Software glitch",
+        "hardware issue"
+    ],
+    "solutions": [
+        "Update iOS",
+        "replace camera module",
+        "reset network settings."
+    ]
+}
