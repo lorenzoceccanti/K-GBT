@@ -15,10 +15,11 @@ network similar to Twitter created in 2005.
 In the r/iPhone Reddit community, users are very prepared to solve other user’s issues, even
 before Apple releases official troubleshooting steps. For this reason, in addition to collect the
 main problems, I was able to extract from the posts and comments also what are the main
-causes of such problems and the solutions to them. In this phase LLAMA3, one of the most
+causes of such problems and the solutions to them. In this phase Llama3, one of the most
 recent open-source Large Language Model released by Meta in April 2024, played an important
 role because it was able to extract knowledge from raw JSON documents (the output of the
-crawler collecting posts on Reddit).
+crawler collecting posts on Reddit). The output of the LLM is then used to build a Knowledge
+Graph.
 The last step of this work consisted in visually analyze the most relevant subgraphs extracted
 by the huge Knowledge Graph and studying the behaviour of the r/iPhone community.
 
