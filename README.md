@@ -1,7 +1,7 @@
 # K-GBT
 #### Repository containing the code for the Business and Project Managment course, University of Pisa
 
-<img style='height: 30%; width: 30%; object-fit: contain' src="architecture.png" align="center">
+<img style='height: 50%; width: 50%; object-fit: contain' src="architecture.png">
 
 ## A Knowledge Graph Based Troubleshooter
 The goal of this project is to present a system, K-GBT (a Knowledge Graph Based Troubleshooter),
