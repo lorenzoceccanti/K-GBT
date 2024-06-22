@@ -1,0 +1,16 @@
+{
+    "url": "https://i.redd.it/xgerj8hc3a7d1.jpeg",
+    "score": 0,
+    "numComents": 6,
+    "problem": "Change date and time",
+    "causes": [
+        "Screen Time",
+        "Restrictions",
+        "Sim Card"
+    ],
+    "solutions": [
+        "Disable Screen Time",
+        "Remove Restrictions",
+        "Try removing SIM card."
+    ]
+}

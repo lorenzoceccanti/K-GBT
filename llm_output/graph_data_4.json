@@ -1,0 +1,14 @@
+{
+    "url": "https://www.reddit.com/r/iphone/comments/1dijjtg/my_iphone_14_only_charges_when_powered_off/",
+    "score": 1,
+    "numComents": 3,
+    "problem": "iPhone 14 charging issue",
+    "causes": [
+        "Battery health",
+        "Charger/Cable problem"
+    ],
+    "solutions": [
+        "Check battery health",
+        "Try different charger/cable."
+    ]
+}

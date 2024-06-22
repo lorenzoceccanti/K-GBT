@@ -1,0 +1,14 @@
+{
+    "url": "https://www.reddit.com/r/iphone/comments/1dijy2w/iphone_crashes_when_clicking_airplay_button/",
+    "score": 1,
+    "numComents": 0,
+    "problem": "iPhone crashes when clicking AirPlay",
+    "causes": [
+        "Software bug",
+        "Apple Music issue"
+    ],
+    "solutions": [
+        "Force close Apple Music app",
+        "Update iOS version."
+    ]
+}
