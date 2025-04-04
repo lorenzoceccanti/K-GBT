@@ -60,6 +60,6 @@ The JSON structure is as follows:
                 ]
             }
         ]
-}
+    }
 ]
  ```
